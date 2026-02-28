@@ -13520,6 +13520,26 @@
         "VLR_NOTA_CONFIRMADA":19250.46
     },
     {
+        "NUNOTA_PEDIDO":323328,
+        "NUNOTA_VENDA":324570,
+        "DTREGISTRO":"28022026 08:53:04",
+        "CODPROD":9963,
+        "DESCRPROD":"ERVA DOCE PC 15G SADIO",
+        "CODWCP":13,
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "CODPARC":453,
+        "NOMEPARC":"REDE MAIS ROSA DOS VENTOS",
+        "APELIDO":"PAULINO.RN",
+        "PEDIDO_PENDENTE":"Não",
+        "QTD_PEDIDO_CX":1,
+        "QTD_CORTE_CX":1,
+        "VLR_PEDIDO_TOTAL":37.2,
+        "PREJUIZO_CORTE":1.55,
+        "PERC_CORTE_ITEM":4.17,
+        "DTFATUR":"27022026 14:31:58",
+        "VLR_NOTA_CONFIRMADA":2451.36
+    },
+    {
         "NUNOTA_PEDIDO":323961,
         "NUNOTA_VENDA":324625,
         "DTREGISTRO":"27022026 16:17:31",
