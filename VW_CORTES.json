@@ -14440,6 +14440,26 @@
         "VLR_NOTA_CONFIRMADA":4297.58
     },
     {
+        "NUNOTA_PEDIDO":323399,
+        "NUNOTA_VENDA":324861,
+        "DTREGISTRO":"28022026 09:32:34",
+        "CODPROD":30,
+        "DESCRPROD":"PURO ALHO 440G SADIO",
+        "CODWCP":7,
+        "LINHA":"PURO ALHO 200-440-1000-2000 1",
+        "CODPARC":687,
+        "NOMEPARC":"SHOW DE PREÇO LJ 02",
+        "APELIDO":"TALITA.RN",
+        "PEDIDO_PENDENTE":"Sim",
+        "QTD_PEDIDO_CX":2,
+        "QTD_CORTE_CX":2,
+        "VLR_PEDIDO_TOTAL":185.52,
+        "PREJUIZO_CORTE":15.46,
+        "PERC_CORTE_ITEM":8.33,
+        "DTFATUR":"28022026 08:33:44",
+        "VLR_NOTA_CONFIRMADA":535.68
+    },
+    {
         "NUNOTA_PEDIDO":323398,
         "NUNOTA_VENDA":324862,
         "DTREGISTRO":"28022026 09:09:22",
