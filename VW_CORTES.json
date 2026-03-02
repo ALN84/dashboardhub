@@ -13270,7 +13270,7 @@
         "CODPARC":3532,
         "NOMEPARC":"M E J COMERCIO VAREJISTA PATOS",
         "APELIDO":"FERNANDO.PB",
-        "PEDIDO_PENDENTE":"Sim",
+        "PEDIDO_PENDENTE":"Não",
         "QTD_PEDIDO_CX":50,
         "QTD_CORTE_CX":50,
         "VLR_PEDIDO_TOTAL":1440.0,
