@@ -19305,7 +19305,7 @@
         "QUARTA":null,
         "QUINTA":null,
         "SEXTA":null,
-        "SABADO":null,
+        "SABADO":90.0,
         "DOMINGO":null,
         "SEQ":null,
         "QTDAPONTADA":0,
