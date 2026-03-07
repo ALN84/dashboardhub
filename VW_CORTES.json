@@ -12190,7 +12190,7 @@
         "CODPARC":959,
         "NOMEPARC":"NARCIZO DISTRIBUIDORA",
         "APELIDO":"FERNANDO.PB",
-        "PEDIDO_PENDENTE":"Sim",
+        "PEDIDO_PENDENTE":"Não",
         "QTD_PEDIDO_CX":5,
         "QTD_CORTE_CX":5,
         "VLR_PEDIDO_TOTAL":330.0,
