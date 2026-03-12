@@ -100,26 +100,6 @@
         "VLR_NOTA_CONFIRMADA":6910.88
     },
     {
-        "NUNOTA_PEDIDO":300983,
-        "NUNOTA_VENDA":301117,
-        "DTREGISTRO":"12122025 11:41:24",
-        "CODPROD":8145,
-        "DESCRPROD":"MOLHO SHOYU 750ML SADIO",
-        "CODWCP":9,
-        "LINHA":"CATCHUP 750-800-830",
-        "CODPARC":2729,
-        "NOMEPARC":"ASSAI IGUATU CE LJ 171",
-        "APELIDO":"CLOVIS.CE",
-        "PEDIDO_PENDENTE":"Não",
-        "QTD_PEDIDO_CX":40,
-        "QTD_CORTE_CX":40,
-        "VLR_PEDIDO_TOTAL":2697.6,
-        "PREJUIZO_CORTE":224.8,
-        "PERC_CORTE_ITEM":8.33,
-        "DTFATUR":"12122025 11:40:51",
-        "VLR_NOTA_CONFIRMADA":28162.8
-    },
-    {
         "NUNOTA_PEDIDO":300821,
         "NUNOTA_VENDA":301337,
         "DTREGISTRO":"15122025 09:07:30",
