@@ -2688,10 +2688,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
         "SALDO":0,
-        "CUSTO":40.56,
+        "CUSTO":20.28,
         "DTNEG":"19122025 00:00:00"
     },
     {
@@ -5702,10 +5702,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
         "SALDO":0,
-        "CUSTO":40.56,
+        "CUSTO":20.28,
         "DTNEG":"20122025 00:00:00"
     },
     {
@@ -8716,10 +8716,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
         "SALDO":0,
-        "CUSTO":40.56,
+        "CUSTO":20.28,
         "DTNEG":"22122025 00:00:00"
     },
     {
@@ -11730,10 +11730,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":16,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":32,
+        "CUSTO":20.28,
         "DTNEG":"23122025 00:00:00"
     },
     {
@@ -14744,10 +14744,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"24122025 00:00:00"
     },
     {
@@ -17758,10 +17758,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"29122025 00:00:00"
     },
     {
@@ -20772,10 +20772,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"30122025 00:00:00"
     },
     {
@@ -23786,10 +23786,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"31122025 00:00:00"
     },
     {
@@ -26800,10 +26800,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"01012026 00:00:00"
     },
     {
@@ -29814,10 +29814,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"05012026 00:00:00"
     },
     {
@@ -32828,10 +32828,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"06012026 00:00:00"
     },
     {
@@ -35842,10 +35842,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"07012026 00:00:00"
     },
     {
@@ -38856,10 +38856,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"08012026 00:00:00"
     },
     {
@@ -41870,10 +41870,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"09012026 00:00:00"
     },
     {
@@ -44884,10 +44884,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"10012026 00:00:00"
     },
     {
@@ -47898,10 +47898,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"11012026 00:00:00"
     },
     {
@@ -50912,10 +50912,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"12012026 00:00:00"
     },
     {
@@ -53926,10 +53926,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"13012026 00:00:00"
     },
     {
@@ -56940,10 +56940,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"14012026 00:00:00"
     },
     {
@@ -59954,10 +59954,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"15012026 00:00:00"
     },
     {
@@ -62968,10 +62968,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"16012026 00:00:00"
     },
     {
@@ -65982,10 +65982,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"17012026 00:00:00"
     },
     {
@@ -68996,10 +68996,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"19012026 00:00:00"
     },
     {
@@ -72010,10 +72010,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"20012026 00:00:00"
     },
     {
@@ -75024,10 +75024,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"21012026 00:00:00"
     },
     {
@@ -78038,10 +78038,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"22012026 00:00:00"
     },
     {
@@ -81052,10 +81052,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"23012026 00:00:00"
     },
     {
@@ -84066,10 +84066,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"26012026 00:00:00"
     },
     {
@@ -87080,10 +87080,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"27012026 00:00:00"
     },
     {
@@ -90094,10 +90094,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"28012026 00:00:00"
     },
     {
@@ -93108,10 +93108,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"29012026 00:00:00"
     },
     {
@@ -96122,10 +96122,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"30012026 00:00:00"
     },
     {
@@ -99136,10 +99136,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"31012026 00:00:00"
     },
     {
@@ -102150,10 +102150,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"01022026 00:00:00"
     },
     {
@@ -105164,10 +105164,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"02022026 00:00:00"
     },
     {
@@ -108178,10 +108178,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"03022026 00:00:00"
     },
     {
@@ -111192,10 +111192,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"04022026 00:00:00"
     },
     {
@@ -114206,10 +114206,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"05022026 00:00:00"
     },
     {
@@ -117220,10 +117220,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"06022026 00:00:00"
     },
     {
@@ -120234,10 +120234,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"07022026 00:00:00"
     },
     {
@@ -123248,10 +123248,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"09022026 00:00:00"
     },
     {
@@ -126262,10 +126262,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"10022026 00:00:00"
     },
     {
@@ -129276,10 +129276,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"11022026 00:00:00"
     },
     {
@@ -132290,10 +132290,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"12022026 00:00:00"
     },
     {
@@ -135304,10 +135304,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"13022026 00:00:00"
     },
     {
@@ -138318,10 +138318,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"14022026 00:00:00"
     },
     {
@@ -141332,10 +141332,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"17022026 00:00:00"
     },
     {
@@ -144346,10 +144346,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"18022026 00:00:00"
     },
     {
@@ -147360,10 +147360,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"19022026 00:00:00"
     },
     {
@@ -150374,10 +150374,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"20022026 00:00:00"
     },
     {
@@ -153388,10 +153388,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"21022026 00:00:00"
     },
     {
@@ -156402,10 +156402,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"23022026 00:00:00"
     },
     {
@@ -159416,10 +159416,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"24022026 00:00:00"
     },
     {
@@ -162430,10 +162430,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"25022026 00:00:00"
     },
     {
@@ -165444,10 +165444,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"26022026 00:00:00"
     },
     {
@@ -168458,10 +168458,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"27022026 00:00:00"
     },
     {
@@ -171472,10 +171472,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"28022026 00:00:00"
     },
     {
@@ -174486,10 +174486,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"01032026 00:00:00"
     },
     {
@@ -177500,10 +177500,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"02032026 00:00:00"
     },
     {
@@ -180514,10 +180514,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"03032026 00:00:00"
     },
     {
@@ -183528,10 +183528,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"04032026 00:00:00"
     },
     {
@@ -186542,10 +186542,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"05032026 00:00:00"
     },
     {
@@ -189556,10 +189556,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"06032026 00:00:00"
     },
     {
@@ -192570,10 +192570,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
-        "SALDO":6,
-        "CUSTO":40.56,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":12,
+        "CUSTO":20.28,
         "DTNEG":"07032026 00:00:00"
     },
     {
@@ -195584,10 +195584,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
         "SALDO":0,
-        "CUSTO":40.56,
+        "CUSTO":20.28,
         "DTNEG":"09032026 00:00:00"
     },
     {
@@ -198598,10 +198598,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
         "SALDO":0,
-        "CUSTO":40.56,
+        "CUSTO":20.28,
         "DTNEG":"10032026 00:00:00"
     },
     {
@@ -201612,10 +201612,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
         "SALDO":0,
-        "CUSTO":40.56,
+        "CUSTO":20.28,
         "DTNEG":"11032026 00:00:00"
     },
     {
@@ -204626,10 +204626,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
         "SALDO":0,
-        "CUSTO":40.56,
+        "CUSTO":20.28,
         "DTNEG":"12032026 00:00:00"
     },
     {
@@ -207640,10 +207640,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
         "SALDO":0,
-        "CUSTO":40.56,
+        "CUSTO":20.28,
         "DTNEG":"13032026 00:00:00"
     },
     {
@@ -210654,10 +210654,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
         "SALDO":0,
-        "CUSTO":40.56,
+        "CUSTO":20.28,
         "DTNEG":"14032026 00:00:00"
     },
     {
@@ -213668,10 +213668,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
         "SALDO":0,
-        "CUSTO":40.56,
+        "CUSTO":20.28,
         "DTNEG":"16032026 00:00:00"
     },
     {
@@ -216682,10 +216682,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
         "SALDO":0,
-        "CUSTO":40.56,
+        "CUSTO":20.28,
         "DTNEG":"17032026 00:00:00"
     },
     {
@@ -219696,10 +219696,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
         "SALDO":0,
-        "CUSTO":40.56,
+        "CUSTO":20.28,
         "DTNEG":"18032026 00:00:00"
     },
     {
@@ -222710,10 +222710,10 @@
         "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"CONCENTRADO",
-        "ESTMIN":19.0,
-        "ESTMAX":27.0,
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
         "SALDO":0,
-        "CUSTO":40.56,
+        "CUSTO":20.28,
         "DTNEG":"19032026 00:00:00"
     },
     {
