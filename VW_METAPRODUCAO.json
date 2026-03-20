@@ -45681,7 +45681,7 @@
         "QTDPREV":10066,
         "QTDREAL":7498,
         "QTDMETA25":11077,
-        "QTDPROD25":4059
+        "QTDPROD25":4184
     },
     {
         "CODMETA":24,
@@ -45945,7 +45945,7 @@
         "QTDPREV":12293,
         "QTDREAL":20471,
         "QTDMETA25":13527,
-        "QTDPROD25":20184
+        "QTDPROD25":20267
     },
     {
         "CODMETA":24,
@@ -46137,7 +46137,7 @@
         "QTDPREV":3867,
         "QTDREAL":3459,
         "QTDMETA25":4257,
-        "QTDPROD25":3682
+        "QTDPROD25":3883
     },
     {
         "CODMETA":24,
@@ -46533,7 +46533,7 @@
         "QTDPREV":3968,
         "QTDREAL":1979,
         "QTDMETA25":4364,
-        "QTDPROD25":2433
+        "QTDPROD25":2512
     },
     {
         "CODMETA":24,
@@ -46699,9 +46699,9 @@
         "LINHA":"8 - MOLHO DE TOMATE 300 1 & 2",
         "GRUPO":"10100701 - MOLHO DE TOMATE COMBATE",
         "QTDPREV":29608,
-        "QTDREAL":34738,
+        "QTDREAL":34743,
         "QTDMETA25":32569,
-        "QTDPROD25":23493
+        "QTDPROD25":23609
     },
     {
         "CODMETA":24,
@@ -46723,7 +46723,7 @@
         "LINHA":"8 - MOLHO DE TOMATE 300 1 & 2",
         "GRUPO":"10100702 - MOLHO DE TOMATE ESPECIAL",
         "QTDPREV":4234,
-        "QTDREAL":2682,
+        "QTDREAL":2683,
         "QTDMETA25":4657,
         "QTDPROD25":1330
     },
@@ -46833,7 +46833,7 @@
         "QTDPREV":399,
         "QTDREAL":366,
         "QTDMETA25":439,
-        "QTDPROD25":137
+        "QTDPROD25":203
     },
     {
         "CODMETA":24,
@@ -47071,7 +47071,7 @@
         "LINHA":"12 - CANELA 35G PÓ",
         "GRUPO":"10101002 - CANELA POTE AMARELO",
         "QTDPREV":2207,
-        "QTDREAL":1610,
+        "QTDREAL":1611,
         "QTDMETA25":2428,
         "QTDPROD25":1763
     },
@@ -47109,7 +47109,7 @@
         "QTDPREV":135,
         "QTDREAL":65,
         "QTDMETA25":148,
-        "QTDPROD25":0
+        "QTDPROD25":93
     },
     {
         "CODMETA":24,
@@ -47877,7 +47877,7 @@
         "QTDPREV":202,
         "QTDREAL":133,
         "QTDMETA25":204,
-        "QTDPROD25":0
+        "QTDPROD25":10
     },
     {
         "CODMETA":24,
@@ -48105,7 +48105,7 @@
         "QTDPREV":2789,
         "QTDREAL":1378,
         "QTDMETA25":3068,
-        "QTDPROD25":2564
+        "QTDPROD25":2689
     },
     {
         "CODMETA":24,
@@ -48357,7 +48357,7 @@
         "QTDPREV":6404,
         "QTDREAL":5080,
         "QTDMETA25":7045,
-        "QTDPROD25":5231
+        "QTDPROD25":5359
     },
     {
         "CODMETA":24,
@@ -48369,7 +48369,7 @@
         "QTDPREV":417,
         "QTDREAL":197,
         "QTDMETA25":459,
-        "QTDPROD25":429
+        "QTDPROD25":583
     },
     {
         "CODMETA":24,
@@ -48451,7 +48451,7 @@
         "LINHA":"20 - CATCHUP 180-200-380",
         "GRUPO":"10100601 - CATCHUP\/MOST\/BARB 190-200-380",
         "QTDPREV":3174,
-        "QTDREAL":2599,
+        "QTDREAL":2602,
         "QTDMETA25":3505,
         "QTDPROD25":2724
     },
@@ -48465,7 +48465,7 @@
         "QTDPREV":702,
         "QTDREAL":547,
         "QTDMETA25":775,
-        "QTDPROD25":559
+        "QTDPROD25":651
     },
     {
         "CODMETA":24,
