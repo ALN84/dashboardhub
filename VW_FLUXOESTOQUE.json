@@ -220105,7 +220105,7 @@
         "GRUPO":"MOLHO 150",
         "ESTMIN":2092.0,
         "ESTMAX":2989.0,
-        "SALDO":516,
+        "SALDO":768,
         "CUSTO":9.276312,
         "DTNEG":"20032026 00:00:00"
     },
@@ -221260,7 +221260,7 @@
         "GRUPO":"TEMPERO COMBATE 500",
         "ESTMIN":6193.0,
         "ESTMAX":8847.0,
-        "SALDO":2855,
+        "SALDO":2987,
         "CUSTO":5.58288,
         "DTNEG":"20032026 00:00:00"
     },
@@ -221601,7 +221601,7 @@
         "GRUPO":"AZEITONA",
         "ESTMIN":null,
         "ESTMAX":null,
-        "SALDO":555,
+        "SALDO":554,
         "CUSTO":44.939856,
         "DTNEG":"20032026 00:00:00"
     },
