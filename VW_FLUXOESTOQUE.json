@@ -221854,7 +221854,7 @@
         "GRUPO":"CATCHUP\/MOST\/BARB 800-830",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
-        "SALDO":0,
+        "SALDO":15,
         "CUSTO":18.33762,
         "DTNEG":"20032026 00:00:00"
     },
@@ -222030,7 +222030,7 @@
         "GRUPO":"TEMPERO GOURMET MR MAKER",
         "ESTMIN":662.0,
         "ESTMAX":945.0,
-        "SALDO":138,
+        "SALDO":270,
         "CUSTO":8.838708,
         "DTNEG":"20032026 00:00:00"
     },
