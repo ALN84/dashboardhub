@@ -3,18 +3,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"9693 - CHIMICHURRI POTE 90G MR MAKER",
-        "LINHA":"14 - TEMPERO SECO MANUAL 1",
-        "GRUPO":"10101102 - TEMPERO POTE MR MAKER",
-        "QTDPREV":139,
-        "QTDREAL":143,
-        "QTDMETA25":167,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"9650 - TEMPERO GOURMET FRANGO 500G MR MAKER",
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10101101 - TEMPERO GOURMET MR MAKER",
@@ -51,6 +39,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"9693 - CHIMICHURRI POTE 90G MR MAKER",
+        "LINHA":"14 - TEMPERO SECO MANUAL 1",
+        "GRUPO":"10101102 - TEMPERO POTE MR MAKER",
+        "QTDPREV":139,
+        "QTDREAL":143,
+        "QTDMETA25":167,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"9955 - LEMON PEPPER PC 30G SADIO",
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
@@ -58,18 +58,6 @@
         "QTDREAL":410,
         "QTDMETA25":340,
         "QTDPROD25":247
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
-        "PRODUTO":"9960 - TEMPERO COMPLETO PC 20G SADIO",
-        "LINHA":"13 - TEMPERO SECO SACHE 1",
-        "GRUPO":"10101003 - TEMPERO SECO SACHE",
-        "QTDPREV":66,
-        "QTDREAL":56,
-        "QTDMETA25":79,
-        "QTDPROD25":0
     },
     {
         "CODMETA":24,
@@ -111,6 +99,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"9960 - TEMPERO COMPLETO PC 20G SADIO",
+        "LINHA":"13 - TEMPERO SECO SACHE 1",
+        "GRUPO":"10101003 - TEMPERO SECO SACHE",
+        "QTDPREV":66,
+        "QTDREAL":56,
+        "QTDMETA25":79,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"9961 - TEMPERO DO CHEF PC 30G SADIO",
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
@@ -118,18 +118,6 @@
         "QTDREAL":436,
         "QTDMETA25":330,
         "QTDPROD25":445
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
-        "PRODUTO":"9682 - TEMPERO PO ALHO 50G SADIO",
-        "LINHA":"10 - TEMPERO PÓ 1",
-        "GRUPO":"10100400 - TEMPERO EM PO",
-        "QTDPREV":119,
-        "QTDREAL":161,
-        "QTDMETA25":143,
-        "QTDPROD25":0
     },
     {
         "CODMETA":24,
@@ -171,6 +159,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"9682 - TEMPERO PO ALHO 50G SADIO",
+        "LINHA":"10 - TEMPERO PÓ 1",
+        "GRUPO":"10100400 - TEMPERO EM PO",
+        "QTDPREV":119,
+        "QTDREAL":161,
+        "QTDMETA25":143,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"9684 - SAL DE PARRILLA TRADICIONAL 450G MR MAKER",
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101103 - SAL DE PARRILLA MR MAKER",
@@ -178,18 +178,6 @@
         "QTDREAL":106,
         "QTDMETA25":117,
         "QTDPROD25":102
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
-        "PRODUTO":"9890 - DETERGENTE NEUTRO 2L TANLUX",
-        "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
-        "GRUPO":"10200100 - DETERGENTE",
-        "QTDPREV":667,
-        "QTDREAL":566,
-        "QTDMETA25":800,
-        "QTDPROD25":819
     },
     {
         "CODMETA":24,
@@ -231,6 +219,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"9890 - DETERGENTE NEUTRO 2L TANLUX",
+        "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
+        "GRUPO":"10200100 - DETERGENTE",
+        "QTDPREV":667,
+        "QTDREAL":566,
+        "QTDMETA25":800,
+        "QTDPROD25":819
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"9891 - AMACIANTE CONFORT\/CELESTE 2L TANLUX",
         "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
         "GRUPO":"10200300 - AMACIANTE",
@@ -250,18 +250,6 @@
         "QTDREAL":45,
         "QTDMETA25":105,
         "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
-        "PRODUTO":"10016 - MOLHO DE PIMENTA 150ML NORDESTAO",
-        "LINHA":"5 - MOLHINHO 150 1",
-        "GRUPO":"10100301 - MOLHO 150",
-        "QTDPREV":98,
-        "QTDREAL":144,
-        "QTDMETA25":118,
-        "QTDPROD25":243
     },
     {
         "CODMETA":24,
@@ -303,13 +291,13 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"9907 - DESENGRAXANTE DEGREASER CONCENTRADO 5L TANLUX",
-        "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
-        "GRUPO":"10200800 - CONCENTRADO",
-        "QTDPREV":24,
-        "QTDREAL":26,
-        "QTDMETA25":29,
-        "QTDPROD25":0
+        "PRODUTO":"10016 - MOLHO DE PIMENTA 150ML NORDESTAO",
+        "LINHA":"5 - MOLHINHO 150 1",
+        "GRUPO":"10100301 - MOLHO 150",
+        "QTDPREV":98,
+        "QTDREAL":144,
+        "QTDMETA25":118,
+        "QTDPROD25":243
     },
     {
         "CODMETA":24,
@@ -351,6 +339,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"9907 - DESENGRAXANTE DEGREASER CONCENTRADO 5L TANLUX",
+        "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
+        "GRUPO":"10200800 - CONCENTRADO",
+        "QTDPREV":24,
+        "QTDREAL":26,
+        "QTDMETA25":29,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"9909 - DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
         "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"10200800 - CONCENTRADO",
@@ -358,18 +358,6 @@
         "QTDREAL":0,
         "QTDMETA25":0,
         "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
-        "PRODUTO":"9654 - TEMPERO GOURMET CARNES 500G MR MAKER",
-        "LINHA":"3 - TEMPERO 500 1 & 2",
-        "GRUPO":"10101101 - TEMPERO GOURMET MR MAKER",
-        "QTDPREV":597,
-        "QTDREAL":1063,
-        "QTDMETA25":716,
-        "QTDPROD25":449
     },
     {
         "CODMETA":24,
@@ -435,6 +423,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"9654 - TEMPERO GOURMET CARNES 500G MR MAKER",
+        "LINHA":"3 - TEMPERO 500 1 & 2",
+        "GRUPO":"10101101 - TEMPERO GOURMET MR MAKER",
+        "QTDPREV":597,
+        "QTDREAL":1063,
+        "QTDMETA25":716,
+        "QTDPROD25":449
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"9655 - TEMPERO GOURMET ALHO E CEBOLA 500G MR MAKER",
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10101101 - TEMPERO GOURMET MR MAKER",
@@ -459,18 +459,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"9659 - ACUCAR CRISTAL PREMIUM 400\/5G SADIO",
-        "LINHA":"11 - AÇUCAR\/ADOÇANTE PÓ 5-0,5 1",
-        "GRUPO":"10100900 - FOOD SERVICE",
-        "QTDPREV":805,
-        "QTDREAL":778,
-        "QTDMETA25":966,
-        "QTDPROD25":973
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"9657 - ADOCANTE PO STEVIA 400\/0,5G SADIO",
         "LINHA":"11 - AÇUCAR\/ADOÇANTE PÓ 5-0,5 1",
         "GRUPO":"10100900 - FOOD SERVICE",
@@ -478,6 +466,18 @@
         "QTDREAL":0,
         "QTDMETA25":2,
         "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
+        "PRODUTO":"9659 - ACUCAR CRISTAL PREMIUM 400\/5G SADIO",
+        "LINHA":"11 - AÇUCAR\/ADOÇANTE PÓ 5-0,5 1",
+        "GRUPO":"10100900 - FOOD SERVICE",
+        "QTDPREV":805,
+        "QTDREAL":778,
+        "QTDMETA25":966,
+        "QTDPROD25":973
     },
     {
         "CODMETA":24,
@@ -519,18 +519,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"9695 - FLOR DE SAL POTE 180G MR MAKER",
-        "LINHA":"14 - TEMPERO SECO MANUAL 1",
-        "GRUPO":"10101102 - TEMPERO POTE MR MAKER",
-        "QTDPREV":0,
-        "QTDREAL":0,
-        "QTDMETA25":0,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"9664 - TEMPERO PO FEIJAO 50G SADIO",
         "LINHA":"10 - TEMPERO PÓ 1",
         "GRUPO":"10100400 - TEMPERO EM PO",
@@ -567,6 +555,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"9695 - FLOR DE SAL POTE 180G MR MAKER",
+        "LINHA":"14 - TEMPERO SECO MANUAL 1",
+        "GRUPO":"10101102 - TEMPERO POTE MR MAKER",
+        "QTDPREV":0,
+        "QTDREAL":0,
+        "QTDMETA25":0,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"9696 - LEMON PEPPER POTE 130G MR MAKER",
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101102 - TEMPERO POTE MR MAKER",
@@ -579,24 +579,24 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"9900 - DESINFETANTE EUCALIPTO 2L TANLUX",
-        "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
-        "GRUPO":"10200400 - DESINFETANTE",
-        "QTDPREV":152,
-        "QTDREAL":75,
-        "QTDMETA25":182,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"9896 - AMACIANTE FLORAL 5L TANLUX",
         "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"10200700 - INSTITUCIONAL",
         "QTDPREV":163,
         "QTDREAL":100,
         "QTDMETA25":196,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
+        "PRODUTO":"9900 - DESINFETANTE EUCALIPTO 2L TANLUX",
+        "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
+        "GRUPO":"10200400 - DESINFETANTE",
+        "QTDPREV":152,
+        "QTDREAL":75,
+        "QTDMETA25":182,
         "QTDPROD25":0
     },
     {
@@ -639,18 +639,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"9701 - ALHO FRITO POTE 110G MR MAKER",
-        "LINHA":"14 - TEMPERO SECO MANUAL 1",
-        "GRUPO":"10101102 - TEMPERO POTE MR MAKER",
-        "QTDPREV":27,
-        "QTDREAL":27,
-        "QTDMETA25":32,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"9697 - PAPRICA DEFUMADA POTE 110G MR MAKER",
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101102 - TEMPERO POTE MR MAKER",
@@ -681,6 +669,18 @@
         "QTDPREV":13,
         "QTDREAL":10,
         "QTDMETA25":16,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
+        "PRODUTO":"9701 - ALHO FRITO POTE 110G MR MAKER",
+        "LINHA":"14 - TEMPERO SECO MANUAL 1",
+        "GRUPO":"10101102 - TEMPERO POTE MR MAKER",
+        "QTDPREV":27,
+        "QTDREAL":27,
+        "QTDMETA25":32,
         "QTDPROD25":0
     },
     {
@@ -747,18 +747,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"9880 - DETERGENTE LIMAO 500ML TANLUX",
-        "LINHA":"17 - DETERGENTE 500 1",
-        "GRUPO":"10200100 - DETERGENTE",
-        "QTDPREV":3168,
-        "QTDREAL":3659,
-        "QTDMETA25":3802,
-        "QTDPROD25":2281
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"9705 - TEMPERO COMPLETO POTE 90G MR MAKER",
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101102 - TEMPERO POTE MR MAKER",
@@ -795,6 +783,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"9880 - DETERGENTE LIMAO 500ML TANLUX",
+        "LINHA":"17 - DETERGENTE 500 1",
+        "GRUPO":"10200100 - DETERGENTE",
+        "QTDPREV":3168,
+        "QTDREAL":3659,
+        "QTDMETA25":3802,
+        "QTDPROD25":2281
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"9883 - DETERGENTE COCO 500ML TANLUX",
         "LINHA":"17 - DETERGENTE 500 1",
         "GRUPO":"10200100 - DETERGENTE",
@@ -802,18 +802,6 @@
         "QTDREAL":2565,
         "QTDMETA25":2801,
         "QTDPROD25":1971
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
-        "PRODUTO":"9953 - CHIMICHURRI PC 15G SADIO",
-        "LINHA":"13 - TEMPERO SECO SACHE 1",
-        "GRUPO":"10101003 - TEMPERO SECO SACHE",
-        "QTDPREV":241,
-        "QTDREAL":351,
-        "QTDMETA25":290,
-        "QTDPROD25":327
     },
     {
         "CODMETA":24,
@@ -843,6 +831,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"9953 - CHIMICHURRI PC 15G SADIO",
+        "LINHA":"13 - TEMPERO SECO SACHE 1",
+        "GRUPO":"10101003 - TEMPERO SECO SACHE",
+        "QTDPREV":241,
+        "QTDREAL":351,
+        "QTDMETA25":290,
+        "QTDPROD25":327
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"10078 - CEBOLA GRANULADA PC 20G SADIO",
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
@@ -861,18 +861,6 @@
         "QTDPREV":11,
         "QTDREAL":4,
         "QTDMETA25":13,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
-        "PRODUTO":"10516 - DETERGENTE LIMAO 500ML RENDE+",
-        "LINHA":"17 - DETERGENTE 500 1",
-        "GRUPO":"10200100 - DETERGENTE",
-        "QTDPREV":220,
-        "QTDREAL":59,
-        "QTDMETA25":265,
         "QTDPROD25":0
     },
     {
@@ -915,6 +903,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"10516 - DETERGENTE LIMAO 500ML RENDE+",
+        "LINHA":"17 - DETERGENTE 500 1",
+        "GRUPO":"10200100 - DETERGENTE",
+        "QTDPREV":220,
+        "QTDREAL":59,
+        "QTDMETA25":265,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"10517 - DETERGENTE MACA 500ML RENDE+",
         "LINHA":"17 - DETERGENTE 500 1",
         "GRUPO":"10200100 - DETERGENTE",
@@ -922,18 +922,6 @@
         "QTDREAL":63,
         "QTDMETA25":282,
         "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
-        "PRODUTO":"9886 - DETERGENTE MACA 5L TANLUX",
-        "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
-        "GRUPO":"10200700 - INSTITUCIONAL",
-        "QTDPREV":475,
-        "QTDREAL":416,
-        "QTDMETA25":570,
-        "QTDPROD25":401
     },
     {
         "CODMETA":24,
@@ -963,6 +951,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"9886 - DETERGENTE MACA 5L TANLUX",
+        "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
+        "GRUPO":"10200700 - INSTITUCIONAL",
+        "QTDPREV":475,
+        "QTDREAL":416,
+        "QTDMETA25":570,
+        "QTDPROD25":401
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"9894 - AMACIANTE HARMONIA 2L TANLUX",
         "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
         "GRUPO":"10200300 - AMACIANTE",
@@ -970,18 +970,6 @@
         "QTDREAL":9,
         "QTDMETA25":44,
         "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
-        "PRODUTO":"10019 - VINAGRE DE ALCOOL 500ML NORDESTAO",
-        "LINHA":"1 - VINAGRE 500 1",
-        "GRUPO":"10100101 - VINAGRE TRADICIONAL 500\/750",
-        "QTDPREV":475,
-        "QTDREAL":1760,
-        "QTDMETA25":570,
-        "QTDPROD25":1199
     },
     {
         "CODMETA":24,
@@ -1047,12 +1035,36 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"10019 - VINAGRE DE ALCOOL 500ML NORDESTAO",
+        "LINHA":"1 - VINAGRE 500 1",
+        "GRUPO":"10100101 - VINAGRE TRADICIONAL 500\/750",
+        "QTDPREV":475,
+        "QTDREAL":1760,
+        "QTDMETA25":570,
+        "QTDPROD25":1199
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"10020 - TEMPERO COMPLETO 500G NORDESTAO",
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10100202 - TEMPERO COMBATE 500",
         "QTDPREV":55,
         "QTDREAL":45,
         "QTDMETA25":66,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
+        "PRODUTO":"10073 - HIBISCO PC 7G SADIO",
+        "LINHA":"13 - TEMPERO SECO SACHE 1",
+        "GRUPO":"10101003 - TEMPERO SECO SACHE",
+        "QTDPREV":16,
+        "QTDREAL":3,
+        "QTDMETA25":19,
         "QTDPROD25":0
     },
     {
@@ -1077,30 +1089,6 @@
         "QTDPREV":39,
         "QTDREAL":21,
         "QTDMETA25":47,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
-        "PRODUTO":"10073 - HIBISCO PC 7G SADIO",
-        "LINHA":"13 - TEMPERO SECO SACHE 1",
-        "GRUPO":"10101003 - TEMPERO SECO SACHE",
-        "QTDPREV":16,
-        "QTDREAL":3,
-        "QTDMETA25":19,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
-        "PRODUTO":"9095 - CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"9 - CATCHUP 750-800-830",
-        "GRUPO":"10100900 - FOOD SERVICE",
-        "QTDPREV":93,
-        "QTDREAL":299,
-        "QTDMETA25":112,
         "QTDPROD25":0
     },
     {
@@ -1143,13 +1131,13 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"9882 - DETERGENTE NEUTRO 500ML TANLUX",
-        "LINHA":"17 - DETERGENTE 500 1",
-        "GRUPO":"10200100 - DETERGENTE",
-        "QTDPREV":4733,
-        "QTDREAL":4860,
-        "QTDMETA25":5680,
-        "QTDPROD25":3695
+        "PRODUTO":"9095 - CATCHUP TRADICIONAL 3,2KG FRINEX",
+        "LINHA":"9 - CATCHUP 750-800-830",
+        "GRUPO":"10100900 - FOOD SERVICE",
+        "QTDPREV":93,
+        "QTDREAL":299,
+        "QTDMETA25":112,
+        "QTDPROD25":0
     },
     {
         "CODMETA":24,
@@ -1186,6 +1174,18 @@
         "QTDREAL":3829,
         "QTDMETA25":4017,
         "QTDPROD25":2178
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
+        "PRODUTO":"9882 - DETERGENTE NEUTRO 500ML TANLUX",
+        "LINHA":"17 - DETERGENTE 500 1",
+        "GRUPO":"10200100 - DETERGENTE",
+        "QTDPREV":4733,
+        "QTDREAL":4860,
+        "QTDMETA25":5680,
+        "QTDPROD25":3695
     },
     {
         "CODMETA":24,
@@ -1371,18 +1371,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"3337 - LOURO PC 4G SADIO",
-        "LINHA":"14 - TEMPERO SECO MANUAL 1",
-        "GRUPO":"10101003 - TEMPERO SECO SACHE",
-        "QTDPREV":555,
-        "QTDREAL":306,
-        "QTDMETA25":666,
-        "QTDPROD25":50
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"3179 - PASTA DE ALHO 200G LETO",
         "LINHA":"7 - PURO ALHO 200-440-1000-2000 1",
         "GRUPO":"10100500 - PASTA DE ALHO",
@@ -1414,6 +1402,18 @@
         "QTDREAL":113,
         "QTDMETA25":178,
         "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
+        "PRODUTO":"3337 - LOURO PC 4G SADIO",
+        "LINHA":"14 - TEMPERO SECO MANUAL 1",
+        "GRUPO":"10101003 - TEMPERO SECO SACHE",
+        "QTDPREV":555,
+        "QTDREAL":306,
+        "QTDMETA25":666,
+        "QTDPROD25":50
     },
     {
         "CODMETA":24,
@@ -1455,18 +1455,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"3349 - PIMENTA PRETA MOIDA PC 40G SADIO",
-        "LINHA":"13 - TEMPERO SECO SACHE 1",
-        "GRUPO":"10101003 - TEMPERO SECO SACHE",
-        "QTDPREV":267,
-        "QTDREAL":267,
-        "QTDMETA25":321,
-        "QTDPROD25":144
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"3339 - CRAVO PC 10G SADIO",
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
@@ -1503,6 +1491,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"3349 - PIMENTA PRETA MOIDA PC 40G SADIO",
+        "LINHA":"13 - TEMPERO SECO SACHE 1",
+        "GRUPO":"10101003 - TEMPERO SECO SACHE",
+        "QTDPREV":267,
+        "QTDREAL":267,
+        "QTDMETA25":321,
+        "QTDPROD25":144
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"3359 - OREGANO FR 15G SADIO",
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101001 - TEMPERO SECO FRASCO PET",
@@ -1521,18 +1521,6 @@
         "QTDPREV":22,
         "QTDREAL":8,
         "QTDMETA25":26,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
-        "PRODUTO":"7284 - CONDIMENTOS COM VINAGRE 500ML SADIO",
-        "LINHA":"1 - VINAGRE 500 1",
-        "GRUPO":"10100102 - VINAGRE SABOR 500",
-        "QTDPREV":6,
-        "QTDREAL":0,
-        "QTDMETA25":7,
         "QTDPROD25":0
     },
     {
@@ -1558,6 +1546,18 @@
         "QTDREAL":761,
         "QTDMETA25":700,
         "QTDPROD25":781
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
+        "PRODUTO":"7284 - CONDIMENTOS COM VINAGRE 500ML SADIO",
+        "LINHA":"1 - VINAGRE 500 1",
+        "GRUPO":"10100102 - VINAGRE SABOR 500",
+        "QTDPREV":6,
+        "QTDREAL":0,
+        "QTDMETA25":7,
+        "QTDPROD25":0
     },
     {
         "CODMETA":24,
@@ -1599,18 +1599,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"7281 - VINAGRE DE ALCOOL LIMAO 500ML SADIO",
-        "LINHA":"1 - VINAGRE 500 1",
-        "GRUPO":"10100102 - VINAGRE SABOR 500",
-        "QTDPREV":2007,
-        "QTDREAL":2246,
-        "QTDMETA25":2409,
-        "QTDPROD25":277
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"7278 - PASTA DE ALHO 440G LETO",
         "LINHA":"7 - PURO ALHO 200-440-1000-2000 1",
         "GRUPO":"10100500 - PASTA DE ALHO",
@@ -1623,6 +1611,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"7281 - VINAGRE DE ALCOOL LIMAO 500ML SADIO",
+        "LINHA":"1 - VINAGRE 500 1",
+        "GRUPO":"10100102 - VINAGRE SABOR 500",
+        "QTDPREV":2007,
+        "QTDREAL":2246,
+        "QTDMETA25":2409,
+        "QTDPROD25":277
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"7282 - VINAGRE DE ALCOOL MACA 500ML SADIO",
         "LINHA":"1 - VINAGRE 500 1",
         "GRUPO":"10100102 - VINAGRE SABOR 500",
@@ -1630,18 +1630,6 @@
         "QTDREAL":4914,
         "QTDMETA25":5264,
         "QTDPROD25":4843
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
-        "PRODUTO":"80 - MOLHO INGLES 500ML SADIO",
-        "LINHA":"3 - TEMPERO 500 1 & 2",
-        "GRUPO":"10100302 - MOLHO 500",
-        "QTDPREV":468,
-        "QTDREAL":401,
-        "QTDMETA25":562,
-        "QTDPROD25":435
     },
     {
         "CODMETA":24,
@@ -1666,6 +1654,18 @@
         "QTDREAL":8088,
         "QTDMETA25":12157,
         "QTDPROD25":6933
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
+        "PRODUTO":"80 - MOLHO INGLES 500ML SADIO",
+        "LINHA":"3 - TEMPERO 500 1 & 2",
+        "GRUPO":"10100302 - MOLHO 500",
+        "QTDPREV":468,
+        "QTDREAL":401,
+        "QTDMETA25":562,
+        "QTDPROD25":435
     },
     {
         "CODMETA":24,
@@ -1719,18 +1719,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"1372 - MOSTARDA AMARELA 190G SADIO",
-        "LINHA":"20 - CATCHUP 180-200-380",
-        "GRUPO":"10100601 - CATCHUP\/MOST\/BARB 190-200-380",
-        "QTDPREV":521,
-        "QTDREAL":803,
-        "QTDMETA25":625,
-        "QTDPROD25":1307
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"320 - MOLHO DE ALHO 500ML MESTRE CUCA",
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10100302 - MOLHO 500",
@@ -1762,6 +1750,18 @@
         "QTDREAL":2330,
         "QTDMETA25":1758,
         "QTDPROD25":1223
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
+        "PRODUTO":"1372 - MOSTARDA AMARELA 190G SADIO",
+        "LINHA":"20 - CATCHUP 180-200-380",
+        "GRUPO":"10100601 - CATCHUP\/MOST\/BARB 190-200-380",
+        "QTDPREV":521,
+        "QTDREAL":803,
+        "QTDMETA25":625,
+        "QTDPROD25":1307
     },
     {
         "CODMETA":24,
@@ -1875,18 +1875,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"6 - TEMPERO CASEIRO TRADICIONAL ESCURO VERDE 500G SADIO",
-        "LINHA":"3 - TEMPERO 500 1 & 2",
-        "GRUPO":"10100202 - TEMPERO COMBATE 500",
-        "QTDPREV":147,
-        "QTDREAL":157,
-        "QTDMETA25":176,
-        "QTDPROD25":233
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"3362 - PIMENTA PRETA MOIDA FR 75G SADIO",
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101001 - TEMPERO SECO FRASCO PET",
@@ -1918,6 +1906,18 @@
         "QTDREAL":0,
         "QTDMETA25":40,
         "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
+        "PRODUTO":"6 - TEMPERO CASEIRO TRADICIONAL ESCURO VERDE 500G SADIO",
+        "LINHA":"3 - TEMPERO 500 1 & 2",
+        "GRUPO":"10100202 - TEMPERO COMBATE 500",
+        "QTDPREV":147,
+        "QTDREAL":157,
+        "QTDMETA25":176,
+        "QTDPROD25":233
     },
     {
         "CODMETA":24,
@@ -1959,18 +1959,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"460 - MOLHO INGLES 150ML MESTRE CUCA",
-        "LINHA":"5 - MOLHINHO 150 1",
-        "GRUPO":"10100301 - MOLHO 150",
-        "QTDPREV":40,
-        "QTDREAL":0,
-        "QTDMETA25":48,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"322 - MOLHO DE PIMENTA 150ML MESTRE CUCA",
         "LINHA":"5 - MOLHINHO 150 1",
         "GRUPO":"10100301 - MOLHO 150",
@@ -2001,6 +1989,18 @@
         "QTDPREV":1757,
         "QTDREAL":1926,
         "QTDMETA25":2108,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
+        "PRODUTO":"460 - MOLHO INGLES 150ML MESTRE CUCA",
+        "LINHA":"5 - MOLHINHO 150 1",
+        "GRUPO":"10100301 - MOLHO 150",
+        "QTDPREV":40,
+        "QTDREAL":0,
+        "QTDMETA25":48,
         "QTDPROD25":0
     },
     {
@@ -2079,18 +2079,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"8640 - TEMPERO COMPLETO 500G DATERRA",
-        "LINHA":"3 - TEMPERO 500 1 & 2",
-        "GRUPO":"10100202 - TEMPERO COMBATE 500",
-        "QTDPREV":12,
-        "QTDREAL":0,
-        "QTDMETA25":14,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"3351 - MANJERICAO PC 8G SADIO",
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
@@ -2127,12 +2115,36 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"8640 - TEMPERO COMPLETO 500G DATERRA",
+        "LINHA":"3 - TEMPERO 500 1 & 2",
+        "GRUPO":"10100202 - TEMPERO COMBATE 500",
+        "QTDPREV":12,
+        "QTDREAL":0,
+        "QTDMETA25":14,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"8646 - CANELA PO POTE 35G DATERRA",
         "LINHA":"12 - CANELA 35G PÓ",
         "GRUPO":"10101002 - CANELA POTE AMARELO",
         "QTDPREV":15,
         "QTDREAL":0,
         "QTDMETA25":18,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
+        "PRODUTO":"8061 - TEMPERO PARA PEIXE MOEDOR 60G MR MAKER",
+        "LINHA":"14 - TEMPERO SECO MANUAL 1",
+        "GRUPO":"10101105 - MOEDOR ESPECIAL MR MAKER",
+        "QTDPREV":6,
+        "QTDREAL":33,
+        "QTDMETA25":7,
         "QTDPROD25":0
     },
     {
@@ -2151,18 +2163,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"8061 - TEMPERO PARA PEIXE MOEDOR 60G MR MAKER",
-        "LINHA":"14 - TEMPERO SECO MANUAL 1",
-        "GRUPO":"10101105 - MOEDOR ESPECIAL MR MAKER",
-        "QTDPREV":6,
-        "QTDREAL":33,
-        "QTDMETA25":7,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"5064 - TEMPERO SEM PIMENTA 500G LETO",
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10100201 - TEMPERO TRADICIONAL 500\/750",
@@ -2170,18 +2170,6 @@
         "QTDREAL":21,
         "QTDMETA25":181,
         "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
-        "PRODUTO":"8145 - MOLHO SHOYU 750ML SADIO",
-        "LINHA":"9 - CATCHUP 750-800-830",
-        "GRUPO":"10100303 - MOLHO 750",
-        "QTDPREV":663,
-        "QTDREAL":1379,
-        "QTDMETA25":796,
-        "QTDPROD25":767
     },
     {
         "CODMETA":24,
@@ -2223,6 +2211,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"8145 - MOLHO SHOYU 750ML SADIO",
+        "LINHA":"9 - CATCHUP 750-800-830",
+        "GRUPO":"10100303 - MOLHO 750",
+        "QTDPREV":663,
+        "QTDREAL":1379,
+        "QTDMETA25":796,
+        "QTDPROD25":767
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"8146 - CATCHUP TRADICIONAL 830G SADIO",
         "LINHA":"9 - CATCHUP 750-800-830",
         "GRUPO":"10100602 - CATCHUP\/MOST\/BARB 800-830",
@@ -2230,18 +2230,6 @@
         "QTDREAL":2863,
         "QTDMETA25":4343,
         "QTDPROD25":2129
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
-        "PRODUTO":"7705 - VINAGRE DE ALCOOL ALHO 500ML FRINEX",
-        "LINHA":"1 - VINAGRE 500 1",
-        "GRUPO":"10100102 - VINAGRE SABOR 500",
-        "QTDPREV":25,
-        "QTDREAL":131,
-        "QTDMETA25":30,
-        "QTDPROD25":0
     },
     {
         "CODMETA":24,
@@ -2283,6 +2271,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"7705 - VINAGRE DE ALCOOL ALHO 500ML FRINEX",
+        "LINHA":"1 - VINAGRE 500 1",
+        "GRUPO":"10100102 - VINAGRE SABOR 500",
+        "QTDPREV":25,
+        "QTDREAL":131,
+        "QTDMETA25":30,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"7706 - VINAGRE DE ALCOOL LIMAO 500ML FRINEX",
         "LINHA":"1 - VINAGRE 500 1",
         "GRUPO":"10100102 - VINAGRE SABOR 500",
@@ -2301,18 +2301,6 @@
         "QTDPREV":724,
         "QTDREAL":751,
         "QTDMETA25":869,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
-        "PRODUTO":"8742 - MOLHO DE PIMENTA AO LEITE 150ML LETO",
-        "LINHA":"5 - MOLHINHO 150 1",
-        "GRUPO":"10100301 - MOLHO 150",
-        "QTDPREV":116,
-        "QTDREAL":40,
-        "QTDMETA25":140,
         "QTDPROD25":0
     },
     {
@@ -2343,6 +2331,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"8742 - MOLHO DE PIMENTA AO LEITE 150ML LETO",
+        "LINHA":"5 - MOLHINHO 150 1",
+        "GRUPO":"10100301 - MOLHO 150",
+        "QTDPREV":116,
+        "QTDREAL":40,
+        "QTDMETA25":140,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"8836 - CATCHUP TRADICIONAL 800G FRINEX",
         "LINHA":"9 - CATCHUP 750-800-830",
         "GRUPO":"10100602 - CATCHUP\/MOST\/BARB 800-830",
@@ -2350,18 +2350,6 @@
         "QTDREAL":204,
         "QTDMETA25":155,
         "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
-        "PRODUTO":"8707 - VINAGRE DE ALCOOL COLORIDO 500ML DUBOM",
-        "LINHA":"1 - VINAGRE 500 1",
-        "GRUPO":"10100101 - VINAGRE TRADICIONAL 500\/750",
-        "QTDPREV":437,
-        "QTDREAL":1200,
-        "QTDMETA25":524,
-        "QTDPROD25":1108
     },
     {
         "CODMETA":24,
@@ -2403,13 +2391,13 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"8714 - MOLHO DE PIMENTA EXTRA FORTE 150ML DUBOM",
-        "LINHA":"5 - MOLHINHO 150 1",
-        "GRUPO":"10100301 - MOLHO 150",
-        "QTDPREV":465,
+        "PRODUTO":"8707 - VINAGRE DE ALCOOL COLORIDO 500ML DUBOM",
+        "LINHA":"1 - VINAGRE 500 1",
+        "GRUPO":"10100101 - VINAGRE TRADICIONAL 500\/750",
+        "QTDPREV":437,
         "QTDREAL":1200,
-        "QTDMETA25":559,
-        "QTDPROD25":1205
+        "QTDMETA25":524,
+        "QTDPROD25":1108
     },
     {
         "CODMETA":24,
@@ -2475,6 +2463,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"8714 - MOLHO DE PIMENTA EXTRA FORTE 150ML DUBOM",
+        "LINHA":"5 - MOLHINHO 150 1",
+        "GRUPO":"10100301 - MOLHO 150",
+        "QTDPREV":465,
+        "QTDREAL":1200,
+        "QTDMETA25":559,
+        "QTDPROD25":1205
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"8715 - MOLHO DE PIMENTA 150ML DUBOM",
         "LINHA":"5 - MOLHINHO 150 1",
         "GRUPO":"10100301 - MOLHO 150",
@@ -2499,18 +2499,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"8278 - TEMPERO CASEIRO CONDIMENTADO CLARO VERM 500G SADIO",
-        "LINHA":"3 - TEMPERO 500 1 & 2",
-        "GRUPO":"10100202 - TEMPERO COMBATE 500",
-        "QTDPREV":2309,
-        "QTDREAL":2905,
-        "QTDMETA25":2771,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"8272 - BARBECUE TRADICIONAL 3,4KG SADIO",
         "LINHA":"9 - CATCHUP 750-800-830",
         "GRUPO":"10100900 - FOOD SERVICE",
@@ -2523,6 +2511,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"8278 - TEMPERO CASEIRO CONDIMENTADO CLARO VERM 500G SADIO",
+        "LINHA":"3 - TEMPERO 500 1 & 2",
+        "GRUPO":"10100202 - TEMPERO COMBATE 500",
+        "QTDPREV":2309,
+        "QTDREAL":2905,
+        "QTDMETA25":2771,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"8456 - MOLHO DE TOMATE BOLONHESA 300G SADIO",
         "LINHA":"8 - MOLHO DE TOMATE 300 1 & 2",
         "GRUPO":"10100702 - MOLHO DE TOMATE ESPECIAL",
@@ -2530,18 +2530,6 @@
         "QTDREAL":1262,
         "QTDMETA25":1356,
         "QTDPROD25":1869
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
-        "PRODUTO":"7402 - EXTRATO DE ALHO 500ML FRINEX",
-        "LINHA":"3 - TEMPERO 500 1 & 2",
-        "GRUPO":"10100302 - MOLHO 500",
-        "QTDPREV":85,
-        "QTDREAL":264,
-        "QTDMETA25":102,
-        "QTDPROD25":0
     },
     {
         "CODMETA":24,
@@ -2583,6 +2571,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"7402 - EXTRATO DE ALHO 500ML FRINEX",
+        "LINHA":"3 - TEMPERO 500 1 & 2",
+        "GRUPO":"10100302 - MOLHO 500",
+        "QTDPREV":85,
+        "QTDREAL":264,
+        "QTDMETA25":102,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"7414 - EXTRATO DE ALHO 500ML LETO",
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10100302 - MOLHO 500",
@@ -2607,18 +2607,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"7875 - MOLHO DE PIMENTA AO LEITE 150ML FRINEX",
-        "LINHA":"5 - MOLHINHO 150 1",
-        "GRUPO":"10100301 - MOLHO 150",
-        "QTDPREV":50,
-        "QTDREAL":0,
-        "QTDMETA25":61,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"7865 - VINAGRE DE ALCOOL MACA 500ML LETO",
         "LINHA":"1 - VINAGRE 500 1",
         "GRUPO":"10100102 - VINAGRE SABOR 500",
@@ -2637,6 +2625,18 @@
         "QTDPREV":61,
         "QTDREAL":12,
         "QTDMETA25":73,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
+        "PRODUTO":"7875 - MOLHO DE PIMENTA AO LEITE 150ML FRINEX",
+        "LINHA":"5 - MOLHINHO 150 1",
+        "GRUPO":"10100301 - MOLHO 150",
+        "QTDPREV":50,
+        "QTDREAL":0,
+        "QTDMETA25":61,
         "QTDPROD25":0
     },
     {
@@ -2715,18 +2715,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"8151 - MOLHO DE TOMATE MANJERICAO 300G SADIO",
-        "LINHA":"8 - MOLHO DE TOMATE 300 1 & 2",
-        "GRUPO":"10100702 - MOLHO DE TOMATE ESPECIAL",
-        "QTDPREV":2718,
-        "QTDREAL":2267,
-        "QTDMETA25":3262,
-        "QTDPROD25":2705
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"8 - VINAGRE DE ALCOOL 500ML SADIO",
         "LINHA":"1 - VINAGRE 500 1",
         "GRUPO":"10100101 - VINAGRE TRADICIONAL 500\/750",
@@ -2758,6 +2746,18 @@
         "QTDREAL":2866,
         "QTDMETA25":3774,
         "QTDPROD25":3784
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
+        "PRODUTO":"8151 - MOLHO DE TOMATE MANJERICAO 300G SADIO",
+        "LINHA":"8 - MOLHO DE TOMATE 300 1 & 2",
+        "GRUPO":"10100702 - MOLHO DE TOMATE ESPECIAL",
+        "QTDPREV":2718,
+        "QTDREAL":2267,
+        "QTDMETA25":3262,
+        "QTDPROD25":2705
     },
     {
         "CODMETA":24,
@@ -2799,18 +2799,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"31 - PURO ALHO 1KG SADIO",
-        "LINHA":"7 - PURO ALHO 200-440-1000-2000 1",
-        "GRUPO":"10100500 - PASTA DE ALHO",
-        "QTDPREV":229,
-        "QTDREAL":288,
-        "QTDMETA25":275,
-        "QTDPROD25":210
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"14 - MOLHO INGLES 150ML SADIO",
         "LINHA":"5 - MOLHINHO 150 1",
         "GRUPO":"10100301 - MOLHO 150",
@@ -2847,6 +2835,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"31 - PURO ALHO 1KG SADIO",
+        "LINHA":"7 - PURO ALHO 200-440-1000-2000 1",
+        "GRUPO":"10100500 - PASTA DE ALHO",
+        "QTDPREV":229,
+        "QTDREAL":288,
+        "QTDMETA25":275,
+        "QTDPROD25":210
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"54 - MOLHO SHOYU 150ML SADIO",
         "LINHA":"5 - MOLHINHO 150 1",
         "GRUPO":"10100301 - MOLHO 150",
@@ -2859,18 +2859,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"8721 - ACAFRAO\/CURCUMA MOIDO PC 20G SADIO",
-        "LINHA":"13 - TEMPERO SECO SACHE 1",
-        "GRUPO":"10101003 - TEMPERO SECO SACHE",
-        "QTDPREV":318,
-        "QTDREAL":255,
-        "QTDMETA25":382,
-        "QTDPROD25":211
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"8720 - MOLHO DE ALHO 150ML DUBOM",
         "LINHA":"5 - MOLHINHO 150 1",
         "GRUPO":"10100301 - MOLHO 150",
@@ -2878,6 +2866,18 @@
         "QTDREAL":0,
         "QTDMETA25":728,
         "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
+        "PRODUTO":"8721 - ACAFRAO\/CURCUMA MOIDO PC 20G SADIO",
+        "LINHA":"13 - TEMPERO SECO SACHE 1",
+        "GRUPO":"10101003 - TEMPERO SECO SACHE",
+        "QTDPREV":318,
+        "QTDREAL":255,
+        "QTDMETA25":382,
+        "QTDPROD25":211
     },
     {
         "CODMETA":24,
@@ -2913,18 +2913,6 @@
         "QTDPREV":27,
         "QTDREAL":0,
         "QTDMETA25":33,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
-        "PRODUTO":"463 - MOLHO SHOYU 500ML MESTRE CUCA",
-        "LINHA":"3 - TEMPERO 500 1 & 2",
-        "GRUPO":"10100302 - MOLHO 500",
-        "QTDPREV":9,
-        "QTDREAL":0,
-        "QTDMETA25":10,
         "QTDPROD25":0
     },
     {
@@ -2967,6 +2955,18 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
+        "PRODUTO":"463 - MOLHO SHOYU 500ML MESTRE CUCA",
+        "LINHA":"3 - TEMPERO 500 1 & 2",
+        "GRUPO":"10100302 - MOLHO 500",
+        "QTDPREV":9,
+        "QTDREAL":0,
+        "QTDMETA25":10,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
         "PRODUTO":"464 - VINAGRE DE ALCOOL ALHO 500ML MESTRE CUCA",
         "LINHA":"1 - VINAGRE 500 1",
         "GRUPO":"10100102 - VINAGRE SABOR 500",
@@ -2979,24 +2979,24 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"7537 - MIX DE PIMENTAS MOEDOR 50G MR MAKER",
-        "LINHA":"14 - TEMPERO SECO MANUAL 1",
-        "GRUPO":"10101104 - MOEDOR MR MAKER",
-        "QTDPREV":125,
-        "QTDREAL":140,
-        "QTDMETA25":150,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"7536 - SAL MARINHO MOEDOR 110G MR MAKER",
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101104 - MOEDOR MR MAKER",
         "QTDPREV":17,
         "QTDREAL":29,
         "QTDMETA25":20,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
+        "PRODUTO":"7537 - MIX DE PIMENTAS MOEDOR 50G MR MAKER",
+        "LINHA":"14 - TEMPERO SECO MANUAL 1",
+        "GRUPO":"10101104 - MOEDOR MR MAKER",
+        "QTDPREV":125,
+        "QTDREAL":140,
+        "QTDMETA25":150,
         "QTDPROD25":0
     },
     {
@@ -3159,18 +3159,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2025",
-        "PRODUTO":"7528 - ADOCANTE LIQUIDO SUCRALOSE 100ML SADIO",
-        "LINHA":"6 - ADOÇANTE 100 1",
-        "GRUPO":"10100802 - ADOCANTE SABOR",
-        "QTDPREV":1097,
-        "QTDREAL":871,
-        "QTDMETA25":1316,
-        "QTDPROD25":788
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2025",
         "PRODUTO":"7487 - SAL DO HIMALAIA REFIL 90G MR MAKER",
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101106 - REFIL MR MAKER",
@@ -3202,6 +3190,18 @@
         "QTDREAL":2076,
         "QTDMETA25":3351,
         "QTDPROD25":2399
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2025",
+        "PRODUTO":"7528 - ADOCANTE LIQUIDO SUCRALOSE 100ML SADIO",
+        "LINHA":"6 - ADOÇANTE 100 1",
+        "GRUPO":"10100802 - ADOCANTE SABOR",
+        "QTDPREV":1097,
+        "QTDREAL":871,
+        "QTDMETA25":1316,
+        "QTDPROD25":788
     },
     {
         "CODMETA":24,
@@ -13119,6 +13119,18 @@
         "CODMETA":24,
         "MES":"Maio",
         "ANO":"2025",
+        "PRODUTO":"9903 - LAVA ROUPA COMFORT BLUE 5L TANLUX",
+        "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
+        "GRUPO":"10200700 - INSTITUCIONAL",
+        "QTDPREV":235,
+        "QTDREAL":234,
+        "QTDMETA25":282,
+        "QTDPROD25":225
+    },
+    {
+        "CODMETA":24,
+        "MES":"Maio",
+        "ANO":"2025",
         "PRODUTO":"9887 - DETERGENTE NEUTRO 5L TANLUX",
         "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"10200700 - INSTITUCIONAL",
@@ -13162,18 +13174,6 @@
         "QTDREAL":3,
         "QTDMETA25":3,
         "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Maio",
-        "ANO":"2025",
-        "PRODUTO":"9903 - LAVA ROUPA COMFORT BLUE 5L TANLUX",
-        "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
-        "GRUPO":"10200700 - INSTITUCIONAL",
-        "QTDPREV":235,
-        "QTDREAL":234,
-        "QTDMETA25":282,
-        "QTDPROD25":225
     },
     {
         "CODMETA":24,
@@ -39555,18 +39555,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2026",
-        "PRODUTO":"9649 - TEMPERO GOURMET LIGHT 500G MR MAKER",
-        "LINHA":"3 - TEMPERO 500 1 & 2",
-        "GRUPO":"10101101 - TEMPERO GOURMET MR MAKER",
-        "QTDPREV":17,
-        "QTDREAL":3,
-        "QTDMETA25":18,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2026",
         "PRODUTO":"8932 - MOLHO SHOYU 500ML DUBOM",
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10100302 - MOLHO 500",
@@ -39585,6 +39573,18 @@
         "QTDPREV":19,
         "QTDREAL":100,
         "QTDMETA25":21,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2026",
+        "PRODUTO":"9649 - TEMPERO GOURMET LIGHT 500G MR MAKER",
+        "LINHA":"3 - TEMPERO 500 1 & 2",
+        "GRUPO":"10101101 - TEMPERO GOURMET MR MAKER",
+        "QTDPREV":17,
+        "QTDREAL":3,
+        "QTDMETA25":18,
         "QTDPROD25":0
     },
     {
@@ -40335,18 +40335,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2026",
-        "PRODUTO":"8146 - CATCHUP TRADICIONAL 830G SADIO",
-        "LINHA":"9 - CATCHUP 750-800-830",
-        "GRUPO":"10100602 - CATCHUP\/MOST\/BARB 800-830",
-        "QTDPREV":3528,
-        "QTDREAL":4225,
-        "QTDMETA25":3881,
-        "QTDPROD25":5084
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2026",
         "PRODUTO":"8142 - MOLHO DE PIMENTA VERMELHA 750ML SADIO",
         "LINHA":"9 - CATCHUP 750-800-830",
         "GRUPO":"10100303 - MOLHO 750",
@@ -40378,6 +40366,18 @@
         "QTDREAL":1007,
         "QTDMETA25":860,
         "QTDPROD25":740
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2026",
+        "PRODUTO":"8146 - CATCHUP TRADICIONAL 830G SADIO",
+        "LINHA":"9 - CATCHUP 750-800-830",
+        "GRUPO":"10100602 - CATCHUP\/MOST\/BARB 800-830",
+        "QTDPREV":3528,
+        "QTDREAL":4225,
+        "QTDMETA25":3881,
+        "QTDPROD25":5084
     },
     {
         "CODMETA":24,
@@ -41127,18 +41127,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2026",
-        "PRODUTO":"7490 - PIMENTA CALABRESA COM SAL ROSA REFIL 40G MR MAKER",
-        "LINHA":"14 - TEMPERO SECO MANUAL 1",
-        "GRUPO":"10101106 - REFIL MR MAKER",
-        "QTDPREV":6,
-        "QTDREAL":10,
-        "QTDMETA25":6,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2026",
         "PRODUTO":"7488 - PIMENTA PRETA REFIL 40G MR MAKER",
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101106 - REFIL MR MAKER",
@@ -41157,6 +41145,18 @@
         "QTDPREV":1,
         "QTDREAL":0,
         "QTDMETA25":1,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2026",
+        "PRODUTO":"7490 - PIMENTA CALABRESA COM SAL ROSA REFIL 40G MR MAKER",
+        "LINHA":"14 - TEMPERO SECO MANUAL 1",
+        "GRUPO":"10101106 - REFIL MR MAKER",
+        "QTDPREV":6,
+        "QTDREAL":10,
+        "QTDMETA25":6,
         "QTDPROD25":0
     },
     {
@@ -41919,18 +41919,6 @@
         "CODMETA":24,
         "MES":"Janeiro",
         "ANO":"2026",
-        "PRODUTO":"9906 - DETERGENTE CLORADO TANCLORO SPUMA CONCENTRADO 5L TANLUX",
-        "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
-        "GRUPO":"10200800 - CONCENTRADO",
-        "QTDPREV":7,
-        "QTDREAL":12,
-        "QTDMETA25":8,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Janeiro",
-        "ANO":"2026",
         "PRODUTO":"9903 - LAVA ROUPA COMFORT BLUE 5L TANLUX",
         "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"10200700 - INSTITUCIONAL",
@@ -41938,6 +41926,18 @@
         "QTDREAL":424,
         "QTDMETA25":394,
         "QTDPROD25":126
+    },
+    {
+        "CODMETA":24,
+        "MES":"Janeiro",
+        "ANO":"2026",
+        "PRODUTO":"9906 - DETERGENTE CLORADO TANCLORO SPUMA CONCENTRADO 5L TANLUX",
+        "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
+        "GRUPO":"10200800 - CONCENTRADO",
+        "QTDPREV":7,
+        "QTDREAL":12,
+        "QTDMETA25":8,
+        "QTDPROD25":0
     },
     {
         "CODMETA":24,
@@ -43383,18 +43383,6 @@
         "CODMETA":24,
         "MES":"Fevereiro",
         "ANO":"2026",
-        "PRODUTO":"391 - PURO ALHO 2KG SADIO",
-        "LINHA":"7 - PURO ALHO 200-440-1000-2000 1",
-        "GRUPO":"10100500 - PASTA DE ALHO",
-        "QTDPREV":160,
-        "QTDREAL":308,
-        "QTDMETA25":160,
-        "QTDPROD25":134
-    },
-    {
-        "CODMETA":24,
-        "MES":"Fevereiro",
-        "ANO":"2026",
         "PRODUTO":"29 - PURO ALHO 200G SADIO",
         "LINHA":"7 - PURO ALHO 200-440-1000-2000 1",
         "GRUPO":"10100500 - PASTA DE ALHO",
@@ -43426,6 +43414,18 @@
         "QTDREAL":313,
         "QTDMETA25":236,
         "QTDPROD25":160
+    },
+    {
+        "CODMETA":24,
+        "MES":"Fevereiro",
+        "ANO":"2026",
+        "PRODUTO":"391 - PURO ALHO 2KG SADIO",
+        "LINHA":"7 - PURO ALHO 200-440-1000-2000 1",
+        "GRUPO":"10100500 - PASTA DE ALHO",
+        "QTDPREV":160,
+        "QTDREAL":308,
+        "QTDMETA25":160,
+        "QTDPROD25":134
     },
     {
         "CODMETA":24,
@@ -44187,18 +44187,6 @@
         "CODMETA":24,
         "MES":"Fevereiro",
         "ANO":"2026",
-        "PRODUTO":"10076 - CAMOMILA PC 5G SADIO",
-        "LINHA":"13 - TEMPERO SECO SACHE 1",
-        "GRUPO":"10101003 - TEMPERO SECO SACHE",
-        "QTDPREV":26,
-        "QTDREAL":24,
-        "QTDMETA25":28,
-        "QTDPROD25":0
-    },
-    {
-        "CODMETA":24,
-        "MES":"Fevereiro",
-        "ANO":"2026",
         "PRODUTO":"9963 - ERVA DOCE PC 15G SADIO",
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
@@ -44241,6 +44229,18 @@
         "QTDPREV":32,
         "QTDREAL":26,
         "QTDMETA25":35,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Fevereiro",
+        "ANO":"2026",
+        "PRODUTO":"10076 - CAMOMILA PC 5G SADIO",
+        "LINHA":"13 - TEMPERO SECO SACHE 1",
+        "GRUPO":"10101003 - TEMPERO SECO SACHE",
+        "QTDPREV":26,
+        "QTDREAL":24,
+        "QTDMETA25":28,
         "QTDPROD25":0
     },
     {
@@ -45735,18 +45735,6 @@
         "CODMETA":24,
         "MES":"Março",
         "ANO":"2026",
-        "PRODUTO":"82 - MOLHO SHOYU 500ML SADIO",
-        "LINHA":"3 - TEMPERO 500 1 & 2",
-        "GRUPO":"10100302 - MOLHO 500",
-        "QTDPREV":588,
-        "QTDREAL":304,
-        "QTDMETA25":647,
-        "QTDPROD25":242
-    },
-    {
-        "CODMETA":24,
-        "MES":"Março",
-        "ANO":"2026",
         "PRODUTO":"76 - EXTRATO DE ALHO 500ML SADIO",
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10100302 - MOLHO 500",
@@ -45778,6 +45766,18 @@
         "QTDREAL":22,
         "QTDMETA25":88,
         "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Março",
+        "ANO":"2026",
+        "PRODUTO":"82 - MOLHO SHOYU 500ML SADIO",
+        "LINHA":"3 - TEMPERO 500 1 & 2",
+        "GRUPO":"10100302 - MOLHO 500",
+        "QTDPREV":588,
+        "QTDREAL":304,
+        "QTDMETA25":647,
+        "QTDPROD25":242
     },
     {
         "CODMETA":24,
@@ -47211,18 +47211,6 @@
         "CODMETA":24,
         "MES":"Março",
         "ANO":"2026",
-        "PRODUTO":"3351 - MANJERICAO PC 8G SADIO",
-        "LINHA":"13 - TEMPERO SECO SACHE 1",
-        "GRUPO":"10101003 - TEMPERO SECO SACHE",
-        "QTDPREV":120,
-        "QTDREAL":56,
-        "QTDMETA25":132,
-        "QTDPROD25":165
-    },
-    {
-        "CODMETA":24,
-        "MES":"Março",
-        "ANO":"2026",
         "PRODUTO":"3348 - PIMENTA PRETA GRAO PC 15G SADIO",
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
@@ -47254,6 +47242,18 @@
         "QTDREAL":394,
         "QTDMETA25":884,
         "QTDPROD25":613
+    },
+    {
+        "CODMETA":24,
+        "MES":"Março",
+        "ANO":"2026",
+        "PRODUTO":"3351 - MANJERICAO PC 8G SADIO",
+        "LINHA":"13 - TEMPERO SECO SACHE 1",
+        "GRUPO":"10101003 - TEMPERO SECO SACHE",
+        "QTDPREV":120,
+        "QTDREAL":56,
+        "QTDMETA25":132,
+        "QTDPROD25":165
     },
     {
         "CODMETA":24,
