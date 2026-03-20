@@ -22188,7 +22188,7 @@
         "TERCA":null,
         "QUARTA":396.0,
         "QUINTA":660.0,
-        "SEXTA":null,
+        "SEXTA":528.0,
         "SABADO":null,
         "DOMINGO":null,
         "SEQ":null,
@@ -23256,16 +23256,16 @@
         "SABADO":1800.0,
         "DOMINGO":1800.0,
         "SEQ":1.0,
-        "QTDAPONTADA":9434,
+        "QTDAPONTADA":9604,
         "APONT_SEG":1774,
         "APONT_TER":2010,
         "APONT_QUA":2362,
         "APONT_QUI":2183,
-        "APONT_SEX":1105,
+        "APONT_SEX":1275,
         "APONT_SAB":0,
         "APONT_DOM":0,
         "TOTALSEMANA":13375.0,
-        "SALDOSEMANA":3941.0
+        "SALDOSEMANA":3771.0
     },
     {
         "SEMANA_LABEL":"2026-12",
