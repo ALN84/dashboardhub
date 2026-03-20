@@ -217014,7 +217014,7 @@
         "GRUPO":"TEMPERO TRADICIONAL 500\/750",
         "ESTMIN":1443.0,
         "ESTMAX":2062.0,
-        "SALDO":810,
+        "SALDO":826,
         "CUSTO":11.473752,
         "DTNEG":"19032026 00:00:00"
     },
@@ -217025,7 +217025,7 @@
         "GRUPO":"TEMPERO TRADICIONAL 500\/750",
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
-        "SALDO":148,
+        "SALDO":178,
         "CUSTO":11.519976,
         "DTNEG":"19032026 00:00:00"
     },
@@ -217047,7 +217047,7 @@
         "GRUPO":"VINAGRE TRADICIONAL 500\/750",
         "ESTMIN":31205.0,
         "ESTMAX":44578.0,
-        "SALDO":16546,
+        "SALDO":18146,
         "CUSTO":5.04,
         "DTNEG":"19032026 00:00:00"
     },
@@ -217058,7 +217058,7 @@
         "GRUPO":"MOLHO 500",
         "ESTMIN":1880.0,
         "ESTMAX":2686.0,
-        "SALDO":1334,
+        "SALDO":1394,
         "CUSTO":11.196396,
         "DTNEG":"19032026 00:00:00"
     },
@@ -217080,7 +217080,7 @@
         "GRUPO":"MOLHO 150",
         "ESTMIN":2520.0,
         "ESTMAX":3600.0,
-        "SALDO":2407,
+        "SALDO":2507,
         "CUSTO":5.476308,
         "DTNEG":"19032026 00:00:00"
     },
@@ -217091,7 +217091,7 @@
         "GRUPO":"MOLHO 150",
         "ESTMIN":2092.0,
         "ESTMAX":2989.0,
-        "SALDO":43,
+        "SALDO":93,
         "CUSTO":9.276312,
         "DTNEG":"19032026 00:00:00"
     },
@@ -217113,7 +217113,7 @@
         "GRUPO":"PASTA DE ALHO",
         "ESTMIN":1517.0,
         "ESTMAX":2167.0,
-        "SALDO":377,
+        "SALDO":407,
         "CUSTO":16.08036,
         "DTNEG":"19032026 00:00:00"
     },
@@ -217135,7 +217135,7 @@
         "GRUPO":"PASTA DE ALHO",
         "ESTMIN":194.0,
         "ESTMAX":277.0,
-        "SALDO":178,
+        "SALDO":200,
         "CUSTO":33.66,
         "DTNEG":"19032026 00:00:00"
     },
@@ -217179,7 +217179,7 @@
         "GRUPO":"MOLHO 150",
         "ESTMIN":3252.0,
         "ESTMAX":4646.0,
-        "SALDO":1105,
+        "SALDO":1165,
         "CUSTO":6.59334,
         "DTNEG":"19032026 00:00:00"
     },
@@ -217322,7 +217322,7 @@
         "GRUPO":"TEMPERO TRADICIONAL 500\/750",
         "ESTMIN":937.0,
         "ESTMAX":1339.0,
-        "SALDO":1123,
+        "SALDO":1143,
         "CUSTO":11.52,
         "DTNEG":"19032026 00:00:00"
     },
@@ -217531,7 +217531,7 @@
         "GRUPO":"MOLHO 150",
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
-        "SALDO":346,
+        "SALDO":366,
         "CUSTO":6.48,
         "DTNEG":"19032026 00:00:00"
     },
@@ -217564,7 +217564,7 @@
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":645.0,
         "ESTMAX":922.0,
-        "SALDO":465,
+        "SALDO":517,
         "CUSTO":9.08,
         "DTNEG":"19032026 00:00:00"
     },
@@ -217960,7 +217960,7 @@
         "GRUPO":"VINAGRE SABOR 500",
         "ESTMIN":588.0,
         "ESTMAX":840.0,
-        "SALDO":980,
+        "SALDO":1044,
         "CUSTO":5.663868,
         "DTNEG":"19032026 00:00:00"
     },
@@ -217982,7 +217982,7 @@
         "GRUPO":"VINAGRE SABOR 500",
         "ESTMIN":307.0,
         "ESTMAX":439.0,
-        "SALDO":657,
+        "SALDO":689,
         "CUSTO":5.31318,
         "DTNEG":"19032026 00:00:00"
     },
@@ -218169,7 +218169,7 @@
         "GRUPO":"MOLHO 150",
         "ESTMIN":1057.0,
         "ESTMAX":1510.0,
-        "SALDO":1019,
+        "SALDO":1079,
         "CUSTO":9.065112,
         "DTNEG":"19032026 00:00:00"
     },
@@ -218378,7 +218378,7 @@
         "GRUPO":"VINAGRE TRADICIONAL 500\/750",
         "ESTMIN":1492.0,
         "ESTMAX":2131.0,
-        "SALDO":753,
+        "SALDO":953,
         "CUSTO":8.64,
         "DTNEG":"19032026 00:00:00"
     },
@@ -218411,7 +218411,7 @@
         "GRUPO":"MOLHO 750",
         "ESTMIN":445.0,
         "ESTMAX":636.0,
-        "SALDO":363,
+        "SALDO":403,
         "CUSTO":27.842856,
         "DTNEG":"19032026 00:00:00"
     },
@@ -218422,7 +218422,7 @@
         "GRUPO":"MOLHO 750",
         "ESTMIN":473.0,
         "ESTMAX":675.0,
-        "SALDO":507,
+        "SALDO":557,
         "CUSTO":12.338256,
         "DTNEG":"19032026 00:00:00"
     },
@@ -218455,7 +218455,7 @@
         "GRUPO":"MOLHO DE TOMATE COMBATE",
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
-        "SALDO":14422,
+        "SALDO":16072,
         "CUSTO":11.922768,
         "DTNEG":"19032026 00:00:00"
     },
@@ -218466,7 +218466,7 @@
         "GRUPO":"MOLHO DE TOMATE ESPECIAL",
         "ESTMIN":2085.0,
         "ESTMAX":2979.0,
-        "SALDO":290,
+        "SALDO":308,
         "CUSTO":13.592856,
         "DTNEG":"19032026 00:00:00"
     },
@@ -218477,7 +218477,7 @@
         "GRUPO":"MOLHO DE TOMATE ESPECIAL",
         "ESTMIN":1793.0,
         "ESTMAX":2562.0,
-        "SALDO":678,
+        "SALDO":698,
         "CUSTO":12.0,
         "DTNEG":"19032026 00:00:00"
     },
@@ -218543,7 +218543,7 @@
         "GRUPO":"TEMPERO COMBATE 500",
         "ESTMIN":458.0,
         "ESTMAX":654.0,
-        "SALDO":263,
+        "SALDO":283,
         "CUSTO":5.76,
         "DTNEG":"19032026 00:00:00"
     },
@@ -218554,7 +218554,7 @@
         "GRUPO":"MOLHO DE TOMATE ESPECIAL",
         "ESTMIN":872.0,
         "ESTMAX":1245.0,
-        "SALDO":1292,
+        "SALDO":1322,
         "CUSTO":16.08,
         "DTNEG":"19032026 00:00:00"
     },
@@ -221469,7 +221469,7 @@
         "GRUPO":"MOLHO DE TOMATE COMBATE",
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
-        "SALDO":14576,
+        "SALDO":14831,
         "CUSTO":11.922768,
         "DTNEG":"20032026 00:00:00"
     },
