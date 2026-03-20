@@ -220061,7 +220061,7 @@
         "GRUPO":"VINAGRE TRADICIONAL 500\/750",
         "ESTMIN":31205.0,
         "ESTMAX":44578.0,
-        "SALDO":12782,
+        "SALDO":11198,
         "CUSTO":5.04,
         "DTNEG":"20032026 00:00:00"
     },
@@ -220127,7 +220127,7 @@
         "GRUPO":"PASTA DE ALHO",
         "ESTMIN":1517.0,
         "ESTMAX":2167.0,
-        "SALDO":302,
+        "SALDO":292,
         "CUSTO":16.08036,
         "DTNEG":"20032026 00:00:00"
     },
@@ -220622,7 +220622,7 @@
         "GRUPO":"VINAGRE TRADICIONAL 500\/750",
         "ESTMIN":18332.0,
         "ESTMAX":26189.0,
-        "SALDO":9224,
+        "SALDO":8696,
         "CUSTO":5.388924,
         "DTNEG":"20032026 00:00:00"
     },
@@ -220853,7 +220853,7 @@
         "GRUPO":"CANELA POTE AMARELO",
         "ESTMIN":1081.0,
         "ESTMAX":1544.0,
-        "SALDO":459,
+        "SALDO":449,
         "CUSTO":31.472208,
         "DTNEG":"20032026 00:00:00"
     },
@@ -221260,7 +221260,7 @@
         "GRUPO":"TEMPERO COMBATE 500",
         "ESTMIN":6193.0,
         "ESTMAX":8847.0,
-        "SALDO":3064,
+        "SALDO":2932,
         "CUSTO":5.553312,
         "DTNEG":"20032026 00:00:00"
     },
@@ -221469,7 +221469,7 @@
         "GRUPO":"MOLHO DE TOMATE COMBATE",
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
-        "SALDO":14749,
+        "SALDO":14659,
         "CUSTO":12.0,
         "DTNEG":"20032026 00:00:00"
     },
@@ -221689,7 +221689,7 @@
         "GRUPO":"AZEITONA",
         "ESTMIN":null,
         "ESTMAX":null,
-        "SALDO":122,
+        "SALDO":117,
         "CUSTO":103.32,
         "DTNEG":"20032026 00:00:00"
     },
