@@ -23256,16 +23256,16 @@
         "SABADO":1800.0,
         "DOMINGO":1800.0,
         "SEQ":1.0,
-        "QTDAPONTADA":11591,
+        "QTDAPONTADA":12186,
         "APONT_SEG":1774,
         "APONT_TER":2010,
         "APONT_QUA":2362,
         "APONT_QUI":2184,
         "APONT_SEX":1986,
-        "APONT_SAB":1275,
+        "APONT_SAB":1870,
         "APONT_DOM":0,
         "TOTALSEMANA":13375.0,
-        "SALDOSEMANA":1784.0
+        "SALDOSEMANA":1189.0
     },
     {
         "SEMANA_LABEL":"2026-12",
