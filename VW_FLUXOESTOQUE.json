@@ -220072,7 +220072,7 @@
         "GRUPO":"MOLHO 500",
         "ESTMIN":1880.0,
         "ESTMAX":2686.0,
-        "SALDO":1934,
+        "SALDO":2066,
         "CUSTO":8.258232,
         "DTNEG":"23032026 00:00:00"
     },
@@ -221480,7 +221480,7 @@
         "GRUPO":"MOLHO DE TOMATE ESPECIAL",
         "ESTMIN":2085.0,
         "ESTMAX":2979.0,
-        "SALDO":26,
+        "SALDO":281,
         "CUSTO":11.770824,
         "DTNEG":"23032026 00:00:00"
     },
