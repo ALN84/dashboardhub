@@ -45669,7 +45669,7 @@
         "QTDPREV":4110,
         "QTDREAL":2567,
         "QTDMETA25":4522,
-        "QTDPROD25":3642
+        "QTDPROD25":4038
     },
     {
         "CODMETA":24,
@@ -46557,7 +46557,7 @@
         "QTDPREV":3465,
         "QTDREAL":2966,
         "QTDMETA25":3812,
-        "QTDPROD25":2095
+        "QTDPROD25":2365
     },
     {
         "CODMETA":24,
@@ -46701,7 +46701,7 @@
         "QTDPREV":29608,
         "QTDREAL":34748,
         "QTDMETA25":32569,
-        "QTDPROD25":28863
+        "QTDPROD25":29000
     },
     {
         "CODMETA":24,
@@ -46713,7 +46713,7 @@
         "QTDPREV":4614,
         "QTDREAL":2820,
         "QTDMETA25":5076,
-        "QTDPROD25":1306
+        "QTDPROD25":1359
     },
     {
         "CODMETA":24,
@@ -46905,7 +46905,7 @@
         "QTDPREV":1156,
         "QTDREAL":923,
         "QTDMETA25":1272,
-        "QTDPROD25":702
+        "QTDPROD25":762
     },
     {
         "CODMETA":24,
@@ -48055,7 +48055,7 @@
         "LINHA":"17 - DETERGENTE 500 1",
         "GRUPO":"10200100 - DETERGENTE",
         "QTDPREV":4046,
-        "QTDREAL":2024,
+        "QTDREAL":2039,
         "QTDMETA25":4450,
         "QTDPROD25":2401
     },
@@ -48103,7 +48103,7 @@
         "LINHA":"129 - 500 MANUAL LIMPA ALUMÍNIO",
         "GRUPO":"10200200 - LIMPA ALUMINIO",
         "QTDPREV":2789,
-        "QTDREAL":1473,
+        "QTDREAL":1478,
         "QTDMETA25":3068,
         "QTDPROD25":2689
     },
@@ -48355,7 +48355,7 @@
         "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"10200500 - LAVA ROUPA",
         "QTDPREV":6404,
-        "QTDREAL":5750,
+        "QTDREAL":5850,
         "QTDMETA25":7045,
         "QTDPROD25":5682
     },
@@ -48453,7 +48453,7 @@
         "QTDPREV":3174,
         "QTDREAL":2602,
         "QTDMETA25":3505,
-        "QTDPROD25":2838
+        "QTDPROD25":2724
     },
     {
         "CODMETA":24,
@@ -48465,7 +48465,7 @@
         "QTDPREV":702,
         "QTDREAL":547,
         "QTDMETA25":775,
-        "QTDPROD25":651
+        "QTDPROD25":765
     },
     {
         "CODMETA":24,
