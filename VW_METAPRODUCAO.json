@@ -45669,7 +45669,7 @@
         "QTDPREV":4110,
         "QTDREAL":2566,
         "QTDMETA25":4522,
-        "QTDPROD25":3510
+        "QTDPROD25":3642
     },
     {
         "CODMETA":24,
@@ -46701,7 +46701,7 @@
         "QTDPREV":29608,
         "QTDREAL":34743,
         "QTDMETA25":32569,
-        "QTDPROD25":25944
+        "QTDPROD25":28268
     },
     {
         "CODMETA":24,
@@ -46905,7 +46905,7 @@
         "QTDPREV":1156,
         "QTDREAL":923,
         "QTDMETA25":1272,
-        "QTDPROD25":557
+        "QTDPROD25":642
     },
     {
         "CODMETA":24,
@@ -48163,7 +48163,7 @@
         "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
         "GRUPO":"10200100 - DETERGENTE",
         "QTDPREV":527,
-        "QTDREAL":181,
+        "QTDREAL":180,
         "QTDMETA25":579,
         "QTDPROD25":180
     },
@@ -48283,7 +48283,7 @@
         "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
         "GRUPO":"10200500 - LAVA ROUPA",
         "QTDPREV":477,
-        "QTDREAL":170,
+        "QTDREAL":171,
         "QTDMETA25":525,
         "QTDPROD25":110
     },
@@ -48307,7 +48307,7 @@
         "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"10200700 - INSTITUCIONAL",
         "QTDPREV":409,
-        "QTDREAL":258,
+        "QTDREAL":268,
         "QTDMETA25":449,
         "QTDPROD25":473
     },
@@ -48453,7 +48453,7 @@
         "QTDPREV":3174,
         "QTDREAL":2602,
         "QTDMETA25":3505,
-        "QTDPROD25":2724
+        "QTDPROD25":2838
     },
     {
         "CODMETA":24,
