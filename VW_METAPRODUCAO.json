@@ -45319,7 +45319,7 @@
         "LINHA":"1 - VINAGRE 500 1",
         "GRUPO":"10100101 - VINAGRE TRADICIONAL 500\/750",
         "QTDPREV":57670,
-        "QTDREAL":85316,
+        "QTDREAL":85321,
         "QTDMETA25":63437,
         "QTDPROD25":30064
     },
@@ -45679,7 +45679,7 @@
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10100202 - TEMPERO COMBATE 500",
         "QTDPREV":10066,
-        "QTDREAL":7510,
+        "QTDREAL":7512,
         "QTDMETA25":11077,
         "QTDPROD25":4184
     },
@@ -46677,7 +46677,7 @@
         "QTDPREV":50,
         "QTDREAL":21,
         "QTDMETA25":50,
-        "QTDPROD25":19
+        "QTDPROD25":22
     },
     {
         "CODMETA":24,
@@ -48357,7 +48357,7 @@
         "QTDPREV":6404,
         "QTDREAL":5750,
         "QTDMETA25":7045,
-        "QTDPROD25":5359
+        "QTDPROD25":5682
     },
     {
         "CODMETA":24,
@@ -48499,7 +48499,7 @@
         "LINHA":"127 - 60-5000 MANUAL LIQUIDO 1",
         "GRUPO":"10100900 - FOOD SERVICE",
         "QTDPREV":2082,
-        "QTDREAL":1617,
+        "QTDREAL":1627,
         "QTDMETA25":2290,
         "QTDPROD25":1120
     },
