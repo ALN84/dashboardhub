@@ -45321,7 +45321,7 @@
         "QTDPREV":57670,
         "QTDREAL":92254,
         "QTDMETA25":63437,
-        "QTDPROD25":34909
+        "QTDPROD25":35041
     },
     {
         "CODMETA":24,
@@ -45645,7 +45645,7 @@
         "QTDPREV":1955,
         "QTDREAL":1090,
         "QTDMETA25":2152,
-        "QTDPROD25":2232
+        "QTDPROD25":2326
     },
     {
         "CODMETA":24,
@@ -45681,7 +45681,7 @@
         "QTDPREV":10066,
         "QTDREAL":7858,
         "QTDMETA25":11077,
-        "QTDPROD25":4184
+        "QTDPROD25":4580
     },
     {
         "CODMETA":24,
@@ -46699,7 +46699,7 @@
         "LINHA":"8 - MOLHO DE TOMATE 300 1 & 2",
         "GRUPO":"10100701 - MOLHO DE TOMATE COMBATE",
         "QTDPREV":29608,
-        "QTDREAL":35597,
+        "QTDREAL":35937,
         "QTDMETA25":32569,
         "QTDPROD25":29000
     },
@@ -46965,7 +46965,7 @@
         "QTDPREV":752,
         "QTDREAL":785,
         "QTDMETA25":827,
-        "QTDPROD25":634
+        "QTDPROD25":734
     },
     {
         "CODMETA":24,
@@ -47373,7 +47373,7 @@
         "QTDPREV":509,
         "QTDREAL":452,
         "QTDMETA25":559,
-        "QTDPROD25":250
+        "QTDPROD25":441
     },
     {
         "CODMETA":24,
@@ -48055,7 +48055,7 @@
         "LINHA":"17 - DETERGENTE 500 1",
         "GRUPO":"10200100 - DETERGENTE",
         "QTDPREV":4046,
-        "QTDREAL":2098,
+        "QTDREAL":2103,
         "QTDMETA25":4450,
         "QTDPROD25":2401
     },
@@ -48067,7 +48067,7 @@
         "LINHA":"17 - DETERGENTE 500 1",
         "GRUPO":"10200100 - DETERGENTE",
         "QTDPREV":4299,
-        "QTDREAL":1898,
+        "QTDREAL":1908,
         "QTDMETA25":4728,
         "QTDPROD25":2459
     },
@@ -48091,7 +48091,7 @@
         "LINHA":"17 - DETERGENTE 500 1",
         "GRUPO":"10200100 - DETERGENTE",
         "QTDPREV":2986,
-        "QTDREAL":1468,
+        "QTDREAL":1488,
         "QTDMETA25":3285,
         "QTDPROD25":1265
     },
@@ -48103,7 +48103,7 @@
         "LINHA":"129 - 500 MANUAL LIMPA ALUMÍNIO",
         "GRUPO":"10200200 - LIMPA ALUMINIO",
         "QTDPREV":2789,
-        "QTDREAL":1480,
+        "QTDREAL":1490,
         "QTDMETA25":3068,
         "QTDPROD25":3111
     },
