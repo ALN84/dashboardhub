@@ -18,7 +18,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":937,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"24122025 00:00:00"
     },
     {
@@ -524,7 +524,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":896,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"24122025 00:00:00"
     },
     {
@@ -1525,7 +1525,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":285,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"24122025 00:00:00"
     },
     {
@@ -3032,7 +3032,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":912,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"29122025 00:00:00"
     },
     {
@@ -3538,7 +3538,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":884,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"29122025 00:00:00"
     },
     {
@@ -4539,7 +4539,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":285,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"29122025 00:00:00"
     },
     {
@@ -6046,7 +6046,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":749,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"30122025 00:00:00"
     },
     {
@@ -6552,7 +6552,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":797,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"30122025 00:00:00"
     },
     {
@@ -7553,7 +7553,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":272,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"30122025 00:00:00"
     },
     {
@@ -9060,7 +9060,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":628,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"31122025 00:00:00"
     },
     {
@@ -9566,7 +9566,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":642,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"31122025 00:00:00"
     },
     {
@@ -10567,7 +10567,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":272,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"31122025 00:00:00"
     },
     {
@@ -12074,7 +12074,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":628,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"01012026 00:00:00"
     },
     {
@@ -12580,7 +12580,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":642,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"01012026 00:00:00"
     },
     {
@@ -13581,7 +13581,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":272,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"01012026 00:00:00"
     },
     {
@@ -14929,7 +14929,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -14940,7 +14940,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -15088,7 +15088,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":608,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"05012026 00:00:00"
     },
     {
@@ -15594,7 +15594,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":642,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"05012026 00:00:00"
     },
     {
@@ -16595,7 +16595,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":272,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"05012026 00:00:00"
     },
     {
@@ -18102,7 +18102,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":586,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"06012026 00:00:00"
     },
     {
@@ -18608,7 +18608,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":630,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"06012026 00:00:00"
     },
     {
@@ -19609,7 +19609,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":263,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"06012026 00:00:00"
     },
     {
@@ -21116,7 +21116,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":577,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"07012026 00:00:00"
     },
     {
@@ -21622,7 +21622,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":619,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"07012026 00:00:00"
     },
     {
@@ -22623,7 +22623,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":259,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"07012026 00:00:00"
     },
     {
@@ -24130,7 +24130,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":410,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"08012026 00:00:00"
     },
     {
@@ -24636,7 +24636,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":334,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"08012026 00:00:00"
     },
     {
@@ -25637,7 +25637,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":246,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"08012026 00:00:00"
     },
     {
@@ -27144,7 +27144,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":299,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"09012026 00:00:00"
     },
     {
@@ -27650,7 +27650,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":354,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"09012026 00:00:00"
     },
     {
@@ -28651,7 +28651,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":237,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"09012026 00:00:00"
     },
     {
@@ -30158,7 +30158,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":299,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"10012026 00:00:00"
     },
     {
@@ -30664,7 +30664,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":354,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"10012026 00:00:00"
     },
     {
@@ -31665,7 +31665,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":237,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"10012026 00:00:00"
     },
     {
@@ -33172,7 +33172,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":299,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"11012026 00:00:00"
     },
     {
@@ -33678,7 +33678,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":354,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"11012026 00:00:00"
     },
     {
@@ -34679,7 +34679,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":237,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"11012026 00:00:00"
     },
     {
@@ -36027,7 +36027,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -36038,7 +36038,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -36186,7 +36186,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":291,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"12012026 00:00:00"
     },
     {
@@ -36692,7 +36692,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":1169,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"12012026 00:00:00"
     },
     {
@@ -37693,7 +37693,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":228,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"12012026 00:00:00"
     },
     {
@@ -39200,7 +39200,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":155,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"13012026 00:00:00"
     },
     {
@@ -39706,7 +39706,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":1153,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"13012026 00:00:00"
     },
     {
@@ -40707,7 +40707,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":226,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"13012026 00:00:00"
     },
     {
@@ -42055,7 +42055,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -42066,7 +42066,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -42214,7 +42214,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":782,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"14012026 00:00:00"
     },
     {
@@ -42720,7 +42720,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":960,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"14012026 00:00:00"
     },
     {
@@ -43721,7 +43721,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":224,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"14012026 00:00:00"
     },
     {
@@ -45069,7 +45069,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -45080,7 +45080,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -45228,7 +45228,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1456,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"15012026 00:00:00"
     },
     {
@@ -45734,7 +45734,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":872,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"15012026 00:00:00"
     },
     {
@@ -46735,7 +46735,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":223,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"15012026 00:00:00"
     },
     {
@@ -48083,7 +48083,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -48094,7 +48094,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -48242,7 +48242,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1351,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"16012026 00:00:00"
     },
     {
@@ -48748,7 +48748,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":696,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"16012026 00:00:00"
     },
     {
@@ -49749,7 +49749,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":182,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"16012026 00:00:00"
     },
     {
@@ -51097,7 +51097,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -51108,7 +51108,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -51256,7 +51256,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1315,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"17012026 00:00:00"
     },
     {
@@ -51762,7 +51762,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":619,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"17012026 00:00:00"
     },
     {
@@ -52763,7 +52763,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":160,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"17012026 00:00:00"
     },
     {
@@ -54111,7 +54111,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -54122,7 +54122,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -54270,7 +54270,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1306,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"19012026 00:00:00"
     },
     {
@@ -54776,7 +54776,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":600,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"19012026 00:00:00"
     },
     {
@@ -55777,7 +55777,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":160,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"19012026 00:00:00"
     },
     {
@@ -57284,7 +57284,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1288,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"20012026 00:00:00"
     },
     {
@@ -57790,7 +57790,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":543,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"20012026 00:00:00"
     },
     {
@@ -58791,7 +58791,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":160,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"20012026 00:00:00"
     },
     {
@@ -60139,7 +60139,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -60150,7 +60150,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -60298,7 +60298,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1268,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"21012026 00:00:00"
     },
     {
@@ -60804,7 +60804,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":533,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"21012026 00:00:00"
     },
     {
@@ -61805,7 +61805,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":160,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"21012026 00:00:00"
     },
     {
@@ -63312,7 +63312,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1147,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"22012026 00:00:00"
     },
     {
@@ -63818,7 +63818,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":516,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"22012026 00:00:00"
     },
     {
@@ -64819,7 +64819,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":154,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"22012026 00:00:00"
     },
     {
@@ -66326,7 +66326,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1060,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"23012026 00:00:00"
     },
     {
@@ -66832,7 +66832,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":413,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"23012026 00:00:00"
     },
     {
@@ -67833,7 +67833,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":142,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"23012026 00:00:00"
     },
     {
@@ -69181,7 +69181,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -69192,7 +69192,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -69340,7 +69340,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":927,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"26012026 00:00:00"
     },
     {
@@ -69846,7 +69846,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":366,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"26012026 00:00:00"
     },
     {
@@ -70847,7 +70847,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":142,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"26012026 00:00:00"
     },
     {
@@ -72354,7 +72354,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":854,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"27012026 00:00:00"
     },
     {
@@ -72860,7 +72860,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":465,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"27012026 00:00:00"
     },
     {
@@ -73861,7 +73861,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":139,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"27012026 00:00:00"
     },
     {
@@ -75209,7 +75209,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -75220,7 +75220,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -75368,7 +75368,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":537,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"28012026 00:00:00"
     },
     {
@@ -75874,7 +75874,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":2197,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"28012026 00:00:00"
     },
     {
@@ -76875,7 +76875,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":141,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"28012026 00:00:00"
     },
     {
@@ -78223,7 +78223,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -78234,7 +78234,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -78382,7 +78382,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":469,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"29012026 00:00:00"
     },
     {
@@ -78888,7 +78888,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":2516,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"29012026 00:00:00"
     },
     {
@@ -79889,7 +79889,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":133,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"29012026 00:00:00"
     },
     {
@@ -81237,7 +81237,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -81248,7 +81248,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -81396,7 +81396,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":307,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"30012026 00:00:00"
     },
     {
@@ -81902,7 +81902,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":2083,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"30012026 00:00:00"
     },
     {
@@ -82903,7 +82903,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":119,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"30012026 00:00:00"
     },
     {
@@ -84410,7 +84410,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":6,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"31012026 00:00:00"
     },
     {
@@ -84916,7 +84916,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":1343,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"31012026 00:00:00"
     },
     {
@@ -85917,7 +85917,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":119,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"31012026 00:00:00"
     },
     {
@@ -87265,7 +87265,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -87276,7 +87276,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -87424,7 +87424,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":6,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"01022026 00:00:00"
     },
     {
@@ -87930,7 +87930,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":1343,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"01022026 00:00:00"
     },
     {
@@ -88931,7 +88931,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":119,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"01022026 00:00:00"
     },
     {
@@ -90438,7 +90438,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":4,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"02022026 00:00:00"
     },
     {
@@ -90944,7 +90944,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":1341,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"02022026 00:00:00"
     },
     {
@@ -91945,7 +91945,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":119,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"02022026 00:00:00"
     },
     {
@@ -93293,7 +93293,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -93304,7 +93304,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -93452,7 +93452,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1402,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"03022026 00:00:00"
     },
     {
@@ -93958,7 +93958,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":1328,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"03022026 00:00:00"
     },
     {
@@ -94959,7 +94959,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":104,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"03022026 00:00:00"
     },
     {
@@ -96307,7 +96307,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -96318,7 +96318,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -96466,7 +96466,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1369,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"04022026 00:00:00"
     },
     {
@@ -96972,7 +96972,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":1021,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"04022026 00:00:00"
     },
     {
@@ -97973,7 +97973,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":104,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"04022026 00:00:00"
     },
     {
@@ -99321,7 +99321,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -99332,7 +99332,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -99480,7 +99480,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1366,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"05022026 00:00:00"
     },
     {
@@ -99986,7 +99986,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":1022,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"05022026 00:00:00"
     },
     {
@@ -100987,7 +100987,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":104,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"05022026 00:00:00"
     },
     {
@@ -102494,7 +102494,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1311,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"06022026 00:00:00"
     },
     {
@@ -103000,7 +103000,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":764,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"06022026 00:00:00"
     },
     {
@@ -104001,7 +104001,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":104,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"06022026 00:00:00"
     },
     {
@@ -105349,7 +105349,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -105360,7 +105360,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -105508,7 +105508,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1226,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"07022026 00:00:00"
     },
     {
@@ -106014,7 +106014,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":388,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"07022026 00:00:00"
     },
     {
@@ -107015,7 +107015,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":93,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"07022026 00:00:00"
     },
     {
@@ -108522,7 +108522,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1198,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"09022026 00:00:00"
     },
     {
@@ -109028,7 +109028,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":242,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"09022026 00:00:00"
     },
     {
@@ -110029,7 +110029,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":91,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"09022026 00:00:00"
     },
     {
@@ -111536,7 +111536,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1133,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"10022026 00:00:00"
     },
     {
@@ -112042,7 +112042,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":137,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"10022026 00:00:00"
     },
     {
@@ -113043,7 +113043,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":70,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"10022026 00:00:00"
     },
     {
@@ -114550,7 +114550,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1103,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"11022026 00:00:00"
     },
     {
@@ -115056,7 +115056,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":46,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"11022026 00:00:00"
     },
     {
@@ -116057,7 +116057,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":52,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"11022026 00:00:00"
     },
     {
@@ -117564,7 +117564,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1061,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"12022026 00:00:00"
     },
     {
@@ -118070,7 +118070,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":79,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"12022026 00:00:00"
     },
     {
@@ -119071,7 +119071,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":52,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"12022026 00:00:00"
     },
     {
@@ -120419,7 +120419,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -120430,7 +120430,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -120578,7 +120578,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":945,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"13022026 00:00:00"
     },
     {
@@ -121084,7 +121084,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":208,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"13022026 00:00:00"
     },
     {
@@ -122085,7 +122085,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":31,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"13022026 00:00:00"
     },
     {
@@ -123592,7 +123592,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":945,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"14022026 00:00:00"
     },
     {
@@ -124098,7 +124098,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":208,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"14022026 00:00:00"
     },
     {
@@ -125099,7 +125099,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":31,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"14022026 00:00:00"
     },
     {
@@ -126606,7 +126606,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1093,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"17022026 00:00:00"
     },
     {
@@ -127112,7 +127112,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":218,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"17022026 00:00:00"
     },
     {
@@ -128113,7 +128113,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":34,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"17022026 00:00:00"
     },
     {
@@ -129461,7 +129461,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -129472,7 +129472,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -129620,7 +129620,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1093,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"18022026 00:00:00"
     },
     {
@@ -130126,7 +130126,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":264,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"18022026 00:00:00"
     },
     {
@@ -131127,7 +131127,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":34,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"18022026 00:00:00"
     },
     {
@@ -132634,7 +132634,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1068,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"19022026 00:00:00"
     },
     {
@@ -133140,7 +133140,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":231,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"19022026 00:00:00"
     },
     {
@@ -134141,7 +134141,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":29,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"19022026 00:00:00"
     },
     {
@@ -135489,7 +135489,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -135500,7 +135500,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -135648,7 +135648,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":1007,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"20022026 00:00:00"
     },
     {
@@ -136154,7 +136154,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":0,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"20022026 00:00:00"
     },
     {
@@ -137155,7 +137155,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":0,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"20022026 00:00:00"
     },
     {
@@ -138662,7 +138662,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":996,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"21022026 00:00:00"
     },
     {
@@ -139168,7 +139168,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":1192,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"21022026 00:00:00"
     },
     {
@@ -140169,7 +140169,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":0,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"21022026 00:00:00"
     },
     {
@@ -141676,7 +141676,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":987,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"23022026 00:00:00"
     },
     {
@@ -142182,7 +142182,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":1452,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"23022026 00:00:00"
     },
     {
@@ -143183,7 +143183,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":0,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"23022026 00:00:00"
     },
     {
@@ -144690,7 +144690,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":980,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"24022026 00:00:00"
     },
     {
@@ -145196,7 +145196,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":1422,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"24022026 00:00:00"
     },
     {
@@ -146197,7 +146197,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":0,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"24022026 00:00:00"
     },
     {
@@ -147704,7 +147704,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":973,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"25022026 00:00:00"
     },
     {
@@ -148210,7 +148210,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":1416,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"25022026 00:00:00"
     },
     {
@@ -149211,7 +149211,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":0,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"25022026 00:00:00"
     },
     {
@@ -150718,7 +150718,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":959,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"26022026 00:00:00"
     },
     {
@@ -151224,7 +151224,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":1407,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"26022026 00:00:00"
     },
     {
@@ -152225,7 +152225,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":0,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"26022026 00:00:00"
     },
     {
@@ -153573,7 +153573,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -153584,7 +153584,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -153732,7 +153732,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":701,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"27022026 00:00:00"
     },
     {
@@ -154238,7 +154238,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":1159,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"27022026 00:00:00"
     },
     {
@@ -155239,7 +155239,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":150,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"27022026 00:00:00"
     },
     {
@@ -156746,7 +156746,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":346,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"28022026 00:00:00"
     },
     {
@@ -157252,7 +157252,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":699,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"28022026 00:00:00"
     },
     {
@@ -158253,7 +158253,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":118,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"28022026 00:00:00"
     },
     {
@@ -159760,7 +159760,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":346,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"01032026 00:00:00"
     },
     {
@@ -160266,7 +160266,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":699,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"01032026 00:00:00"
     },
     {
@@ -161267,7 +161267,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":118,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"01032026 00:00:00"
     },
     {
@@ -162774,7 +162774,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":343,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"02032026 00:00:00"
     },
     {
@@ -163280,7 +163280,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":689,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"02032026 00:00:00"
     },
     {
@@ -164281,7 +164281,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":118,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"02032026 00:00:00"
     },
     {
@@ -165629,7 +165629,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -165640,7 +165640,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -165788,7 +165788,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":341,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"03032026 00:00:00"
     },
     {
@@ -166294,7 +166294,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":678,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"03032026 00:00:00"
     },
     {
@@ -167295,7 +167295,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":118,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"03032026 00:00:00"
     },
     {
@@ -168802,7 +168802,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":331,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"04032026 00:00:00"
     },
     {
@@ -169308,7 +169308,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":672,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"04032026 00:00:00"
     },
     {
@@ -170309,7 +170309,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":103,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"04032026 00:00:00"
     },
     {
@@ -171816,7 +171816,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":288,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"05032026 00:00:00"
     },
     {
@@ -172322,7 +172322,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":669,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"05032026 00:00:00"
     },
     {
@@ -173323,7 +173323,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":103,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"05032026 00:00:00"
     },
     {
@@ -174830,7 +174830,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":208,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"06032026 00:00:00"
     },
     {
@@ -175336,7 +175336,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":444,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"06032026 00:00:00"
     },
     {
@@ -176337,7 +176337,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":101,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"06032026 00:00:00"
     },
     {
@@ -177844,7 +177844,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":197,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"07032026 00:00:00"
     },
     {
@@ -178350,7 +178350,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":390,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"07032026 00:00:00"
     },
     {
@@ -179351,7 +179351,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":101,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"07032026 00:00:00"
     },
     {
@@ -180858,7 +180858,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":173,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"09032026 00:00:00"
     },
     {
@@ -181364,7 +181364,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":368,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"09032026 00:00:00"
     },
     {
@@ -182365,7 +182365,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":81,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"09032026 00:00:00"
     },
     {
@@ -183713,7 +183713,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -183724,7 +183724,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -183872,7 +183872,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":67,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"10032026 00:00:00"
     },
     {
@@ -184378,7 +184378,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":324,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"10032026 00:00:00"
     },
     {
@@ -185379,7 +185379,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":59,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"10032026 00:00:00"
     },
     {
@@ -186886,7 +186886,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":13,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"11032026 00:00:00"
     },
     {
@@ -187392,7 +187392,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":302,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"11032026 00:00:00"
     },
     {
@@ -188393,7 +188393,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":52,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"11032026 00:00:00"
     },
     {
@@ -189900,7 +189900,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":0,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"12032026 00:00:00"
     },
     {
@@ -190406,7 +190406,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":250,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"12032026 00:00:00"
     },
     {
@@ -191407,7 +191407,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":52,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"12032026 00:00:00"
     },
     {
@@ -192914,7 +192914,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":306,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"13032026 00:00:00"
     },
     {
@@ -193420,7 +193420,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":544,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"13032026 00:00:00"
     },
     {
@@ -194421,7 +194421,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":0,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"13032026 00:00:00"
     },
     {
@@ -195769,7 +195769,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -195780,7 +195780,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -195928,7 +195928,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":296,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"14032026 00:00:00"
     },
     {
@@ -196434,7 +196434,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":544,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"14032026 00:00:00"
     },
     {
@@ -197435,7 +197435,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":0,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"14032026 00:00:00"
     },
     {
@@ -198942,7 +198942,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":261,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"16032026 00:00:00"
     },
     {
@@ -199448,7 +199448,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":480,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"16032026 00:00:00"
     },
     {
@@ -200449,7 +200449,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":0,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"16032026 00:00:00"
     },
     {
@@ -201956,7 +201956,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":240,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"17032026 00:00:00"
     },
     {
@@ -202462,7 +202462,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":462,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"17032026 00:00:00"
     },
     {
@@ -203463,7 +203463,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":0,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"17032026 00:00:00"
     },
     {
@@ -204811,7 +204811,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -204822,7 +204822,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -204970,7 +204970,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":226,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"18032026 00:00:00"
     },
     {
@@ -205476,7 +205476,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":451,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"18032026 00:00:00"
     },
     {
@@ -206477,7 +206477,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":0,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"18032026 00:00:00"
     },
     {
@@ -207984,7 +207984,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":204,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"19032026 00:00:00"
     },
     {
@@ -208490,7 +208490,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":386,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"19032026 00:00:00"
     },
     {
@@ -209491,7 +209491,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":0,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"19032026 00:00:00"
     },
     {
@@ -210998,7 +210998,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":0,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"20032026 00:00:00"
     },
     {
@@ -211504,7 +211504,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":3,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"20032026 00:00:00"
     },
     {
@@ -212505,7 +212505,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":148,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"20032026 00:00:00"
     },
     {
@@ -213853,7 +213853,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -213864,7 +213864,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -214012,7 +214012,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":0,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"21032026 00:00:00"
     },
     {
@@ -214518,7 +214518,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":3,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"21032026 00:00:00"
     },
     {
@@ -215519,7 +215519,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":148,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"21032026 00:00:00"
     },
     {
@@ -217026,7 +217026,7 @@
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
         "SALDO":581,
-        "CUSTO":6.31062,
+        "CUSTO":6.310368,
         "DTNEG":"23032026 00:00:00"
     },
     {
@@ -217532,7 +217532,7 @@
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
         "SALDO":0,
-        "CUSTO":9.8556,
+        "CUSTO":9.772212,
         "DTNEG":"23032026 00:00:00"
     },
     {
@@ -218533,7 +218533,7 @@
         "ESTMIN":232.0,
         "ESTMAX":331.0,
         "SALDO":145,
-        "CUSTO":33.263192,
+        "CUSTO":33.263184,
         "DTNEG":"23032026 00:00:00"
     },
     {
@@ -220020,5 +220020,3019 @@
         "SALDO":0,
         "CUSTO":8.6,
         "DTNEG":"23032026 00:00:00"
+    },
+    {
+        "CODPROD":2,
+        "DESCRPROD":"TEMPERO COMPLETO ESPECIAL 500G SADIO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO TRADICIONAL 500\/750",
+        "ESTMIN":1443.0,
+        "ESTMAX":2062.0,
+        "SALDO":441,
+        "CUSTO":11.473752,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":4,
+        "DESCRPROD":"TEMPERO SEM PIMENTA 500G SADIO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO TRADICIONAL 500\/750",
+        "ESTMIN":948.0,
+        "ESTMAX":1354.0,
+        "SALDO":713,
+        "CUSTO":6.310368,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":6,
+        "DESCRPROD":"TEMPERO CASEIRO TRADICIONAL ESCURO VERDE 500G SADIO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO COMBATE 500",
+        "ESTMIN":147.0,
+        "ESTMAX":210.0,
+        "SALDO":619,
+        "CUSTO":5.788116,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8,
+        "DESCRPROD":"VINAGRE DE ALCOOL 500ML SADIO",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE TRADICIONAL 500\/750",
+        "ESTMIN":31205.0,
+        "ESTMAX":44578.0,
+        "SALDO":8724,
+        "CUSTO":5.387868,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":10,
+        "DESCRPROD":"MOLHO DE ALHO 500ML SADIO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"MOLHO 500",
+        "ESTMIN":1880.0,
+        "ESTMAX":2686.0,
+        "SALDO":2098,
+        "CUSTO":8.256192,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":12,
+        "DESCRPROD":"MOLHO DE ALHO 150ML SADIO",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":2349.0,
+        "ESTMAX":3355.0,
+        "SALDO":1258,
+        "CUSTO":6.211764,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":14,
+        "DESCRPROD":"MOLHO INGLES 150ML SADIO",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":2520.0,
+        "ESTMAX":3600.0,
+        "SALDO":1848,
+        "CUSTO":5.475288,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":16,
+        "DESCRPROD":"MOLHO DE PIMENTA 150ML SADIO",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":2092.0,
+        "ESTMAX":2989.0,
+        "SALDO":1240,
+        "CUSTO":9.273,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":18,
+        "DESCRPROD":"TEMPERO COMPLETO 500G LETO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO COMBATE 500",
+        "ESTMIN":6117.0,
+        "ESTMAX":8738.0,
+        "SALDO":0,
+        "CUSTO":5.547828,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":29,
+        "DESCRPROD":"PURO ALHO 200G SADIO",
+        "LINHA":"PURO ALHO 200-440-1000-2000 1",
+        "GRUPO":"PASTA DE ALHO",
+        "ESTMIN":1517.0,
+        "ESTMAX":2167.0,
+        "SALDO":319,
+        "CUSTO":17.442048,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":30,
+        "DESCRPROD":"PURO ALHO 440G SADIO",
+        "LINHA":"PURO ALHO 200-440-1000-2000 1",
+        "GRUPO":"PASTA DE ALHO",
+        "ESTMIN":638.0,
+        "ESTMAX":912.0,
+        "SALDO":76,
+        "CUSTO":32.526312,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":31,
+        "DESCRPROD":"PURO ALHO 1KG SADIO",
+        "LINHA":"PURO ALHO 200-440-1000-2000 1",
+        "GRUPO":"PASTA DE ALHO",
+        "ESTMIN":194.0,
+        "ESTMAX":277.0,
+        "SALDO":138,
+        "CUSTO":38.669136,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":36,
+        "DESCRPROD":"TEMPERO COMPLETO 500G REDE MAIS",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO COMBATE 500",
+        "ESTMIN":726.0,
+        "ESTMAX":1037.0,
+        "SALDO":1395,
+        "CUSTO":5.50956,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":39,
+        "DESCRPROD":"TEMPERO COMPLETO 500G SUPERCOP",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO COMBATE 500",
+        "ESTMIN":468.0,
+        "ESTMAX":669.0,
+        "SALDO":512,
+        "CUSTO":5.61936,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":40,
+        "DESCRPROD":"TEMPERO COMPLETO 500G BOM DA REDE",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO COMBATE 500",
+        "ESTMIN":17.0,
+        "ESTMAX":24.0,
+        "SALDO":21,
+        "CUSTO":5.447496,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":54,
+        "DESCRPROD":"MOLHO SHOYU 150ML SADIO",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":3252.0,
+        "ESTMAX":4646.0,
+        "SALDO":2362,
+        "CUSTO":6.483276,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":66,
+        "DESCRPROD":"VINAGRE DE ALCOOL 500ML BOM DA REDE",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE TRADICIONAL 500\/750",
+        "ESTMIN":19.0,
+        "ESTMAX":27.0,
+        "SALDO":0,
+        "CUSTO":5.000304,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":67,
+        "DESCRPROD":"MOLHO DE ALHO 500ML BOM DA REDE",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"MOLHO 500",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":7.508448,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":76,
+        "DESCRPROD":"EXTRATO DE ALHO 500ML SADIO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"MOLHO 500",
+        "ESTMIN":761.0,
+        "ESTMAX":1087.0,
+        "SALDO":211,
+        "CUSTO":8.148312,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":80,
+        "DESCRPROD":"MOLHO INGLES 500ML SADIO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"MOLHO 500",
+        "ESTMIN":354.0,
+        "ESTMAX":506.0,
+        "SALDO":385,
+        "CUSTO":5.737068,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":81,
+        "DESCRPROD":"MOLHO DE PIMENTA 500ML SADIO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"MOLHO 500",
+        "ESTMIN":83.0,
+        "ESTMAX":119.0,
+        "SALDO":248,
+        "CUSTO":9.408828,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":82,
+        "DESCRPROD":"MOLHO SHOYU 500ML SADIO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"MOLHO 500",
+        "ESTMIN":364.0,
+        "ESTMAX":520.0,
+        "SALDO":127,
+        "CUSTO":10.1022,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":213,
+        "DESCRPROD":"TEMPERO PARA CARNES 500G SADIO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO TRADICIONAL 500\/750",
+        "ESTMIN":802.0,
+        "ESTMAX":1146.0,
+        "SALDO":2355,
+        "CUSTO":7.54908,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":319,
+        "DESCRPROD":"MOLHO DE ALHO 150ML MESTRE CUCA",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":5.724012,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":320,
+        "DESCRPROD":"MOLHO DE ALHO 500ML MESTRE CUCA",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"MOLHO 500",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":7.85418,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":321,
+        "DESCRPROD":"MOLHO DE PIMENTA AO LEITE 150ML MESTRE CUCA",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":9.002916,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":322,
+        "DESCRPROD":"MOLHO DE PIMENTA 150ML MESTRE CUCA",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":8.852424,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":391,
+        "DESCRPROD":"PURO ALHO 2KG SADIO",
+        "LINHA":"PURO ALHO 200-440-1000-2000 1",
+        "GRUPO":"PASTA DE ALHO",
+        "ESTMIN":125.0,
+        "ESTMAX":178.0,
+        "SALDO":160,
+        "CUSTO":58.440006,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":450,
+        "DESCRPROD":"TEMPERO PARA FRANGO 500G SADIO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO TRADICIONAL 500\/750",
+        "ESTMIN":937.0,
+        "ESTMAX":1339.0,
+        "SALDO":1021,
+        "CUSTO":7.185768,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":460,
+        "DESCRPROD":"MOLHO INGLES 150ML MESTRE CUCA",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":5.201628,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":461,
+        "DESCRPROD":"MOLHO INGLES 500ML MESTRE CUCA",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"MOLHO 500",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":5.382288,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":462,
+        "DESCRPROD":"MOLHO SHOYU 150ML MESTRE CUCA",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":6.57894,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":463,
+        "DESCRPROD":"MOLHO SHOYU 500ML MESTRE CUCA",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"MOLHO 500",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":9.702468,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":464,
+        "DESCRPROD":"VINAGRE DE ALCOOL ALHO 500ML MESTRE CUCA",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE SABOR 500",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":6,
+        "CUSTO":5.361504,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":465,
+        "DESCRPROD":"VINAGRE DE ALCOOL LIMAO 500ML MESTRE CUCA",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE SABOR 500",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":5.584284,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":467,
+        "DESCRPROD":"VINAGRE DE ALCOOL MACA 500ML MESTRE CUCA",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE SABOR 500",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":5.612088,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":926,
+        "DESCRPROD":"MOLHO DE PIMENTA AMARELA 150ML SADIO",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":399.0,
+        "ESTMAX":570.0,
+        "SALDO":444,
+        "CUSTO":11.130492,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":1103,
+        "DESCRPROD":"TEMPERO COMPLETO 500G FRINEX",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO COMBATE 500",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":5.786916,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":1104,
+        "DESCRPROD":"VINAGRE DE ALCOOL 500ML FRINEX",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE TRADICIONAL 500\/750",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":5.95404,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":1105,
+        "DESCRPROD":"TEMPERO PARA FRANGO 500G FRINEX",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO TRADICIONAL 500\/750",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":7.342812,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":1106,
+        "DESCRPROD":"MOLHO INGLES 150ML FRINEX",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":5.44038,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":1107,
+        "DESCRPROD":"MOLHO DE PIMENTA 150ML FRINEX",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":6.476904,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":1365,
+        "DESCRPROD":"CATCHUP TRADICIONAL 200G SADIO",
+        "LINHA":"CATCHUP 180-200-380",
+        "GRUPO":"CATCHUP\/MOST\/BARB 190-200-380",
+        "ESTMIN":1324.0,
+        "ESTMAX":1891.0,
+        "SALDO":1398,
+        "CUSTO":12.24618,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":1372,
+        "DESCRPROD":"MOSTARDA AMARELA 190G SADIO",
+        "LINHA":"CATCHUP 180-200-380",
+        "GRUPO":"CATCHUP\/MOST\/BARB 190-200-380",
+        "ESTMIN":643.0,
+        "ESTMAX":919.0,
+        "SALDO":618,
+        "CUSTO":12.518424,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":1383,
+        "DESCRPROD":"CATCHUP TRADICIONAL 380G SADIO",
+        "LINHA":"CATCHUP 180-200-380",
+        "GRUPO":"CATCHUP\/MOST\/BARB 190-200-380",
+        "ESTMIN":1419.0,
+        "ESTMAX":2027.0,
+        "SALDO":1598,
+        "CUSTO":18.695304,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":1452,
+        "DESCRPROD":"BARBECUE TRADICIONAL 380G SADIO",
+        "LINHA":"CATCHUP 180-200-380",
+        "GRUPO":"CATCHUP\/MOST\/BARB 190-200-380",
+        "ESTMIN":509.0,
+        "ESTMAX":727.0,
+        "SALDO":629,
+        "CUSTO":18.469248,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":1480,
+        "DESCRPROD":"CATCHUP PREMIUM 380G MR MAKER",
+        "LINHA":"CATCHUP 180-200-380",
+        "GRUPO":"CATCHUP\/MOST\/BARB 190-200-380",
+        "ESTMIN":235.0,
+        "ESTMAX":336.0,
+        "SALDO":159,
+        "CUSTO":19.406436,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":1531,
+        "DESCRPROD":"MOLHO DE PIMENTA EXTRA FORTE 150ML PINGO",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":1896.0,
+        "ESTMAX":2708.0,
+        "SALDO":19,
+        "CUSTO":9.772212,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":1571,
+        "DESCRPROD":"MOLHO DE ALHO 150ML FRINEX",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":6.280764,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":2046,
+        "DESCRPROD":"CREME DE ALHO SABOR QUEIJO 360G SADIO",
+        "LINHA":"CATCHUP 180-200-380",
+        "GRUPO":"CREME DE ALHO\/PASTA PAO DE ALH",
+        "ESTMIN":386.0,
+        "ESTMAX":552.0,
+        "SALDO":0,
+        "CUSTO":30.191436,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":2266,
+        "DESCRPROD":"VINAGRE DE ALCOOL 5L SADIO",
+        "LINHA":"60-5000 MANUAL LIQUIDO 1",
+        "GRUPO":"FOOD SERVICE",
+        "ESTMIN":645.0,
+        "ESTMAX":922.0,
+        "SALDO":479,
+        "CUSTO":7.898814,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":2875,
+        "DESCRPROD":"PURO ALHO 200G FRINEX",
+        "LINHA":"PURO ALHO 200-440-1000-2000 1",
+        "GRUPO":"PASTA DE ALHO",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":18.593052,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":2876,
+        "DESCRPROD":"PASTA DE ALHO 1KG FRINEX",
+        "LINHA":"PURO ALHO 200-440-1000-2000 1",
+        "GRUPO":"PASTA DE ALHO",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":37.21866,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":2923,
+        "DESCRPROD":"TEMPERO COMPLETO 500G SUPER SHOW",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO COMBATE 500",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":5.485992,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3172,
+        "DESCRPROD":"VINAGRE DE ALCOOL 500ML LETO",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE TRADICIONAL 500\/750",
+        "ESTMIN":18332.0,
+        "ESTMAX":26189.0,
+        "SALDO":12,
+        "CUSTO":5.389008,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3174,
+        "DESCRPROD":"MOLHO DE ALHO 500ML LETO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"MOLHO 500",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":2,
+        "CUSTO":7.17,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3175,
+        "DESCRPROD":"MOLHO INGLES 150ML LETO",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":77.0,
+        "ESTMAX":110.0,
+        "SALDO":227,
+        "CUSTO":5.451108,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3176,
+        "DESCRPROD":"MOLHO DE PIMENTA 150ML LETO",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":85.0,
+        "ESTMAX":122.0,
+        "SALDO":52,
+        "CUSTO":6.249804,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3177,
+        "DESCRPROD":"MOLHO SHOYU 150ML LETO",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":99.0,
+        "ESTMAX":142.0,
+        "SALDO":94,
+        "CUSTO":6.80058,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3178,
+        "DESCRPROD":"MOLHO DE ALHO 150ML LETO",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":101.0,
+        "ESTMAX":144.0,
+        "SALDO":62,
+        "CUSTO":6.321804,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3179,
+        "DESCRPROD":"PASTA DE ALHO 200G LETO",
+        "LINHA":"PURO ALHO 200-440-1000-2000 1",
+        "GRUPO":"PASTA DE ALHO",
+        "ESTMIN":433.0,
+        "ESTMAX":618.0,
+        "SALDO":273,
+        "CUSTO":17.409,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3333,
+        "DESCRPROD":"PAPRICA PICANTE PC 50G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":149.0,
+        "ESTMAX":213.0,
+        "SALDO":115,
+        "CUSTO":18.484752,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3335,
+        "DESCRPROD":"COMINHO MOIDO PC 40G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":155.0,
+        "ESTMAX":222.0,
+        "SALDO":253,
+        "CUSTO":14.363256,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3337,
+        "DESCRPROD":"LOURO PC 4G SADIO",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":499.0,
+        "ESTMAX":713.0,
+        "SALDO":84,
+        "CUSTO":4.560168,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3338,
+        "DESCRPROD":"CANELA EM CASCA PC 10G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":86.0,
+        "ESTMAX":123.0,
+        "SALDO":73,
+        "CUSTO":10.391232,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3339,
+        "DESCRPROD":"CRAVO PC 10G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":308.0,
+        "ESTMAX":440.0,
+        "SALDO":391,
+        "CUSTO":13.759344,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3340,
+        "DESCRPROD":"BICARBONATO DE SODIO PC 30G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":589.0,
+        "ESTMAX":841.0,
+        "SALDO":870,
+        "CUSTO":5.430504,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3343,
+        "DESCRPROD":"ALECRIM PC 7G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":189.0,
+        "ESTMAX":270.0,
+        "SALDO":245,
+        "CUSTO":17.716872,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3345,
+        "DESCRPROD":"CURRY PC 30G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":142.0,
+        "ESTMAX":203.0,
+        "SALDO":78,
+        "CUSTO":11.177232,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3346,
+        "DESCRPROD":"ERVAS FINAS PC 12G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":146.0,
+        "ESTMAX":208.0,
+        "SALDO":117,
+        "CUSTO":8.79252,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3347,
+        "DESCRPROD":"SALSA PC 10G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":90.0,
+        "ESTMAX":128.0,
+        "SALDO":64,
+        "CUSTO":7.123584,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3348,
+        "DESCRPROD":"PIMENTA PRETA GRAO PC 15G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":220.0,
+        "ESTMAX":314.0,
+        "SALDO":264,
+        "CUSTO":17.665464,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3349,
+        "DESCRPROD":"PIMENTA PRETA MOIDA PC 40G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":295.0,
+        "ESTMAX":421.0,
+        "SALDO":87,
+        "CUSTO":41.429712,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3350,
+        "DESCRPROD":"OREGANO PC 12G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":445.0,
+        "ESTMAX":636.0,
+        "SALDO":881,
+        "CUSTO":6.971952,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3351,
+        "DESCRPROD":"MANJERICAO PC 8G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":130.0,
+        "ESTMAX":186.0,
+        "SALDO":219,
+        "CUSTO":2.77152,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3356,
+        "DESCRPROD":"CANELA PO POTE 35G SADIO",
+        "LINHA":"CANELA 35G PÓ",
+        "GRUPO":"CANELA POTE AMARELO",
+        "ESTMIN":1081.0,
+        "ESTMAX":1544.0,
+        "SALDO":211,
+        "CUSTO":31.472208,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3359,
+        "DESCRPROD":"OREGANO FR 15G SADIO",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO SECO FRASCO PET",
+        "ESTMIN":50.0,
+        "ESTMAX":72.0,
+        "SALDO":212,
+        "CUSTO":12.24,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3361,
+        "DESCRPROD":"ALHO GRANULADO FR 70G SADIO",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO SECO FRASCO PET",
+        "ESTMIN":34.0,
+        "ESTMAX":49.0,
+        "SALDO":292,
+        "CUSTO":16.92,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3362,
+        "DESCRPROD":"PIMENTA PRETA MOIDA FR 75G SADIO",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO SECO FRASCO PET",
+        "ESTMIN":80.0,
+        "ESTMAX":114.0,
+        "SALDO":43,
+        "CUSTO":24.916122,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3363,
+        "DESCRPROD":"CURRY FR 68G SADIO",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO SECO FRASCO PET",
+        "ESTMIN":26.0,
+        "ESTMAX":37.0,
+        "SALDO":171,
+        "CUSTO":10.178658,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3366,
+        "DESCRPROD":"PAPRICA PICANTE FR 54G SADIO",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO SECO FRASCO PET",
+        "ESTMIN":14.0,
+        "ESTMAX":20.0,
+        "SALDO":15,
+        "CUSTO":16.92,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":3924,
+        "DESCRPROD":"MOLHO SHOYU 5L SADIO",
+        "LINHA":"60-5000 MANUAL LIQUIDO 1",
+        "GRUPO":"FOOD SERVICE",
+        "ESTMIN":198.0,
+        "ESTMAX":283.0,
+        "SALDO":13,
+        "CUSTO":14.1683,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":5080,
+        "DESCRPROD":"TEMPERO PARA FRANGO 500G LETO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO TRADICIONAL 500\/750",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":5.2992,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":5268,
+        "DESCRPROD":"TEMPERO COMPLETO 500G FAVORITO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO COMBATE 500",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":5.59932,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":6370,
+        "DESCRPROD":"MOLHO SHOYU 150ML FRINEX",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":14,
+        "CUSTO":6.850536,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7278,
+        "DESCRPROD":"PASTA DE ALHO 440G LETO",
+        "LINHA":"PURO ALHO 200-440-1000-2000 1",
+        "GRUPO":"PASTA DE ALHO",
+        "ESTMIN":113.0,
+        "ESTMAX":161.0,
+        "SALDO":3,
+        "CUSTO":43.010676,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7281,
+        "DESCRPROD":"VINAGRE DE ALCOOL LIMAO 500ML SADIO",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE SABOR 500",
+        "ESTMIN":588.0,
+        "ESTMAX":840.0,
+        "SALDO":859,
+        "CUSTO":5.663868,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7282,
+        "DESCRPROD":"VINAGRE DE ALCOOL MACA 500ML SADIO",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE SABOR 500",
+        "ESTMIN":1045.0,
+        "ESTMAX":1493.0,
+        "SALDO":1821,
+        "CUSTO":5.922516,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7283,
+        "DESCRPROD":"VINAGRE DE ALCOOL ALHO 500ML SADIO",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE SABOR 500",
+        "ESTMIN":307.0,
+        "ESTMAX":439.0,
+        "SALDO":638,
+        "CUSTO":5.31318,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7284,
+        "DESCRPROD":"CONDIMENTOS COM VINAGRE 500ML SADIO",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE SABOR 500",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":3.615756,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7303,
+        "DESCRPROD":"OREGANO PC 200G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"FOOD SERVICE",
+        "ESTMIN":356.0,
+        "ESTMAX":508.0,
+        "SALDO":243,
+        "CUSTO":22.387308,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7310,
+        "DESCRPROD":"VINAGRE DE ALCOOL COLORIDO 500ML SADIO",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE TRADICIONAL 500\/750",
+        "ESTMIN":133.0,
+        "ESTMAX":190.0,
+        "SALDO":429,
+        "CUSTO":5.50242,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7399,
+        "DESCRPROD":"TEMPERO SEM PIMENTA 500G FRINEX",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO TRADICIONAL 500\/750",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":2,
+        "CUSTO":7.147812,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7401,
+        "DESCRPROD":"TEMPERO PARA CARNES 500G FRINEX",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO TRADICIONAL 500\/750",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":7.743288,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7402,
+        "DESCRPROD":"EXTRATO DE ALHO 500ML FRINEX",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"MOLHO 500",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":8.250576,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7414,
+        "DESCRPROD":"EXTRATO DE ALHO 500ML LETO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"MOLHO 500",
+        "ESTMIN":434.0,
+        "ESTMAX":620.0,
+        "SALDO":274,
+        "CUSTO":8.38398,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7486,
+        "DESCRPROD":"SAL MARINHO REFIL 90G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"REFIL MR MAKER",
+        "ESTMIN":27.0,
+        "ESTMAX":38.0,
+        "SALDO":45,
+        "CUSTO":8.619924,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7487,
+        "DESCRPROD":"SAL DO HIMALAIA REFIL 90G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"REFIL MR MAKER",
+        "ESTMIN":42.0,
+        "ESTMAX":60.0,
+        "SALDO":181,
+        "CUSTO":10.953828,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7488,
+        "DESCRPROD":"PIMENTA PRETA REFIL 40G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"REFIL MR MAKER",
+        "ESTMIN":249.0,
+        "ESTMAX":355.0,
+        "SALDO":160,
+        "CUSTO":29.795832,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7489,
+        "DESCRPROD":"MIX DE PIMENTAS REFIL 40G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"REFIL MR MAKER",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":17.870688,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7490,
+        "DESCRPROD":"PIMENTA CALABRESA COM SAL ROSA REFIL 40G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"REFIL MR MAKER",
+        "ESTMIN":22.0,
+        "ESTMAX":31.0,
+        "SALDO":115,
+        "CUSTO":8.829036,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7493,
+        "DESCRPROD":"ERVAS FINAS COM SAL ROSA REFIL 65G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"REFIL MR MAKER",
+        "ESTMIN":43.0,
+        "ESTMAX":62.0,
+        "SALDO":15,
+        "CUSTO":8.520336,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7526,
+        "DESCRPROD":"ADOCANTE LIQUIDO SACARINA 100ML SADIO",
+        "LINHA":"ADOÇANTE 100 1",
+        "GRUPO":"ADOCANTE TRADICIONAL",
+        "ESTMIN":585.0,
+        "ESTMAX":836.0,
+        "SALDO":905,
+        "CUSTO":11.346588,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7528,
+        "DESCRPROD":"ADOCANTE LIQUIDO SUCRALOSE 100ML SADIO",
+        "LINHA":"ADOÇANTE 100 1",
+        "GRUPO":"ADOCANTE SABOR",
+        "ESTMIN":508.0,
+        "ESTMAX":726.0,
+        "SALDO":346,
+        "CUSTO":13.003716,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7529,
+        "DESCRPROD":"ADOCANTE LIQUIDO STEVIA 100ML SADIO",
+        "LINHA":"ADOÇANTE 100 1",
+        "GRUPO":"ADOCANTE SABOR",
+        "ESTMIN":1660.0,
+        "ESTMAX":2371.0,
+        "SALDO":404,
+        "CUSTO":61.368276,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7534,
+        "DESCRPROD":"MOLHO DE PIMENTA AO LEITE 150ML SADIO",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":1057.0,
+        "ESTMAX":1510.0,
+        "SALDO":824,
+        "CUSTO":9.065112,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7535,
+        "DESCRPROD":"SAL DO HIMALAIA MOEDOR 110G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"MOEDOR MR MAKER",
+        "ESTMIN":99.0,
+        "ESTMAX":141.0,
+        "SALDO":7,
+        "CUSTO":27.620772,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7536,
+        "DESCRPROD":"SAL MARINHO MOEDOR 110G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"MOEDOR MR MAKER",
+        "ESTMIN":78.0,
+        "ESTMAX":112.0,
+        "SALDO":32,
+        "CUSTO":22.896606,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7537,
+        "DESCRPROD":"MIX DE PIMENTAS MOEDOR 50G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"MOEDOR MR MAKER",
+        "ESTMIN":209.0,
+        "ESTMAX":299.0,
+        "SALDO":131,
+        "CUSTO":37.330428,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7541,
+        "DESCRPROD":"PIMENTA PRETA MOEDOR 50G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"MOEDOR MR MAKER",
+        "ESTMIN":253.0,
+        "ESTMAX":362.0,
+        "SALDO":236,
+        "CUSTO":35.856012,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7542,
+        "DESCRPROD":"PIMENTA CALABRESA COM SAL ROSA MOEDOR 50G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"MOEDOR MR MAKER",
+        "ESTMIN":63.0,
+        "ESTMAX":90.0,
+        "SALDO":137,
+        "CUSTO":24.61239,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7543,
+        "DESCRPROD":"ERVAS FINAS COM SAL ROSA MOEDOR 80G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"MOEDOR MR MAKER",
+        "ESTMIN":162.0,
+        "ESTMAX":231.0,
+        "SALDO":116,
+        "CUSTO":24.394338,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7568,
+        "DESCRPROD":"TEMPERO CASEIRO COMPLETO CLARO AZUL 500G SADIO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO COMBATE 500",
+        "ESTMIN":6193.0,
+        "ESTMAX":8847.0,
+        "SALDO":2467,
+        "CUSTO":5.558016,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7587,
+        "DESCRPROD":"MIX PARA FRANGO 2KG SADIO",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"FOOD SERVICE",
+        "ESTMIN":106.0,
+        "ESTMAX":152.0,
+        "SALDO":25,
+        "CUSTO":79.308282,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7704,
+        "DESCRPROD":"VINAGRE DE ALCOOL MACA 500ML FRINEX",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE SABOR 500",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":6.035484,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7705,
+        "DESCRPROD":"VINAGRE DE ALCOOL ALHO 500ML FRINEX",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE SABOR 500",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":5.60514,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7706,
+        "DESCRPROD":"VINAGRE DE ALCOOL LIMAO 500ML FRINEX",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE SABOR 500",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":5.95878,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7845,
+        "DESCRPROD":"CANELA PO POTE 30G LETO",
+        "LINHA":"CANELA 35G PÓ",
+        "GRUPO":"CANELA POTE AMARELO",
+        "ESTMIN":689.0,
+        "ESTMAX":984.0,
+        "SALDO":397,
+        "CUSTO":11.313696,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7865,
+        "DESCRPROD":"VINAGRE DE ALCOOL MACA 500ML LETO",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE SABOR 500",
+        "ESTMIN":81.0,
+        "ESTMAX":116.0,
+        "SALDO":189,
+        "CUSTO":5.288556,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7875,
+        "DESCRPROD":"MOLHO DE PIMENTA AO LEITE 150ML FRINEX",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":1,
+        "CUSTO":6.050004,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":7989,
+        "DESCRPROD":"ACAFRAO\/CURCUMA MOIDO FR 53G SADIO",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO SECO FRASCO PET",
+        "ESTMIN":155.0,
+        "ESTMAX":222.0,
+        "SALDO":2,
+        "CUSTO":11.799618,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8059,
+        "DESCRPROD":"TEMPERO PARA FRANGO MOEDOR 70G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"MOEDOR ESPECIAL MR MAKER",
+        "ESTMIN":57.0,
+        "ESTMAX":81.0,
+        "SALDO":0,
+        "CUSTO":24.946674,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8060,
+        "DESCRPROD":"TEMPERO PARA CARNES MOEDOR 70G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"MOEDOR ESPECIAL MR MAKER",
+        "ESTMIN":61.0,
+        "ESTMAX":87.0,
+        "SALDO":33,
+        "CUSTO":23.320668,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8061,
+        "DESCRPROD":"TEMPERO PARA PEIXE MOEDOR 60G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"MOEDOR ESPECIAL MR MAKER",
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":24,
+        "CUSTO":24.02352,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8139,
+        "DESCRPROD":"VINAGRE DE ALCOOL 750ML SADIO",
+        "LINHA":"CATCHUP 750-800-830",
+        "GRUPO":"VINAGRE TRADICIONAL 500\/750",
+        "ESTMIN":1492.0,
+        "ESTMAX":2131.0,
+        "SALDO":255,
+        "CUSTO":8.64,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8141,
+        "DESCRPROD":"MOLHO DE ALHO 750ML SADIO",
+        "LINHA":"CATCHUP 750-800-830",
+        "GRUPO":"MOLHO 750",
+        "ESTMIN":258.0,
+        "ESTMAX":368.0,
+        "SALDO":10,
+        "CUSTO":12.935124,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8142,
+        "DESCRPROD":"MOLHO DE PIMENTA VERMELHA 750ML SADIO",
+        "LINHA":"CATCHUP 750-800-830",
+        "GRUPO":"MOLHO 750",
+        "ESTMIN":19.0,
+        "ESTMAX":27.0,
+        "SALDO":0,
+        "CUSTO":11.62956,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8144,
+        "DESCRPROD":"MOLHO INGLES 750ML SADIO",
+        "LINHA":"CATCHUP 750-800-830",
+        "GRUPO":"MOLHO 750",
+        "ESTMIN":445.0,
+        "ESTMAX":636.0,
+        "SALDO":321,
+        "CUSTO":27.842856,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8145,
+        "DESCRPROD":"MOLHO SHOYU 750ML SADIO",
+        "LINHA":"CATCHUP 750-800-830",
+        "GRUPO":"MOLHO 750",
+        "ESTMIN":473.0,
+        "ESTMAX":675.0,
+        "SALDO":387,
+        "CUSTO":12.338256,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8146,
+        "DESCRPROD":"CATCHUP TRADICIONAL 830G SADIO",
+        "LINHA":"CATCHUP 750-800-830",
+        "GRUPO":"CATCHUP\/MOST\/BARB 800-830",
+        "ESTMIN":2453.0,
+        "ESTMAX":3504.0,
+        "SALDO":0,
+        "CUSTO":24.123348,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8147,
+        "DESCRPROD":"BARBECUE TRADICIONAL 830G SADIO",
+        "LINHA":"CATCHUP 750-800-830",
+        "GRUPO":"CATCHUP\/MOST\/BARB 800-830",
+        "ESTMIN":477.0,
+        "ESTMAX":681.0,
+        "SALDO":0,
+        "CUSTO":27.866784,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8148,
+        "DESCRPROD":"MOLHO DE TOMATE TRADICIONAL 300G SADIO",
+        "LINHA":"MOLHO DE TOMATE 300 1 & 2",
+        "GRUPO":"MOLHO DE TOMATE COMBATE",
+        "ESTMIN":13541.0,
+        "ESTMAX":19344.0,
+        "SALDO":14856,
+        "CUSTO":11.782032,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8149,
+        "DESCRPROD":"MOLHO DE TOMATE PIZZA 300G SADIO",
+        "LINHA":"MOLHO DE TOMATE 300 1 & 2",
+        "GRUPO":"MOLHO DE TOMATE ESPECIAL",
+        "ESTMIN":2085.0,
+        "ESTMAX":2979.0,
+        "SALDO":947,
+        "CUSTO":11.714472,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8151,
+        "DESCRPROD":"MOLHO DE TOMATE MANJERICAO 300G SADIO",
+        "LINHA":"MOLHO DE TOMATE 300 1 & 2",
+        "GRUPO":"MOLHO DE TOMATE ESPECIAL",
+        "ESTMIN":1793.0,
+        "ESTMAX":2562.0,
+        "SALDO":0,
+        "CUSTO":12.627648,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8221,
+        "DESCRPROD":"MOLHO SHOYU 500ML LETO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"MOLHO 500",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":9.890028,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8222,
+        "DESCRPROD":"MOLHO INGLES 500ML LETO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"MOLHO 500",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":5.162796,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8270,
+        "DESCRPROD":"VINAGRE DE ALCOOL COLORIDO 500ML LETO",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE TRADICIONAL 500\/750",
+        "ESTMIN":133.0,
+        "ESTMAX":190.0,
+        "SALDO":205,
+        "CUSTO":5.02182,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8271,
+        "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
+        "LINHA":"CATCHUP 750-800-830",
+        "GRUPO":"FOOD SERVICE",
+        "ESTMIN":420.0,
+        "ESTMAX":600.0,
+        "SALDO":294,
+        "CUSTO":32.54124,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8272,
+        "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
+        "LINHA":"CATCHUP 750-800-830",
+        "GRUPO":"FOOD SERVICE",
+        "ESTMIN":232.0,
+        "ESTMAX":331.0,
+        "SALDO":145,
+        "CUSTO":33.263184,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8278,
+        "DESCRPROD":"TEMPERO CASEIRO CONDIMENTADO CLARO VERM 500G SADIO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO COMBATE 500",
+        "ESTMIN":458.0,
+        "ESTMAX":654.0,
+        "SALDO":251,
+        "CUSTO":5.76,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8456,
+        "DESCRPROD":"MOLHO DE TOMATE BOLONHESA 300G SADIO",
+        "LINHA":"MOLHO DE TOMATE 300 1 & 2",
+        "GRUPO":"MOLHO DE TOMATE ESPECIAL",
+        "ESTMIN":872.0,
+        "ESTMAX":1245.0,
+        "SALDO":887,
+        "CUSTO":16.08,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8637,
+        "DESCRPROD":"VINAGRE DE ALCOOL 500ML DATERRA",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE TRADICIONAL 500\/750",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":3.92244,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8638,
+        "DESCRPROD":"AZEITONA VERDE COM CAROÇO POUCH 80G SADIO",
+        "LINHA":"AZEITONA 80-100-120-1000-1600-1800",
+        "GRUPO":"AZEITONA",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":995,
+        "CUSTO":22.869984,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8639,
+        "DESCRPROD":"AZEITONA VERDE FATIADA POUCH 100G SADIO",
+        "LINHA":"AZEITONA 80-100-120-1000-1600-1800",
+        "GRUPO":"AZEITONA",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":474,
+        "CUSTO":44.939856,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8640,
+        "DESCRPROD":"TEMPERO COMPLETO 500G DATERRA",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO COMBATE 500",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":5.270928,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8641,
+        "DESCRPROD":"AZEITONA VERDE SEM CAROÇO POUCH 100G SADIO",
+        "LINHA":"AZEITONA 80-100-120-1000-1600-1800",
+        "GRUPO":"AZEITONA",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":296,
+        "CUSTO":41.349528,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8642,
+        "DESCRPROD":"AZEITONA VERDE COM CAROÇO POUCH 120G SADIO",
+        "LINHA":"AZEITONA 80-100-120-1000-1600-1800",
+        "GRUPO":"AZEITONA",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":119,
+        "CUSTO":38.17824,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8643,
+        "DESCRPROD":"AZEITONA VERDE FATIADA POUCH 1,01KG SADIO",
+        "LINHA":"AZEITONA 80-100-120-1000-1600-1800",
+        "GRUPO":"AZEITONA",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":3.007026,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8644,
+        "DESCRPROD":"AZEITONA VERDE SEM CAROÇO POUCH 1,01KG SADIO",
+        "LINHA":"AZEITONA 80-100-120-1000-1600-1800",
+        "GRUPO":"AZEITONA",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":1.240872,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8645,
+        "DESCRPROD":"AZEITONA VERDE COM CAROÇO POUCH 1,01KG SADIO",
+        "LINHA":"AZEITONA 80-100-120-1000-1600-1800",
+        "GRUPO":"AZEITONA",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":3.22437,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8646,
+        "DESCRPROD":"CANELA PO POTE 35G DATERRA",
+        "LINHA":"CANELA 35G PÓ",
+        "GRUPO":"CANELA POTE AMARELO",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":32.69604,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8647,
+        "DESCRPROD":"AZEITONA VERDE FATIADA BALDE 1,6KG SADIO",
+        "LINHA":"AZEITONA 80-100-120-1000-1600-1800",
+        "GRUPO":"AZEITONA",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":77,
+        "CUSTO":103.32,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8649,
+        "DESCRPROD":"AZEITONA VERDE SEM CAROÇO BALDE 1,6KG SADIO",
+        "LINHA":"AZEITONA 80-100-120-1000-1600-1800",
+        "GRUPO":"AZEITONA",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":122.844676,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8650,
+        "DESCRPROD":"AZEITONA VERDE COM CAROÇO BALDE 1,8KG SADIO",
+        "LINHA":"AZEITONA 80-100-120-1000-1600-1800",
+        "GRUPO":"AZEITONA",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":88.10656,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8707,
+        "DESCRPROD":"VINAGRE DE ALCOOL COLORIDO 500ML DUBOM",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE TRADICIONAL 500\/750",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":4,
+        "CUSTO":5.343012,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8708,
+        "DESCRPROD":"VINAGRE DE ALCOOL 500ML DUBOM",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE TRADICIONAL 500\/750",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":10,
+        "CUSTO":5.086596,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8710,
+        "DESCRPROD":"VINAGRE DE ALCOOL MACA 500ML DUBOM",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE SABOR 500",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":6.375612,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8711,
+        "DESCRPROD":"VINAGRE DE ALCOOL LIMAO 500ML DUBOM",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE SABOR 500",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":2,
+        "CUSTO":5.982708,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8712,
+        "DESCRPROD":"VINAGRE DE ALCOOL ALHO 500ML DUBOM",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE SABOR 500",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":2,
+        "CUSTO":6.062532,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8714,
+        "DESCRPROD":"MOLHO DE PIMENTA EXTRA FORTE 150ML DUBOM",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":12,
+        "CUSTO":6.328116,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8715,
+        "DESCRPROD":"MOLHO DE PIMENTA 150ML DUBOM",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":18,
+        "CUSTO":8.318256,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8717,
+        "DESCRPROD":"MOLHO DE PIMENTA AO LEITE 150ML DUBOM",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":6,
+        "CUSTO":7.942284,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8718,
+        "DESCRPROD":"MOLHO SHOYU 150ML DUBOM",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":6.890988,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8719,
+        "DESCRPROD":"MOLHO INGLES 150ML DUBOM",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":18,
+        "CUSTO":5.625804,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8720,
+        "DESCRPROD":"MOLHO DE ALHO 150ML DUBOM",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":4,
+        "CUSTO":6.061308,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8721,
+        "DESCRPROD":"ACAFRAO\/CURCUMA MOIDO PC 20G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":312.0,
+        "ESTMAX":446.0,
+        "SALDO":214,
+        "CUSTO":17.74152,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8836,
+        "DESCRPROD":"CATCHUP TRADICIONAL 800G FRINEX",
+        "LINHA":"CATCHUP 750-800-830",
+        "GRUPO":"CATCHUP\/MOST\/BARB 800-830",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":18.38406,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8837,
+        "DESCRPROD":"VINAGRE DE ALCOOL 750ML FRINEX",
+        "LINHA":"CATCHUP 750-800-830",
+        "GRUPO":"VINAGRE TRADICIONAL 500\/750",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":8.93196,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8932,
+        "DESCRPROD":"MOLHO SHOYU 500ML DUBOM",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"MOLHO 500",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":10.31478,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8933,
+        "DESCRPROD":"MOLHO INGLES 500ML DUBOM",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"MOLHO 500",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":2,
+        "CUSTO":5.911992,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8934,
+        "DESCRPROD":"MOLHO DE ALHO 500ML DUBOM",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"MOLHO 500",
+        "ESTMIN":null,
+        "ESTMAX":null,
+        "SALDO":0,
+        "CUSTO":0.0,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8968,
+        "DESCRPROD":"VINAGRE DE ALCOOL 150ML SADIO",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":97.0,
+        "ESTMAX":138.0,
+        "SALDO":108,
+        "CUSTO":5.28552,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":8974,
+        "DESCRPROD":"MOSTARDA AMARELA 800G SADIO",
+        "LINHA":"CATCHUP 750-800-830",
+        "GRUPO":"CATCHUP\/MOST\/BARB 800-830",
+        "ESTMIN":627.0,
+        "ESTMAX":895.0,
+        "SALDO":63,
+        "CUSTO":20.828064,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9025,
+        "DESCRPROD":"CATCHUP TRADICIONAL 800G LETO",
+        "LINHA":"CATCHUP 750-800-830",
+        "GRUPO":"CATCHUP\/MOST\/BARB 800-830",
+        "ESTMIN":1493.0,
+        "ESTMAX":2133.0,
+        "SALDO":254,
+        "CUSTO":17.06634,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9073,
+        "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
+        "LINHA":"CATCHUP 750-800-830",
+        "GRUPO":"FOOD SERVICE",
+        "ESTMIN":608.0,
+        "ESTMAX":869.0,
+        "SALDO":49,
+        "CUSTO":21.828856,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9074,
+        "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
+        "LINHA":"CATCHUP 750-800-830",
+        "GRUPO":"FOOD SERVICE",
+        "ESTMIN":174.0,
+        "ESTMAX":248.0,
+        "SALDO":5,
+        "CUSTO":30.685044,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9095,
+        "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
+        "LINHA":"CATCHUP 750-800-830",
+        "GRUPO":"FOOD SERVICE",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":21.174616,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9529,
+        "DESCRPROD":"CATCHUP SACHE 150\/6G LETO",
+        "LINHA":"CATCHUP SACHE 6G 1",
+        "GRUPO":"FOOD SERVICE",
+        "ESTMIN":512.0,
+        "ESTMAX":732.0,
+        "SALDO":824,
+        "CUSTO":41.620302,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9649,
+        "DESCRPROD":"TEMPERO GOURMET LIGHT 500G MR MAKER",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO GOURMET MR MAKER",
+        "ESTMIN":20.0,
+        "ESTMAX":28.0,
+        "SALDO":0,
+        "CUSTO":8.372556,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9650,
+        "DESCRPROD":"TEMPERO GOURMET FRANGO 500G MR MAKER",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO GOURMET MR MAKER",
+        "ESTMIN":776.0,
+        "ESTMAX":1108.0,
+        "SALDO":149,
+        "CUSTO":16.8,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9651,
+        "DESCRPROD":"TEMPERO GOURMET ERVAS FINAS 500G MR MAKER",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO GOURMET MR MAKER",
+        "ESTMIN":547.0,
+        "ESTMAX":781.0,
+        "SALDO":69,
+        "CUSTO":7.763004,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9653,
+        "DESCRPROD":"TEMPERO GOURMET CHIMICHURRI 500G MR MAKER",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO GOURMET MR MAKER",
+        "ESTMIN":559.0,
+        "ESTMAX":799.0,
+        "SALDO":20,
+        "CUSTO":9.698916,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9654,
+        "DESCRPROD":"TEMPERO GOURMET CARNES 500G MR MAKER",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO GOURMET MR MAKER",
+        "ESTMIN":662.0,
+        "ESTMAX":945.0,
+        "SALDO":369,
+        "CUSTO":8.865264,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9655,
+        "DESCRPROD":"TEMPERO GOURMET ALHO E CEBOLA 500G MR MAKER",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO GOURMET MR MAKER",
+        "ESTMIN":482.0,
+        "ESTMAX":688.0,
+        "SALDO":183,
+        "CUSTO":16.8,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9656,
+        "DESCRPROD":"ADOCANTE PO SUCRALOSE 400\/0,5G SADIO",
+        "LINHA":"AÇUCAR\/ADOÇANTE PÓ 5-0,5 1",
+        "GRUPO":"FOOD SERVICE",
+        "ESTMIN":106.0,
+        "ESTMAX":152.0,
+        "SALDO":72,
+        "CUSTO":14.062187,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9657,
+        "DESCRPROD":"ADOCANTE PO STEVIA 400\/0,5G SADIO",
+        "LINHA":"AÇUCAR\/ADOÇANTE PÓ 5-0,5 1",
+        "GRUPO":"FOOD SERVICE",
+        "ESTMIN":15.0,
+        "ESTMAX":22.0,
+        "SALDO":151,
+        "CUSTO":11.7061,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9659,
+        "DESCRPROD":"ACUCAR CRISTAL PREMIUM 400\/5G SADIO",
+        "LINHA":"AÇUCAR\/ADOÇANTE PÓ 5-0,5 1",
+        "GRUPO":"FOOD SERVICE",
+        "ESTMIN":544.0,
+        "ESTMAX":777.0,
+        "SALDO":609,
+        "CUSTO":11.909533,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9661,
+        "DESCRPROD":"TEMPERO PO NORDESTE 50G SADIO",
+        "LINHA":"TEMPERO PÓ 1",
+        "GRUPO":"TEMPERO EM PO",
+        "ESTMIN":215.0,
+        "ESTMAX":307.0,
+        "SALDO":354,
+        "CUSTO":28.434912,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9662,
+        "DESCRPROD":"TEMPERO PO ARROZ 50G SADIO",
+        "LINHA":"TEMPERO PÓ 1",
+        "GRUPO":"TEMPERO EM PO",
+        "ESTMIN":81.0,
+        "ESTMAX":115.0,
+        "SALDO":50,
+        "CUSTO":24.931728,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9663,
+        "DESCRPROD":"TEMPERO PO CARNES 50G SADIO",
+        "LINHA":"TEMPERO PÓ 1",
+        "GRUPO":"TEMPERO EM PO",
+        "ESTMIN":390.0,
+        "ESTMAX":557.0,
+        "SALDO":0,
+        "CUSTO":28.617264,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9664,
+        "DESCRPROD":"TEMPERO PO FEIJAO 50G SADIO",
+        "LINHA":"TEMPERO PÓ 1",
+        "GRUPO":"TEMPERO EM PO",
+        "ESTMIN":426.0,
+        "ESTMAX":608.0,
+        "SALDO":118,
+        "CUSTO":27.640368,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9665,
+        "DESCRPROD":"TEMPERO PO FRANGO 50G SADIO",
+        "LINHA":"TEMPERO PÓ 1",
+        "GRUPO":"TEMPERO EM PO",
+        "ESTMIN":634.0,
+        "ESTMAX":905.0,
+        "SALDO":7,
+        "CUSTO":26.910768,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9666,
+        "DESCRPROD":"TEMPERO PO LEGUMES 50G SADIO",
+        "LINHA":"TEMPERO PÓ 1",
+        "GRUPO":"TEMPERO EM PO",
+        "ESTMIN":489.0,
+        "ESTMAX":698.0,
+        "SALDO":3,
+        "CUSTO":26.874768,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9667,
+        "DESCRPROD":"TEMPERO PO MASSAS 50G SADIO",
+        "LINHA":"TEMPERO PÓ 1",
+        "GRUPO":"TEMPERO EM PO",
+        "ESTMIN":206.0,
+        "ESTMAX":294.0,
+        "SALDO":21,
+        "CUSTO":27.64704,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9682,
+        "DESCRPROD":"TEMPERO PO ALHO 50G SADIO",
+        "LINHA":"TEMPERO PÓ 1",
+        "GRUPO":"TEMPERO EM PO",
+        "ESTMIN":136.0,
+        "ESTMAX":194.0,
+        "SALDO":40,
+        "CUSTO":24.829344,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9684,
+        "DESCRPROD":"SAL DE PARRILLA TRADICIONAL 450G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"SAL DE PARRILLA MR MAKER",
+        "ESTMIN":209.0,
+        "ESTMAX":298.0,
+        "SALDO":114,
+        "CUSTO":18.553482,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9685,
+        "DESCRPROD":"SAL DE PARRILLA DEFUMADO 450G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"SAL DE PARRILLA MR MAKER",
+        "ESTMIN":170.0,
+        "ESTMAX":243.0,
+        "SALDO":91,
+        "CUSTO":19.079874,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9686,
+        "DESCRPROD":"SAL DE PARRILLA ALHO 450G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"SAL DE PARRILLA MR MAKER",
+        "ESTMIN":144.0,
+        "ESTMAX":206.0,
+        "SALDO":92,
+        "CUSTO":20.814714,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9687,
+        "DESCRPROD":"SAL DE PARRILLA PIMENTA 450G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"SAL DE PARRILLA MR MAKER",
+        "ESTMIN":123.0,
+        "ESTMAX":176.0,
+        "SALDO":7,
+        "CUSTO":23.870172,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9688,
+        "DESCRPROD":"SAL DE PARRILLA CHIMICHURRI 450G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"SAL DE PARRILLA MR MAKER",
+        "ESTMIN":290.0,
+        "ESTMAX":414.0,
+        "SALDO":62,
+        "CUSTO":20.098704,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9689,
+        "DESCRPROD":"SAL DE PARRILLA ERVAS FINAS 450G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"SAL DE PARRILLA MR MAKER",
+        "ESTMIN":241.0,
+        "ESTMAX":344.0,
+        "SALDO":45,
+        "CUSTO":19.330416,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9693,
+        "DESCRPROD":"CHIMICHURRI POTE 90G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO POTE MR MAKER",
+        "ESTMIN":152.0,
+        "ESTMAX":217.0,
+        "SALDO":157,
+        "CUSTO":21.998022,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9694,
+        "DESCRPROD":"DRY RUB POTE 160G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO POTE MR MAKER",
+        "ESTMIN":120.0,
+        "ESTMAX":172.0,
+        "SALDO":125,
+        "CUSTO":19.95657,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9695,
+        "DESCRPROD":"FLOR DE SAL POTE 180G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO POTE MR MAKER",
+        "ESTMIN":4.0,
+        "ESTMAX":6.0,
+        "SALDO":44,
+        "CUSTO":51.727026,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9696,
+        "DESCRPROD":"LEMON PEPPER POTE 130G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO POTE MR MAKER",
+        "ESTMIN":321.0,
+        "ESTMAX":459.0,
+        "SALDO":121,
+        "CUSTO":18.894912,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9697,
+        "DESCRPROD":"PAPRICA DEFUMADA POTE 110G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO POTE MR MAKER",
+        "ESTMIN":283.0,
+        "ESTMAX":404.0,
+        "SALDO":41,
+        "CUSTO":22.214742,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9698,
+        "DESCRPROD":"CEBOLA, ALHO E SALSA POTE 90G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO POTE MR MAKER",
+        "ESTMIN":54.0,
+        "ESTMAX":77.0,
+        "SALDO":462,
+        "CUSTO":21.762444,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9699,
+        "DESCRPROD":"OREGANO POTE 50G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO POTE MR MAKER",
+        "ESTMIN":18.0,
+        "ESTMAX":25.0,
+        "SALDO":790,
+        "CUSTO":17.631768,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9701,
+        "DESCRPROD":"ALHO FRITO POTE 110G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO POTE MR MAKER",
+        "ESTMIN":50.0,
+        "ESTMAX":72.0,
+        "SALDO":371,
+        "CUSTO":23.823654,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9702,
+        "DESCRPROD":"ACAFRAO\/CURCUMA MOIDO POTE 110G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO POTE MR MAKER",
+        "ESTMIN":55.0,
+        "ESTMAX":79.0,
+        "SALDO":28,
+        "CUSTO":21.681894,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9703,
+        "DESCRPROD":"PIMENTA PRETA MOIDA POTE 110G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO POTE MR MAKER",
+        "ESTMIN":16.0,
+        "ESTMAX":23.0,
+        "SALDO":509,
+        "CUSTO":35.288448,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9704,
+        "DESCRPROD":"TEMPERO DO CHEF POTE 130G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO POTE MR MAKER",
+        "ESTMIN":300.0,
+        "ESTMAX":428.0,
+        "SALDO":116,
+        "CUSTO":24.635196,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9705,
+        "DESCRPROD":"TEMPERO COMPLETO POTE 90G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO POTE MR MAKER",
+        "ESTMIN":18.0,
+        "ESTMAX":26.0,
+        "SALDO":335,
+        "CUSTO":20.187792,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9870,
+        "DESCRPROD":"BLACK RUB POTE 160G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO POTE MR MAKER",
+        "ESTMIN":17.0,
+        "ESTMAX":24.0,
+        "SALDO":106,
+        "CUSTO":21.663888,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9872,
+        "DESCRPROD":"CHIA PREMIUM POTE 180G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO POTE MR MAKER",
+        "ESTMIN":20.0,
+        "ESTMAX":28.0,
+        "SALDO":15,
+        "CUSTO":31.459728,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9880,
+        "DESCRPROD":"DETERGENTE LIMAO 500ML TANLUX",
+        "LINHA":"DETERGENTE 500 1",
+        "GRUPO":"DETERGENTE",
+        "ESTMIN":2478.0,
+        "ESTMAX":3540.0,
+        "SALDO":0,
+        "CUSTO":8.58848,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9881,
+        "DESCRPROD":"DETERGENTE MACA 500ML TANLUX",
+        "LINHA":"DETERGENTE 500 1",
+        "GRUPO":"DETERGENTE",
+        "ESTMIN":2517.0,
+        "ESTMAX":3595.0,
+        "SALDO":0,
+        "CUSTO":8.55236,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9882,
+        "DESCRPROD":"DETERGENTE NEUTRO 500ML TANLUX",
+        "LINHA":"DETERGENTE 500 1",
+        "GRUPO":"DETERGENTE",
+        "ESTMIN":3221.0,
+        "ESTMAX":4601.0,
+        "SALDO":0,
+        "CUSTO":9.09986,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9883,
+        "DESCRPROD":"DETERGENTE COCO 500ML TANLUX",
+        "LINHA":"DETERGENTE 500 1",
+        "GRUPO":"DETERGENTE",
+        "ESTMIN":1860.0,
+        "ESTMAX":2657.0,
+        "SALDO":0,
+        "CUSTO":9.00728,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9884,
+        "DESCRPROD":"LIMPA ALUMINIO 500ML TANLUX",
+        "LINHA":"500 MANUAL LIMPA ALUMÍNIO",
+        "GRUPO":"LIMPA ALUMINIO",
+        "ESTMIN":1709.0,
+        "ESTMAX":2441.0,
+        "SALDO":0,
+        "CUSTO":9.36664,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9885,
+        "DESCRPROD":"DETERGENTE LIMAO 5L TANLUX",
+        "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
+        "GRUPO":"INSTITUCIONAL",
+        "ESTMIN":619.0,
+        "ESTMAX":884.0,
+        "SALDO":0,
+        "CUSTO":8.64395,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9886,
+        "DESCRPROD":"DETERGENTE MACA 5L TANLUX",
+        "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
+        "GRUPO":"INSTITUCIONAL",
+        "ESTMIN":379.0,
+        "ESTMAX":541.0,
+        "SALDO":0,
+        "CUSTO":8.641432,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9887,
+        "DESCRPROD":"DETERGENTE NEUTRO 5L TANLUX",
+        "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
+        "GRUPO":"INSTITUCIONAL",
+        "ESTMIN":512.0,
+        "ESTMAX":731.0,
+        "SALDO":0,
+        "CUSTO":8.560026,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9888,
+        "DESCRPROD":"DETERGENTE LIMAO 2L TANLUX",
+        "LINHA":"AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
+        "GRUPO":"DETERGENTE",
+        "ESTMIN":674.0,
+        "ESTMAX":963.0,
+        "SALDO":0,
+        "CUSTO":10.871538,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9889,
+        "DESCRPROD":"DETERGENTE MACA 2L TANLUX",
+        "LINHA":"AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
+        "GRUPO":"DETERGENTE",
+        "ESTMIN":432.0,
+        "ESTMAX":617.0,
+        "SALDO":0,
+        "CUSTO":10.86,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9890,
+        "DESCRPROD":"DETERGENTE NEUTRO 2L TANLUX",
+        "LINHA":"AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
+        "GRUPO":"DETERGENTE",
+        "ESTMIN":531.0,
+        "ESTMAX":759.0,
+        "SALDO":0,
+        "CUSTO":10.814922,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9891,
+        "DESCRPROD":"AMACIANTE CONFORT\/CELESTE 2L TANLUX",
+        "LINHA":"AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
+        "GRUPO":"AMACIANTE",
+        "ESTMIN":568.0,
+        "ESTMAX":812.0,
+        "SALDO":0,
+        "CUSTO":10.273062,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9892,
+        "DESCRPROD":"AMACIANTE FLORAL 2L TANLUX",
+        "LINHA":"AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
+        "GRUPO":"AMACIANTE",
+        "ESTMIN":298.0,
+        "ESTMAX":426.0,
+        "SALDO":0,
+        "CUSTO":10.371546,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9893,
+        "DESCRPROD":"AMACIANTE SUAVE 2L TANLUX",
+        "LINHA":"AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
+        "GRUPO":"AMACIANTE",
+        "ESTMIN":80.0,
+        "ESTMAX":114.0,
+        "SALDO":0,
+        "CUSTO":10.969416,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9894,
+        "DESCRPROD":"AMACIANTE HARMONIA 2L TANLUX",
+        "LINHA":"AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
+        "GRUPO":"AMACIANTE",
+        "ESTMIN":113.0,
+        "ESTMAX":162.0,
+        "SALDO":0,
+        "CUSTO":9.96,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9895,
+        "DESCRPROD":"AMACIANTE CONFORT\/CELESTE 5L TANLUX",
+        "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
+        "GRUPO":"INSTITUCIONAL",
+        "ESTMIN":538.0,
+        "ESTMAX":769.0,
+        "SALDO":0,
+        "CUSTO":8.248992,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9896,
+        "DESCRPROD":"AMACIANTE FLORAL 5L TANLUX",
+        "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
+        "GRUPO":"INSTITUCIONAL",
+        "ESTMIN":297.0,
+        "ESTMAX":424.0,
+        "SALDO":0,
+        "CUSTO":8.422034,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9897,
+        "DESCRPROD":"DESINFETANTE LAVANDA 2L TANLUX",
+        "LINHA":"AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
+        "GRUPO":"DESINFETANTE",
+        "ESTMIN":635.0,
+        "ESTMAX":907.0,
+        "SALDO":0,
+        "CUSTO":9.247764,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9898,
+        "DESCRPROD":"DESINFETANTE PINHO 2L TANLUX",
+        "LINHA":"AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
+        "GRUPO":"DESINFETANTE",
+        "ESTMIN":166.0,
+        "ESTMAX":237.0,
+        "SALDO":0,
+        "CUSTO":8.988858,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9899,
+        "DESCRPROD":"DESINFETANTE FLORAL 2L TANLUX",
+        "LINHA":"AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
+        "GRUPO":"DESINFETANTE",
+        "ESTMIN":575.0,
+        "ESTMAX":822.0,
+        "SALDO":0,
+        "CUSTO":9.322578,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9900,
+        "DESCRPROD":"DESINFETANTE EUCALIPTO 2L TANLUX",
+        "LINHA":"AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
+        "GRUPO":"DESINFETANTE",
+        "ESTMIN":185.0,
+        "ESTMAX":264.0,
+        "SALDO":0,
+        "CUSTO":9.508164,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9901,
+        "DESCRPROD":"LAVA ROUPA COMFORT BLUE 2L TANLUX",
+        "LINHA":"AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
+        "GRUPO":"LAVA ROUPA",
+        "ESTMIN":373.0,
+        "ESTMAX":533.0,
+        "SALDO":0,
+        "CUSTO":16.856322,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9902,
+        "DESCRPROD":"LAVA ROUPA COMFORT BLUE 3L TANLUX",
+        "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
+        "GRUPO":"LAVA ROUPA",
+        "ESTMIN":7076.0,
+        "ESTMAX":10109.0,
+        "SALDO":0,
+        "CUSTO":16.45744,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9903,
+        "DESCRPROD":"LAVA ROUPA COMFORT BLUE 5L TANLUX",
+        "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
+        "GRUPO":"INSTITUCIONAL",
+        "ESTMIN":456.0,
+        "ESTMAX":652.0,
+        "SALDO":0,
+        "CUSTO":13.51776,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9904,
+        "DESCRPROD":"SABONETE CREMOSO FLORES TANSOAP 5L TANLUX",
+        "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
+        "GRUPO":"SABONETE",
+        "ESTMIN":6.0,
+        "ESTMAX":8.0,
+        "SALDO":0,
+        "CUSTO":13.646438,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9905,
+        "DESCRPROD":"SABONETE LIQUIDO ERVA DOCE TANSOAP 5L TANLUX",
+        "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
+        "GRUPO":"SABONETE",
+        "ESTMIN":2.0,
+        "ESTMAX":2.0,
+        "SALDO":0,
+        "CUSTO":12.502586,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9906,
+        "DESCRPROD":"DETERGENTE CLORADO TANCLORO SPUMA CONCENTRADO 5L TANLUX",
+        "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
+        "GRUPO":"CONCENTRADO",
+        "ESTMIN":22.0,
+        "ESTMAX":32.0,
+        "SALDO":0,
+        "CUSTO":27.22,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9907,
+        "DESCRPROD":"DESENGRAXANTE DEGREASER CONCENTRADO 5L TANLUX",
+        "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
+        "GRUPO":"CONCENTRADO",
+        "ESTMIN":48.0,
+        "ESTMAX":68.0,
+        "SALDO":0,
+        "CUSTO":23.9,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9908,
+        "DESCRPROD":"LIMPADOR DE USO GERAL MULTIUSO TANGLASS CONCENTRADO 5L TANLUX",
+        "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
+        "GRUPO":"CONCENTRADO",
+        "ESTMIN":24.0,
+        "ESTMAX":48.0,
+        "SALDO":0,
+        "CUSTO":0.0,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9909,
+        "DESCRPROD":"DESINFETANTE LAVANDA CONCENTRADO 5L TANLUX",
+        "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
+        "GRUPO":"CONCENTRADO",
+        "ESTMIN":38.0,
+        "ESTMAX":54.0,
+        "SALDO":0,
+        "CUSTO":20.28,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9910,
+        "DESCRPROD":"DETERGENTE CONCENTRADO TANCLEANER 5L TANLUX",
+        "LINHA":"2000-3000-5000 MANUAL LIMPEZA 1",
+        "GRUPO":"CONCENTRADO",
+        "ESTMIN":150.0,
+        "ESTMAX":214.0,
+        "SALDO":0,
+        "CUSTO":13.646912,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9953,
+        "DESCRPROD":"CHIMICHURRI PC 15G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":588.0,
+        "ESTMAX":840.0,
+        "SALDO":218,
+        "CUSTO":8.408976,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9954,
+        "DESCRPROD":"GENGIBRE MOIDO PC 20G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":33.0,
+        "ESTMAX":47.0,
+        "SALDO":65,
+        "CUSTO":10.025736,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9955,
+        "DESCRPROD":"LEMON PEPPER PC 30G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":378.0,
+        "ESTMAX":540.0,
+        "SALDO":180,
+        "CUSTO":9.216024,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9956,
+        "DESCRPROD":"PAPRICA DEFUMADA PC 30G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":526.0,
+        "ESTMAX":752.0,
+        "SALDO":220,
+        "CUSTO":14.297928,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9957,
+        "DESCRPROD":"PAPRICA DOCE PC 30G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":218.0,
+        "ESTMAX":311.0,
+        "SALDO":355,
+        "CUSTO":13.028904,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9958,
+        "DESCRPROD":"PIMENTA CALABRESA PC 15G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":7.456104,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9960,
+        "DESCRPROD":"TEMPERO COMPLETO PC 20G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":106.0,
+        "ESTMAX":151.0,
+        "SALDO":60,
+        "CUSTO":17.52,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9961,
+        "DESCRPROD":"TEMPERO DO CHEF PC 30G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":351.0,
+        "ESTMAX":501.0,
+        "SALDO":12,
+        "CUSTO":13.918584,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9962,
+        "DESCRPROD":"CEBOLA, ALHO E SALSA PC 20G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":371.0,
+        "ESTMAX":530.0,
+        "SALDO":550,
+        "CUSTO":10.241616,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":9963,
+        "DESCRPROD":"ERVA DOCE PC 15G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":57.0,
+        "ESTMAX":81.0,
+        "SALDO":0,
+        "CUSTO":8.065872,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":10016,
+        "DESCRPROD":"MOLHO DE PIMENTA 150ML NORDESTAO",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":188.0,
+        "ESTMAX":268.0,
+        "SALDO":125,
+        "CUSTO":6.258204,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":10018,
+        "DESCRPROD":"MOLHO SHOYU 150ML NORDESTAO",
+        "LINHA":"MOLHINHO 150 1",
+        "GRUPO":"MOLHO 150",
+        "ESTMIN":321.0,
+        "ESTMAX":458.0,
+        "SALDO":428,
+        "CUSTO":6.898812,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":10019,
+        "DESCRPROD":"VINAGRE DE ALCOOL 500ML NORDESTAO",
+        "LINHA":"VINAGRE 500 1",
+        "GRUPO":"VINAGRE TRADICIONAL 500\/750",
+        "ESTMIN":557.0,
+        "ESTMAX":795.0,
+        "SALDO":303,
+        "CUSTO":5.060268,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":10020,
+        "DESCRPROD":"TEMPERO COMPLETO 500G NORDESTAO",
+        "LINHA":"TEMPERO 500 1 & 2",
+        "GRUPO":"TEMPERO COMBATE 500",
+        "ESTMIN":274.0,
+        "ESTMAX":392.0,
+        "SALDO":87,
+        "CUSTO":5.537004,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":10073,
+        "DESCRPROD":"HIBISCO PC 7G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":47.0,
+        "ESTMAX":67.0,
+        "SALDO":10,
+        "CUSTO":6.044592,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":10074,
+        "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":80.0,
+        "ESTMAX":114.0,
+        "SALDO":28,
+        "CUSTO":4.250976,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":10074,
+        "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":80.0,
+        "ESTMAX":114.0,
+        "SALDO":28,
+        "CUSTO":4.250976,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":10075,
+        "DESCRPROD":"CAPIM CIDREIRA PC 5G SADIO",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":12.0,
+        "ESTMAX":17.0,
+        "SALDO":0,
+        "CUSTO":3.4242,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":10076,
+        "DESCRPROD":"CAMOMILA PC 5G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":70.0,
+        "ESTMAX":100.0,
+        "SALDO":6,
+        "CUSTO":5.772312,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":10077,
+        "DESCRPROD":"ALHO FRITO PC 20G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":71.0,
+        "ESTMAX":102.0,
+        "SALDO":141,
+        "CUSTO":18.162912,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":10078,
+        "DESCRPROD":"CEBOLA GRANULADA PC 20G SADIO",
+        "LINHA":"TEMPERO SECO SACHE 1",
+        "GRUPO":"TEMPERO SECO SACHE",
+        "ESTMIN":0.0,
+        "ESTMAX":0.0,
+        "SALDO":0,
+        "CUSTO":8.17656,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":10094,
+        "DESCRPROD":"LEMON PEPPER MOEDOR 70G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"MOEDOR ESPECIAL MR MAKER",
+        "ESTMIN":41.0,
+        "ESTMAX":59.0,
+        "SALDO":17,
+        "CUSTO":19.404966,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":10095,
+        "DESCRPROD":"CHIMICHURRI MOEDOR 70G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"MOEDOR ESPECIAL MR MAKER",
+        "ESTMIN":42.0,
+        "ESTMAX":60.0,
+        "SALDO":106,
+        "CUSTO":22.097958,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":10096,
+        "DESCRPROD":"SAL DEFUMADO MOEDOR 100G MR MAKER",
+        "LINHA":"TEMPERO SECO MANUAL 1",
+        "GRUPO":"MOEDOR ESPECIAL MR MAKER",
+        "ESTMIN":8.0,
+        "ESTMAX":11.0,
+        "SALDO":766,
+        "CUSTO":34.02,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":10500,
+        "DESCRPROD":"PASTA DE ALHO 200G NORDESTAO",
+        "LINHA":"PURO ALHO 200-440-1000-2000 1",
+        "GRUPO":"PASTA DE ALHO",
+        "ESTMIN":361.0,
+        "ESTMAX":516.0,
+        "SALDO":187,
+        "CUSTO":17.44788,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":10516,
+        "DESCRPROD":"DETERGENTE LIMAO 500ML RENDE+",
+        "LINHA":"DETERGENTE 500 1",
+        "GRUPO":"DETERGENTE",
+        "ESTMIN":22.0,
+        "ESTMAX":32.0,
+        "SALDO":0,
+        "CUSTO":9.0,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":10517,
+        "DESCRPROD":"DETERGENTE MACA 500ML RENDE+",
+        "LINHA":"DETERGENTE 500 1",
+        "GRUPO":"DETERGENTE",
+        "ESTMIN":41.0,
+        "ESTMAX":58.0,
+        "SALDO":0,
+        "CUSTO":9.0,
+        "DTNEG":"24032026 00:00:00"
+    },
+    {
+        "CODPROD":10518,
+        "DESCRPROD":"DETERGENTE NEUTRO 500ML RENDE+",
+        "LINHA":"DETERGENTE 500 1",
+        "GRUPO":"DETERGENTE",
+        "ESTMIN":50.0,
+        "ESTMAX":71.0,
+        "SALDO":0,
+        "CUSTO":8.6,
+        "DTNEG":"24032026 00:00:00"
     }
 ]
