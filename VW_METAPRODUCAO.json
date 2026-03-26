@@ -45393,7 +45393,7 @@
         "QTDPREV":27714,
         "QTDREAL":23211,
         "QTDMETA25":30486,
-        "QTDPROD25":26308
+        "QTDPROD25":26836
     },
     {
         "CODMETA":24,
@@ -46039,7 +46039,7 @@
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10101101 - TEMPERO GOURMET MR MAKER",
         "QTDPREV":1262,
-        "QTDREAL":987,
+        "QTDREAL":988,
         "QTDMETA25":1389,
         "QTDPROD25":772
     },
@@ -46051,7 +46051,7 @@
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10101101 - TEMPERO GOURMET MR MAKER",
         "QTDPREV":969,
-        "QTDREAL":787,
+        "QTDREAL":788,
         "QTDMETA25":1066,
         "QTDPROD25":905
     },
@@ -46063,9 +46063,9 @@
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10101101 - TEMPERO GOURMET MR MAKER",
         "QTDPREV":620,
-        "QTDREAL":613,
+        "QTDREAL":614,
         "QTDMETA25":682,
-        "QTDPROD25":481
+        "QTDPROD25":613
     },
     {
         "CODMETA":24,
@@ -46843,7 +46843,7 @@
         "LINHA":"9 - CATCHUP 750-800-830",
         "GRUPO":"10100900 - FOOD SERVICE",
         "QTDPREV":240,
-        "QTDREAL":238,
+        "QTDREAL":239,
         "QTDMETA25":264,
         "QTDPROD25":177
     },
@@ -46903,7 +46903,7 @@
         "LINHA":"9 - CATCHUP 750-800-830",
         "GRUPO":"10100900 - FOOD SERVICE",
         "QTDPREV":1156,
-        "QTDREAL":948,
+        "QTDREAL":953,
         "QTDMETA25":1272,
         "QTDPROD25":803
     },
@@ -47001,7 +47001,7 @@
         "QTDPREV":475,
         "QTDREAL":424,
         "QTDMETA25":523,
-        "QTDPROD25":0
+        "QTDPROD25":4
     },
     {
         "CODMETA":24,
@@ -48165,7 +48165,7 @@
         "QTDPREV":527,
         "QTDREAL":249,
         "QTDMETA25":579,
-        "QTDPROD25":180
+        "QTDPROD25":181
     },
     {
         "CODMETA":24,
@@ -48427,7 +48427,7 @@
         "LINHA":"20 - CATCHUP 180-200-380",
         "GRUPO":"10100601 - CATCHUP\/MOST\/BARB 190-200-380",
         "QTDPREV":2464,
-        "QTDREAL":2734,
+        "QTDREAL":2735,
         "QTDMETA25":2721,
         "QTDPROD25":1129
     },
