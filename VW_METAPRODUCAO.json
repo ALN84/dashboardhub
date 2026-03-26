@@ -45321,7 +45321,7 @@
         "QTDPREV":57670,
         "QTDREAL":93486,
         "QTDMETA25":63437,
-        "QTDPROD25":37259
+        "QTDPROD25":38183
     },
     {
         "CODMETA":24,
@@ -45981,7 +45981,7 @@
         "QTDPREV":1436,
         "QTDREAL":855,
         "QTDMETA25":1580,
-        "QTDPROD25":528
+        "QTDPROD25":792
     },
     {
         "CODMETA":24,
@@ -46111,7 +46111,7 @@
         "LINHA":"5 - MOLHINHO 150 1",
         "GRUPO":"10100301 - MOLHO 150",
         "QTDPREV":3405,
-        "QTDREAL":3664,
+        "QTDREAL":3665,
         "QTDMETA25":3747,
         "QTDPROD25":3613
     },
@@ -46629,7 +46629,7 @@
         "QTDPREV":320,
         "QTDREAL":459,
         "QTDMETA25":320,
-        "QTDPROD25":376
+        "QTDPROD25":436
     },
     {
         "CODMETA":24,
@@ -46713,7 +46713,7 @@
         "QTDPREV":29608,
         "QTDREAL":37139,
         "QTDMETA25":32569,
-        "QTDPROD25":31315
+        "QTDPROD25":31655
     },
     {
         "CODMETA":24,
@@ -46819,7 +46819,7 @@
         "LINHA":"9 - CATCHUP 750-800-830",
         "GRUPO":"10100602 - CATCHUP\/MOST\/BARB 800-830",
         "QTDPREV":4107,
-        "QTDREAL":2917,
+        "QTDREAL":2920,
         "QTDMETA25":4517,
         "QTDPROD25":2035
     },
@@ -46843,7 +46843,7 @@
         "LINHA":"9 - CATCHUP 750-800-830",
         "GRUPO":"10100900 - FOOD SERVICE",
         "QTDPREV":399,
-        "QTDREAL":386,
+        "QTDREAL":387,
         "QTDMETA25":439,
         "QTDPROD25":445
     },
@@ -46891,7 +46891,7 @@
         "LINHA":"9 - CATCHUP 750-800-830",
         "GRUPO":"10100602 - CATCHUP\/MOST\/BARB 800-830",
         "QTDPREV":415,
-        "QTDREAL":500,
+        "QTDREAL":501,
         "QTDMETA25":457,
         "QTDPROD25":408
     },
@@ -46903,7 +46903,7 @@
         "LINHA":"9 - CATCHUP 750-800-830",
         "GRUPO":"10100602 - CATCHUP\/MOST\/BARB 800-830",
         "QTDPREV":5137,
-        "QTDREAL":2332,
+        "QTDREAL":2337,
         "QTDMETA25":5651,
         "QTDPROD25":1657
     },
@@ -46915,9 +46915,9 @@
         "LINHA":"9 - CATCHUP 750-800-830",
         "GRUPO":"10100900 - FOOD SERVICE",
         "QTDPREV":1156,
-        "QTDREAL":958,
+        "QTDREAL":960,
         "QTDMETA25":1272,
-        "QTDPROD25":863
+        "QTDPROD25":923
     },
     {
         "CODMETA":24,
@@ -48115,9 +48115,9 @@
         "LINHA":"129 - 500 MANUAL LIMPA ALUMÍNIO",
         "GRUPO":"10200200 - LIMPA ALUMINIO",
         "QTDPREV":2789,
-        "QTDREAL":1641,
+        "QTDREAL":2001,
         "QTDMETA25":3068,
-        "QTDPROD25":3645
+        "QTDPROD25":3735
     },
     {
         "CODMETA":24,
@@ -48367,7 +48367,7 @@
         "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"10200500 - LAVA ROUPA",
         "QTDPREV":6404,
-        "QTDREAL":6534,
+        "QTDREAL":6714,
         "QTDMETA25":7045,
         "QTDPROD25":7576
     },
@@ -48463,7 +48463,7 @@
         "LINHA":"20 - CATCHUP 180-200-380",
         "GRUPO":"10100601 - CATCHUP\/MOST\/BARB 190-200-380",
         "QTDPREV":3174,
-        "QTDREAL":2802,
+        "QTDREAL":2803,
         "QTDMETA25":3505,
         "QTDPROD25":3092
     },
@@ -48499,7 +48499,7 @@
         "LINHA":"20 - CATCHUP 180-200-380",
         "GRUPO":"10100603 - CREME DE ALHO\/PASTA PAO DE ALH",
         "QTDPREV":265,
-        "QTDREAL":601,
+        "QTDREAL":602,
         "QTDMETA25":293,
         "QTDPROD25":444
     },
