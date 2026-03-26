@@ -45319,7 +45319,7 @@
         "LINHA":"1 - VINAGRE 500 1",
         "GRUPO":"10100101 - VINAGRE TRADICIONAL 500\/750",
         "QTDPREV":57670,
-        "QTDREAL":93373,
+        "QTDREAL":93387,
         "QTDMETA25":63437,
         "QTDPROD25":36731
     },
@@ -45391,9 +45391,9 @@
         "LINHA":"1 - VINAGRE 500 1",
         "GRUPO":"10100101 - VINAGRE TRADICIONAL 500\/750",
         "QTDPREV":27714,
-        "QTDREAL":23211,
+        "QTDREAL":23218,
         "QTDMETA25":30486,
-        "QTDPROD25":26836
+        "QTDPROD25":27892
     },
     {
         "CODMETA":24,
@@ -45403,7 +45403,7 @@
         "LINHA":"1 - VINAGRE 500 1",
         "GRUPO":"10100102 - VINAGRE SABOR 500",
         "QTDPREV":1638,
-        "QTDREAL":1413,
+        "QTDREAL":1415,
         "QTDMETA25":1802,
         "QTDPROD25":85
     },
@@ -45415,7 +45415,7 @@
         "LINHA":"1 - VINAGRE 500 1",
         "GRUPO":"10100102 - VINAGRE SABOR 500",
         "QTDPREV":3757,
-        "QTDREAL":1968,
+        "QTDREAL":1970,
         "QTDMETA25":4133,
         "QTDPROD25":2065
     },
@@ -45631,7 +45631,7 @@
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10100201 - TEMPERO TRADICIONAL 500\/750",
         "QTDPREV":2702,
-        "QTDREAL":1810,
+        "QTDREAL":1814,
         "QTDMETA25":2973,
         "QTDPROD25":1403
     },
@@ -45679,7 +45679,7 @@
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10100202 - TEMPERO COMBATE 500",
         "QTDPREV":10066,
-        "QTDREAL":7926,
+        "QTDREAL":7944,
         "QTDMETA25":11077,
         "QTDPROD25":6937
     },
@@ -45739,7 +45739,7 @@
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10100302 - MOLHO 500",
         "QTDPREV":1289,
-        "QTDREAL":858,
+        "QTDREAL":859,
         "QTDMETA25":1418,
         "QTDPROD25":1077
     },
@@ -45943,7 +45943,7 @@
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10100202 - TEMPERO COMBATE 500",
         "QTDPREV":12293,
-        "QTDREAL":21246,
+        "QTDREAL":21248,
         "QTDMETA25":13527,
         "QTDPROD25":20267
     },
@@ -46039,7 +46039,7 @@
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10101101 - TEMPERO GOURMET MR MAKER",
         "QTDPREV":1262,
-        "QTDREAL":988,
+        "QTDREAL":990,
         "QTDMETA25":1389,
         "QTDPROD25":772
     },
@@ -46065,7 +46065,7 @@
         "QTDPREV":620,
         "QTDREAL":614,
         "QTDMETA25":682,
-        "QTDPROD25":613
+        "QTDPROD25":1006
     },
     {
         "CODMETA":24,
@@ -46075,7 +46075,7 @@
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10101101 - TEMPERO GOURMET MR MAKER",
         "QTDPREV":1088,
-        "QTDREAL":944,
+        "QTDREAL":949,
         "QTDMETA25":1197,
         "QTDPROD25":724
     },
@@ -46123,7 +46123,7 @@
         "LINHA":"5 - MOLHINHO 150 1",
         "GRUPO":"10100301 - MOLHO 150",
         "QTDPREV":4522,
-        "QTDREAL":4489,
+        "QTDREAL":4493,
         "QTDMETA25":4978,
         "QTDPROD25":4790
     },
@@ -46135,7 +46135,7 @@
         "LINHA":"5 - MOLHINHO 150 1",
         "GRUPO":"10100301 - MOLHO 150",
         "QTDPREV":3867,
-        "QTDREAL":3909,
+        "QTDREAL":3911,
         "QTDMETA25":4257,
         "QTDPROD25":3883
     },
@@ -46147,7 +46147,7 @@
         "LINHA":"5 - MOLHINHO 150 1",
         "GRUPO":"10100301 - MOLHO 150",
         "QTDPREV":5242,
-        "QTDREAL":5643,
+        "QTDREAL":5648,
         "QTDMETA25":5770,
         "QTDPROD25":6664
     },
@@ -46255,7 +46255,7 @@
         "LINHA":"5 - MOLHINHO 150 1",
         "GRUPO":"10100301 - MOLHO 150",
         "QTDPREV":3725,
-        "QTDREAL":2505,
+        "QTDREAL":2506,
         "QTDMETA25":4100,
         "QTDPROD25":3049
     },
@@ -46339,7 +46339,7 @@
         "LINHA":"5 - MOLHINHO 150 1",
         "GRUPO":"10100301 - MOLHO 150",
         "QTDPREV":2562,
-        "QTDREAL":1945,
+        "QTDREAL":1946,
         "QTDMETA25":2820,
         "QTDPROD25":673
     },
@@ -46375,7 +46375,7 @@
         "LINHA":"45 - AZEITONA 80-100-120-1000-1600-1800",
         "GRUPO":"10101200 - AZEITONA",
         "QTDPREV":392,
-        "QTDREAL":270,
+        "QTDREAL":272,
         "QTDMETA25":432,
         "QTDPROD25":0
     },
@@ -46543,7 +46543,7 @@
         "LINHA":"6 - ADOÇANTE 100 1",
         "GRUPO":"10100802 - ADOCANTE SABOR",
         "QTDPREV":1186,
-        "QTDREAL":970,
+        "QTDREAL":971,
         "QTDMETA25":1305,
         "QTDPROD25":798
     },
@@ -46555,7 +46555,7 @@
         "LINHA":"6 - ADOÇANTE 100 1",
         "GRUPO":"10100802 - ADOCANTE SABOR",
         "QTDPREV":3465,
-        "QTDREAL":3410,
+        "QTDREAL":3414,
         "QTDMETA25":3812,
         "QTDPROD25":2612
     },
@@ -46579,7 +46579,7 @@
         "LINHA":"45 - AZEITONA 80-100-120-1000-1600-1800",
         "GRUPO":"10101200 - AZEITONA",
         "QTDPREV":310,
-        "QTDREAL":302,
+        "QTDREAL":304,
         "QTDMETA25":341,
         "QTDPROD25":0
     },
@@ -46591,7 +46591,7 @@
         "LINHA":"7 - PURO ALHO 200-440-1000-2000 1",
         "GRUPO":"10100500 - PASTA DE ALHO",
         "QTDPREV":2655,
-        "QTDREAL":1966,
+        "QTDREAL":1973,
         "QTDMETA25":2658,
         "QTDPROD25":2684
     },
@@ -46699,9 +46699,9 @@
         "LINHA":"8 - MOLHO DE TOMATE 300 1 & 2",
         "GRUPO":"10100701 - MOLHO DE TOMATE COMBATE",
         "QTDPREV":29608,
-        "QTDREAL":36875,
+        "QTDREAL":36884,
         "QTDMETA25":32569,
-        "QTDPROD25":30210
+        "QTDPROD25":30380
     },
     {
         "CODMETA":24,
@@ -46711,7 +46711,7 @@
         "LINHA":"8 - MOLHO DE TOMATE 300 1 & 2",
         "GRUPO":"10100702 - MOLHO DE TOMATE ESPECIAL",
         "QTDPREV":4614,
-        "QTDREAL":3225,
+        "QTDREAL":3229,
         "QTDMETA25":5076,
         "QTDPROD25":3086
     },
@@ -46723,7 +46723,7 @@
         "LINHA":"8 - MOLHO DE TOMATE 300 1 & 2",
         "GRUPO":"10100702 - MOLHO DE TOMATE ESPECIAL",
         "QTDPREV":4234,
-        "QTDREAL":3079,
+        "QTDREAL":3083,
         "QTDMETA25":4657,
         "QTDPROD25":3153
     },
@@ -46735,7 +46735,7 @@
         "LINHA":"8 - MOLHO DE TOMATE 300 1 & 2",
         "GRUPO":"10100702 - MOLHO DE TOMATE ESPECIAL",
         "QTDPREV":1785,
-        "QTDREAL":1726,
+        "QTDREAL":1730,
         "QTDMETA25":1964,
         "QTDPROD25":1464
     },
@@ -46747,7 +46747,7 @@
         "LINHA":"9 - CATCHUP 750-800-830",
         "GRUPO":"10100101 - VINAGRE TRADICIONAL 500\/750",
         "QTDPREV":3310,
-        "QTDREAL":4071,
+        "QTDREAL":4072,
         "QTDMETA25":3641,
         "QTDPROD25":1326
     },
@@ -46795,7 +46795,7 @@
         "LINHA":"9 - CATCHUP 750-800-830",
         "GRUPO":"10100303 - MOLHO 750",
         "QTDPREV":910,
-        "QTDREAL":938,
+        "QTDREAL":939,
         "QTDMETA25":1001,
         "QTDPROD25":1263
     },
@@ -46807,7 +46807,7 @@
         "LINHA":"9 - CATCHUP 750-800-830",
         "GRUPO":"10100602 - CATCHUP\/MOST\/BARB 800-830",
         "QTDPREV":4107,
-        "QTDREAL":2888,
+        "QTDREAL":2899,
         "QTDMETA25":4517,
         "QTDPROD25":2035
     },
@@ -46891,7 +46891,7 @@
         "LINHA":"9 - CATCHUP 750-800-830",
         "GRUPO":"10100602 - CATCHUP\/MOST\/BARB 800-830",
         "QTDPREV":5137,
-        "QTDREAL":2331,
+        "QTDREAL":2332,
         "QTDMETA25":5651,
         "QTDPROD25":1278
     },
@@ -46963,7 +46963,7 @@
         "LINHA":"10 - TEMPERO PÓ 1",
         "GRUPO":"10100400 - TEMPERO EM PO",
         "QTDPREV":752,
-        "QTDREAL":868,
+        "QTDREAL":869,
         "QTDMETA25":827,
         "QTDPROD25":805
     },
@@ -46987,7 +46987,7 @@
         "LINHA":"10 - TEMPERO PÓ 1",
         "GRUPO":"10100400 - TEMPERO EM PO",
         "QTDPREV":558,
-        "QTDREAL":712,
+        "QTDREAL":713,
         "QTDMETA25":613,
         "QTDPROD25":801
     },
@@ -46999,7 +46999,7 @@
         "LINHA":"10 - TEMPERO PÓ 1",
         "GRUPO":"10100400 - TEMPERO EM PO",
         "QTDPREV":475,
-        "QTDREAL":424,
+        "QTDREAL":425,
         "QTDMETA25":523,
         "QTDPROD25":4
     },
@@ -47071,7 +47071,7 @@
         "LINHA":"12 - CANELA 35G PÓ",
         "GRUPO":"10101002 - CANELA POTE AMARELO",
         "QTDPREV":2207,
-        "QTDREAL":1724,
+        "QTDREAL":1726,
         "QTDMETA25":2428,
         "QTDPROD25":1835
     },
@@ -47107,7 +47107,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":135,
-        "QTDREAL":67,
+        "QTDREAL":70,
         "QTDMETA25":148,
         "QTDPROD25":93
     },
@@ -47119,7 +47119,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":164,
-        "QTDREAL":98,
+        "QTDREAL":101,
         "QTDMETA25":180,
         "QTDPROD25":264
     },
@@ -47131,7 +47131,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":106,
-        "QTDREAL":76,
+        "QTDREAL":80,
         "QTDMETA25":116,
         "QTDPROD25":0
     },
@@ -47143,7 +47143,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":260,
-        "QTDREAL":218,
+        "QTDREAL":223,
         "QTDMETA25":285,
         "QTDPROD25":166
     },
@@ -47155,7 +47155,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":608,
-        "QTDREAL":401,
+        "QTDREAL":407,
         "QTDMETA25":667,
         "QTDPROD25":490
     },
@@ -47167,7 +47167,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":175,
-        "QTDREAL":126,
+        "QTDREAL":128,
         "QTDMETA25":192,
         "QTDPROD25":134
     },
@@ -47179,7 +47179,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":143,
-        "QTDREAL":106,
+        "QTDREAL":108,
         "QTDMETA25":157,
         "QTDPROD25":105
     },
@@ -47191,7 +47191,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":146,
-        "QTDREAL":65,
+        "QTDREAL":66,
         "QTDMETA25":161,
         "QTDPROD25":0
     },
@@ -47203,7 +47203,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":82,
-        "QTDREAL":94,
+        "QTDREAL":96,
         "QTDMETA25":91,
         "QTDPROD25":121
     },
@@ -47215,7 +47215,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":170,
-        "QTDREAL":113,
+        "QTDREAL":115,
         "QTDMETA25":187,
         "QTDPROD25":202
     },
@@ -47227,7 +47227,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":303,
-        "QTDREAL":133,
+        "QTDREAL":137,
         "QTDMETA25":332,
         "QTDPROD25":147
     },
@@ -47239,7 +47239,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":806,
-        "QTDREAL":490,
+        "QTDREAL":496,
         "QTDMETA25":884,
         "QTDPROD25":613
     },
@@ -47251,7 +47251,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":120,
-        "QTDREAL":89,
+        "QTDREAL":92,
         "QTDMETA25":132,
         "QTDPROD25":165
     },
@@ -47275,7 +47275,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":329,
-        "QTDREAL":308,
+        "QTDREAL":312,
         "QTDMETA25":361,
         "QTDPROD25":0
     },
@@ -47287,7 +47287,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":420,
-        "QTDREAL":316,
+        "QTDREAL":320,
         "QTDMETA25":461,
         "QTDPROD25":0
     },
@@ -47311,7 +47311,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":520,
-        "QTDREAL":465,
+        "QTDREAL":469,
         "QTDMETA25":570,
         "QTDPROD25":266
     },
@@ -47323,7 +47323,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":435,
-        "QTDREAL":350,
+        "QTDREAL":353,
         "QTDMETA25":478,
         "QTDPROD25":219
     },
@@ -47335,7 +47335,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":181,
-        "QTDREAL":143,
+        "QTDREAL":145,
         "QTDMETA25":199,
         "QTDPROD25":168
     },
@@ -47359,7 +47359,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":88,
-        "QTDREAL":64,
+        "QTDREAL":65,
         "QTDMETA25":96,
         "QTDPROD25":0
     },
@@ -47371,7 +47371,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":509,
-        "QTDREAL":455,
+        "QTDREAL":458,
         "QTDMETA25":559,
         "QTDPROD25":441
     },
@@ -47407,7 +47407,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":19,
-        "QTDREAL":33,
+        "QTDREAL":34,
         "QTDMETA25":20,
         "QTDPROD25":0
     },
@@ -47419,7 +47419,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":44,
-        "QTDREAL":30,
+        "QTDREAL":31,
         "QTDMETA25":48,
         "QTDPROD25":49
     },
@@ -47431,7 +47431,7 @@
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":44,
-        "QTDREAL":30,
+        "QTDREAL":31,
         "QTDMETA25":48,
         "QTDPROD25":49
     },
@@ -47455,7 +47455,7 @@
         "LINHA":"13 - TEMPERO SECO SACHE 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":51,
-        "QTDREAL":65,
+        "QTDREAL":66,
         "QTDMETA25":56,
         "QTDPROD25":0
     },
@@ -47479,7 +47479,7 @@
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101003 - TEMPERO SECO SACHE",
         "QTDPREV":464,
-        "QTDREAL":344,
+        "QTDREAL":350,
         "QTDMETA25":509,
         "QTDPROD25":229
     },
@@ -47503,7 +47503,7 @@
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101001 - TEMPERO SECO FRASCO PET",
         "QTDPREV":16,
-        "QTDREAL":12,
+        "QTDREAL":16,
         "QTDMETA25":17,
         "QTDPROD25":0
     },
@@ -47707,7 +47707,7 @@
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101001 - TEMPERO SECO FRASCO PET",
         "QTDPREV":138,
-        "QTDREAL":38,
+        "QTDREAL":41,
         "QTDMETA25":151,
         "QTDPROD25":0
     },
@@ -47755,7 +47755,7 @@
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101103 - SAL DE PARRILLA MR MAKER",
         "QTDPREV":122,
-        "QTDREAL":138,
+        "QTDREAL":140,
         "QTDMETA25":123,
         "QTDPROD25":0
     },
@@ -47767,7 +47767,7 @@
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101103 - SAL DE PARRILLA MR MAKER",
         "QTDPREV":102,
-        "QTDREAL":81,
+        "QTDREAL":83,
         "QTDMETA25":103,
         "QTDPROD25":108
     },
@@ -47779,7 +47779,7 @@
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101103 - SAL DE PARRILLA MR MAKER",
         "QTDPREV":80,
-        "QTDREAL":69,
+        "QTDREAL":70,
         "QTDMETA25":80,
         "QTDPROD25":116
     },
@@ -47791,7 +47791,7 @@
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101103 - SAL DE PARRILLA MR MAKER",
         "QTDPREV":47,
-        "QTDREAL":26,
+        "QTDREAL":27,
         "QTDMETA25":48,
         "QTDPROD25":0
     },
@@ -47803,7 +47803,7 @@
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101103 - SAL DE PARRILLA MR MAKER",
         "QTDPREV":167,
-        "QTDREAL":107,
+        "QTDREAL":109,
         "QTDMETA25":168,
         "QTDPROD25":113
     },
@@ -47815,7 +47815,7 @@
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101103 - SAL DE PARRILLA MR MAKER",
         "QTDPREV":138,
-        "QTDREAL":158,
+        "QTDREAL":160,
         "QTDMETA25":140,
         "QTDPROD25":162
     },
@@ -47863,7 +47863,7 @@
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101102 - TEMPERO POTE MR MAKER",
         "QTDPREV":277,
-        "QTDREAL":175,
+        "QTDREAL":176,
         "QTDMETA25":279,
         "QTDPROD25":123
     },
@@ -47875,7 +47875,7 @@
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101102 - TEMPERO POTE MR MAKER",
         "QTDPREV":202,
-        "QTDREAL":133,
+        "QTDREAL":135,
         "QTDMETA25":204,
         "QTDPROD25":43
     },
@@ -47887,7 +47887,7 @@
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101102 - TEMPERO POTE MR MAKER",
         "QTDPREV":29,
-        "QTDREAL":21,
+        "QTDREAL":22,
         "QTDMETA25":29,
         "QTDPROD25":0
     },
@@ -47983,7 +47983,7 @@
         "LINHA":"14 - TEMPERO SECO MANUAL 1",
         "GRUPO":"10101102 - TEMPERO POTE MR MAKER",
         "QTDPREV":10,
-        "QTDREAL":7,
+        "QTDREAL":8,
         "QTDMETA25":10,
         "QTDPROD25":0
     },
@@ -48067,7 +48067,7 @@
         "LINHA":"17 - DETERGENTE 500 1",
         "GRUPO":"10200100 - DETERGENTE",
         "QTDPREV":4299,
-        "QTDREAL":2278,
+        "QTDREAL":2279,
         "QTDMETA25":4728,
         "QTDPROD25":2459
     },
@@ -48079,7 +48079,7 @@
         "LINHA":"17 - DETERGENTE 500 1",
         "GRUPO":"10200100 - DETERGENTE",
         "QTDPREV":5951,
-        "QTDREAL":2621,
+        "QTDREAL":2622,
         "QTDMETA25":6546,
         "QTDPROD25":5255
     },
@@ -48103,9 +48103,9 @@
         "LINHA":"129 - 500 MANUAL LIMPA ALUMÍNIO",
         "GRUPO":"10200200 - LIMPA ALUMINIO",
         "QTDPREV":2789,
-        "QTDREAL":1508,
+        "QTDREAL":1641,
         "QTDMETA25":3068,
-        "QTDPROD25":3375
+        "QTDPROD25":3465
     },
     {
         "CODMETA":24,
@@ -48165,7 +48165,7 @@
         "QTDPREV":527,
         "QTDREAL":249,
         "QTDMETA25":579,
-        "QTDPROD25":181
+        "QTDPROD25":277
     },
     {
         "CODMETA":24,
@@ -48199,7 +48199,7 @@
         "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
         "GRUPO":"10200300 - AMACIANTE",
         "QTDPREV":211,
-        "QTDREAL":164,
+        "QTDREAL":167,
         "QTDMETA25":232,
         "QTDPROD25":85
     },
@@ -48235,7 +48235,7 @@
         "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
         "GRUPO":"10200400 - DESINFETANTE",
         "QTDPREV":415,
-        "QTDREAL":247,
+        "QTDREAL":249,
         "QTDMETA25":456,
         "QTDPROD25":256
     },
@@ -48247,7 +48247,7 @@
         "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
         "GRUPO":"10200400 - DESINFETANTE",
         "QTDPREV":96,
-        "QTDREAL":118,
+        "QTDREAL":119,
         "QTDMETA25":106,
         "QTDPROD25":87
     },
@@ -48259,7 +48259,7 @@
         "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
         "GRUPO":"10200400 - DESINFETANTE",
         "QTDPREV":332,
-        "QTDREAL":196,
+        "QTDREAL":202,
         "QTDMETA25":365,
         "QTDPROD25":171
     },
@@ -48271,7 +48271,7 @@
         "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
         "GRUPO":"10200400 - DESINFETANTE",
         "QTDPREV":100,
-        "QTDREAL":119,
+        "QTDREAL":120,
         "QTDMETA25":110,
         "QTDPROD25":173
     },
@@ -48283,7 +48283,7 @@
         "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
         "GRUPO":"10200500 - LAVA ROUPA",
         "QTDPREV":477,
-        "QTDREAL":220,
+        "QTDREAL":223,
         "QTDMETA25":525,
         "QTDPROD25":110
     },
@@ -48331,7 +48331,7 @@
         "LINHA":"45 - AZEITONA 80-100-120-1000-1600-1800",
         "GRUPO":"10101200 - AZEITONA",
         "QTDPREV":310,
-        "QTDREAL":280,
+        "QTDREAL":282,
         "QTDMETA25":341,
         "QTDPROD25":0
     },
@@ -48343,7 +48343,7 @@
         "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"10200700 - INSTITUCIONAL",
         "QTDPREV":153,
-        "QTDREAL":64,
+        "QTDREAL":68,
         "QTDMETA25":168,
         "QTDPROD25":103
     },
@@ -48355,7 +48355,7 @@
         "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"10200500 - LAVA ROUPA",
         "QTDPREV":6404,
-        "QTDREAL":6525,
+        "QTDREAL":6534,
         "QTDMETA25":7045,
         "QTDPROD25":7576
     },
@@ -48427,7 +48427,7 @@
         "LINHA":"20 - CATCHUP 180-200-380",
         "GRUPO":"10100601 - CATCHUP\/MOST\/BARB 190-200-380",
         "QTDPREV":2464,
-        "QTDREAL":2735,
+        "QTDREAL":2746,
         "QTDMETA25":2721,
         "QTDPROD25":1129
     },
@@ -48439,7 +48439,7 @@
         "LINHA":"20 - CATCHUP 180-200-380",
         "GRUPO":"10100601 - CATCHUP\/MOST\/BARB 190-200-380",
         "QTDPREV":859,
-        "QTDREAL":880,
+        "QTDREAL":884,
         "QTDMETA25":949,
         "QTDPROD25":1139
     },
@@ -48451,7 +48451,7 @@
         "LINHA":"20 - CATCHUP 180-200-380",
         "GRUPO":"10100601 - CATCHUP\/MOST\/BARB 190-200-380",
         "QTDPREV":3174,
-        "QTDREAL":2790,
+        "QTDREAL":2800,
         "QTDMETA25":3505,
         "QTDPROD25":3092
     },
@@ -48463,7 +48463,7 @@
         "LINHA":"20 - CATCHUP 180-200-380",
         "GRUPO":"10100601 - CATCHUP\/MOST\/BARB 190-200-380",
         "QTDPREV":702,
-        "QTDREAL":630,
+        "QTDREAL":633,
         "QTDMETA25":775,
         "QTDPROD25":916
     },
@@ -48475,7 +48475,7 @@
         "LINHA":"20 - CATCHUP 180-200-380",
         "GRUPO":"10100601 - CATCHUP\/MOST\/BARB 190-200-380",
         "QTDPREV":197,
-        "QTDREAL":119,
+        "QTDREAL":120,
         "QTDMETA25":217,
         "QTDPROD25":87
     },
@@ -48487,7 +48487,7 @@
         "LINHA":"20 - CATCHUP 180-200-380",
         "GRUPO":"10100603 - CREME DE ALHO\/PASTA PAO DE ALH",
         "QTDPREV":265,
-        "QTDREAL":597,
+        "QTDREAL":598,
         "QTDMETA25":293,
         "QTDPROD25":444
     },
