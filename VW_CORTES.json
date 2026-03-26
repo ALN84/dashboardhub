@@ -17050,7 +17050,7 @@
         "CODPARC":235,
         "NOMEPARC":"CAICO FRIOS ZONA NORTE",
         "APELIDO":"LIDIANE.RN",
-        "PEDIDO_PENDENTE":"Sim",
+        "PEDIDO_PENDENTE":"Não",
         "QTD_PEDIDO_CX":5,
         "QTD_CORTE_CX":3,
         "VLR_PEDIDO_TOTAL":296.1,
