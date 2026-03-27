@@ -17250,7 +17250,7 @@
         "CODPARC":1330,
         "NOMEPARC":"ATACAMIX",
         "APELIDO":"MIGUEL.PB",
-        "PEDIDO_PENDENTE":"Sim",
+        "PEDIDO_PENDENTE":"Não",
         "QTD_PEDIDO_CX":4,
         "QTD_CORTE_CX":4,
         "VLR_PEDIDO_TOTAL":230.56,
