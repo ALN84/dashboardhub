@@ -226056,7 +226056,7 @@
         "GRUPO":"TEMPERO TRADICIONAL 500\/750",
         "ESTMIN":1443.0,
         "ESTMAX":2062.0,
-        "SALDO":224,
+        "SALDO":208,
         "CUSTO":6.477336,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226067,7 +226067,7 @@
         "GRUPO":"TEMPERO TRADICIONAL 500\/750",
         "ESTMIN":948.0,
         "ESTMAX":1354.0,
-        "SALDO":1729,
+        "SALDO":1718,
         "CUSTO":6.25218,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226089,7 +226089,7 @@
         "GRUPO":"VINAGRE TRADICIONAL 500\/750",
         "ESTMIN":31205.0,
         "ESTMAX":44578.0,
-        "SALDO":7874,
+        "SALDO":7806,
         "CUSTO":5.758512,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226100,7 +226100,7 @@
         "GRUPO":"MOLHO 500",
         "ESTMIN":1880.0,
         "ESTMAX":2686.0,
-        "SALDO":1851,
+        "SALDO":1821,
         "CUSTO":8.256648,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226111,7 +226111,7 @@
         "GRUPO":"MOLHO 150",
         "ESTMIN":2349.0,
         "ESTMAX":3355.0,
-        "SALDO":1683,
+        "SALDO":1666,
         "CUSTO":6.182928,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226122,7 +226122,7 @@
         "GRUPO":"MOLHO 150",
         "ESTMIN":2520.0,
         "ESTMAX":3600.0,
-        "SALDO":1402,
+        "SALDO":1348,
         "CUSTO":5.475192,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226133,7 +226133,7 @@
         "GRUPO":"MOLHO 150",
         "ESTMIN":2092.0,
         "ESTMAX":2989.0,
-        "SALDO":875,
+        "SALDO":822,
         "CUSTO":9.273,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226144,7 +226144,7 @@
         "GRUPO":"TEMPERO COMBATE 500",
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
-        "SALDO":1329,
+        "SALDO":1063,
         "CUSTO":5.630772,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226155,7 +226155,7 @@
         "GRUPO":"PASTA DE ALHO",
         "ESTMIN":1517.0,
         "ESTMAX":2167.0,
-        "SALDO":653,
+        "SALDO":643,
         "CUSTO":17.4465,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226166,7 +226166,7 @@
         "GRUPO":"PASTA DE ALHO",
         "ESTMIN":638.0,
         "ESTMAX":912.0,
-        "SALDO":120,
+        "SALDO":111,
         "CUSTO":32.579892,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226177,7 +226177,7 @@
         "GRUPO":"PASTA DE ALHO",
         "ESTMIN":194.0,
         "ESTMAX":277.0,
-        "SALDO":492,
+        "SALDO":488,
         "CUSTO":37.971624,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226221,7 +226221,7 @@
         "GRUPO":"MOLHO 150",
         "ESTMIN":3252.0,
         "ESTMAX":4646.0,
-        "SALDO":1804,
+        "SALDO":1726,
         "CUSTO":6.48258,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226254,7 +226254,7 @@
         "GRUPO":"MOLHO 500",
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
-        "SALDO":119,
+        "SALDO":79,
         "CUSTO":8.145588,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226265,7 +226265,7 @@
         "GRUPO":"MOLHO 500",
         "ESTMIN":354.0,
         "ESTMAX":506.0,
-        "SALDO":342,
+        "SALDO":341,
         "CUSTO":5.737068,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226276,7 +226276,7 @@
         "GRUPO":"MOLHO 500",
         "ESTMIN":83.0,
         "ESTMAX":119.0,
-        "SALDO":205,
+        "SALDO":203,
         "CUSTO":9.408828,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226287,7 +226287,7 @@
         "GRUPO":"MOLHO 500",
         "ESTMIN":364.0,
         "ESTMAX":520.0,
-        "SALDO":39,
+        "SALDO":18,
         "CUSTO":10.1022,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226353,7 +226353,7 @@
         "GRUPO":"PASTA DE ALHO",
         "ESTMIN":125.0,
         "ESTMAX":178.0,
-        "SALDO":152,
+        "SALDO":148,
         "CUSTO":58.440006,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226364,7 +226364,7 @@
         "GRUPO":"TEMPERO TRADICIONAL 500\/750",
         "ESTMIN":937.0,
         "ESTMAX":1339.0,
-        "SALDO":784,
+        "SALDO":767,
         "CUSTO":7.185768,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226518,7 +226518,7 @@
         "GRUPO":"CATCHUP\/MOST\/BARB 190-200-380",
         "ESTMIN":1324.0,
         "ESTMAX":1891.0,
-        "SALDO":1089,
+        "SALDO":1034,
         "CUSTO":12.242556,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226529,7 +226529,7 @@
         "GRUPO":"CATCHUP\/MOST\/BARB 190-200-380",
         "ESTMIN":643.0,
         "ESTMAX":919.0,
-        "SALDO":482,
+        "SALDO":469,
         "CUSTO":12.511992,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226540,7 +226540,7 @@
         "GRUPO":"CATCHUP\/MOST\/BARB 190-200-380",
         "ESTMIN":1419.0,
         "ESTMAX":2027.0,
-        "SALDO":1775,
+        "SALDO":1750,
         "CUSTO":18.709728,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226551,7 +226551,7 @@
         "GRUPO":"CATCHUP\/MOST\/BARB 190-200-380",
         "ESTMIN":509.0,
         "ESTMAX":727.0,
-        "SALDO":558,
+        "SALDO":521,
         "CUSTO":18.473388,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226562,7 +226562,7 @@
         "GRUPO":"CATCHUP\/MOST\/BARB 190-200-380",
         "ESTMIN":235.0,
         "ESTMAX":336.0,
-        "SALDO":137,
+        "SALDO":128,
         "CUSTO":19.406436,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226573,7 +226573,7 @@
         "GRUPO":"MOLHO 150",
         "ESTMIN":1896.0,
         "ESTMAX":2708.0,
-        "SALDO":1759,
+        "SALDO":1718,
         "CUSTO":9.520284,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226606,7 +226606,7 @@
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":645.0,
         "ESTMAX":922.0,
-        "SALDO":211,
+        "SALDO":208,
         "CUSTO":7.857758,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226650,7 +226650,7 @@
         "GRUPO":"VINAGRE TRADICIONAL 500\/750",
         "ESTMIN":18332.0,
         "ESTMAX":26189.0,
-        "SALDO":3602,
+        "SALDO":3012,
         "CUSTO":5.902452,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226683,7 +226683,7 @@
         "GRUPO":"MOLHO 150",
         "ESTMIN":85.0,
         "ESTMAX":122.0,
-        "SALDO":21,
+        "SALDO":19,
         "CUSTO":6.249804,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226694,7 +226694,7 @@
         "GRUPO":"MOLHO 150",
         "ESTMIN":99.0,
         "ESTMAX":142.0,
-        "SALDO":83,
+        "SALDO":81,
         "CUSTO":6.80058,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226705,7 +226705,7 @@
         "GRUPO":"MOLHO 150",
         "ESTMIN":101.0,
         "ESTMAX":144.0,
-        "SALDO":62,
+        "SALDO":57,
         "CUSTO":6.321804,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226716,7 +226716,7 @@
         "GRUPO":"PASTA DE ALHO",
         "ESTMIN":433.0,
         "ESTMAX":618.0,
-        "SALDO":263,
+        "SALDO":213,
         "CUSTO":17.409,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226727,7 +226727,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":149.0,
         "ESTMAX":213.0,
-        "SALDO":111,
+        "SALDO":105,
         "CUSTO":18.484752,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226738,7 +226738,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":155.0,
         "ESTMAX":222.0,
-        "SALDO":247,
+        "SALDO":246,
         "CUSTO":14.363256,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226749,7 +226749,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":499.0,
         "ESTMAX":713.0,
-        "SALDO":48,
+        "SALDO":35,
         "CUSTO":4.560168,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226760,7 +226760,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":86.0,
         "ESTMAX":123.0,
-        "SALDO":65,
+        "SALDO":60,
         "CUSTO":10.391232,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226771,7 +226771,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":308.0,
         "ESTMAX":440.0,
-        "SALDO":353,
+        "SALDO":342,
         "CUSTO":13.759344,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226782,7 +226782,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":589.0,
         "ESTMAX":841.0,
-        "SALDO":826,
+        "SALDO":814,
         "CUSTO":5.430504,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226793,7 +226793,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":189.0,
         "ESTMAX":270.0,
-        "SALDO":238,
+        "SALDO":236,
         "CUSTO":17.716872,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226804,7 +226804,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":142.0,
         "ESTMAX":203.0,
-        "SALDO":63,
+        "SALDO":62,
         "CUSTO":11.177232,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226815,7 +226815,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":146.0,
         "ESTMAX":208.0,
-        "SALDO":108,
+        "SALDO":107,
         "CUSTO":8.79252,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226837,7 +226837,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":220.0,
         "ESTMAX":314.0,
-        "SALDO":262,
+        "SALDO":260,
         "CUSTO":17.665464,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226848,7 +226848,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":295.0,
         "ESTMAX":421.0,
-        "SALDO":83,
+        "SALDO":77,
         "CUSTO":41.429712,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226859,7 +226859,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":445.0,
         "ESTMAX":636.0,
-        "SALDO":817,
+        "SALDO":797,
         "CUSTO":6.971952,
         "DTNEG":"27032026 00:00:00"
     },
@@ -226881,7 +226881,7 @@
         "GRUPO":"CANELA POTE AMARELO",
         "ESTMIN":1081.0,
         "ESTMAX":1544.0,
-        "SALDO":94,
+        "SALDO":80,
         "CUSTO":31.814712,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227002,7 +227002,7 @@
         "GRUPO":"VINAGRE SABOR 500",
         "ESTMIN":588.0,
         "ESTMAX":840.0,
-        "SALDO":625,
+        "SALDO":619,
         "CUSTO":5.663868,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227101,7 +227101,7 @@
         "GRUPO":"MOLHO 500",
         "ESTMIN":434.0,
         "ESTMAX":620.0,
-        "SALDO":274,
+        "SALDO":220,
         "CUSTO":8.38398,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227156,7 +227156,7 @@
         "GRUPO":"REFIL MR MAKER",
         "ESTMIN":22.0,
         "ESTMAX":31.0,
-        "SALDO":115,
+        "SALDO":114,
         "CUSTO":8.829036,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227178,7 +227178,7 @@
         "GRUPO":"ADOCANTE TRADICIONAL",
         "ESTMIN":585.0,
         "ESTMAX":836.0,
-        "SALDO":764,
+        "SALDO":754,
         "CUSTO":11.383632,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227189,7 +227189,7 @@
         "GRUPO":"ADOCANTE SABOR",
         "ESTMIN":508.0,
         "ESTMAX":726.0,
-        "SALDO":251,
+        "SALDO":248,
         "CUSTO":13.042344,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227200,7 +227200,7 @@
         "GRUPO":"ADOCANTE SABOR",
         "ESTMIN":1660.0,
         "ESTMAX":2371.0,
-        "SALDO":842,
+        "SALDO":827,
         "CUSTO":61.29558,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227211,7 +227211,7 @@
         "GRUPO":"MOLHO 150",
         "ESTMIN":1057.0,
         "ESTMAX":1510.0,
-        "SALDO":458,
+        "SALDO":438,
         "CUSTO":9.065112,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227233,7 +227233,7 @@
         "GRUPO":"MOEDOR MR MAKER",
         "ESTMIN":78.0,
         "ESTMAX":112.0,
-        "SALDO":28,
+        "SALDO":26,
         "CUSTO":22.896606,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227244,7 +227244,7 @@
         "GRUPO":"MOEDOR MR MAKER",
         "ESTMIN":209.0,
         "ESTMAX":299.0,
-        "SALDO":119,
+        "SALDO":111,
         "CUSTO":37.330428,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227255,7 +227255,7 @@
         "GRUPO":"MOEDOR MR MAKER",
         "ESTMIN":253.0,
         "ESTMAX":362.0,
-        "SALDO":222,
+        "SALDO":210,
         "CUSTO":35.856012,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227277,7 +227277,7 @@
         "GRUPO":"MOEDOR MR MAKER",
         "ESTMIN":162.0,
         "ESTMAX":231.0,
-        "SALDO":110,
+        "SALDO":106,
         "CUSTO":24.394338,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227288,7 +227288,7 @@
         "GRUPO":"TEMPERO COMBATE 500",
         "ESTMIN":6193.0,
         "ESTMAX":8847.0,
-        "SALDO":3951,
+        "SALDO":3540,
         "CUSTO":5.627064,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227343,7 +227343,7 @@
         "GRUPO":"CANELA POTE AMARELO",
         "ESTMIN":689.0,
         "ESTMAX":984.0,
-        "SALDO":385,
+        "SALDO":353,
         "CUSTO":11.313696,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227354,7 +227354,7 @@
         "GRUPO":"VINAGRE SABOR 500",
         "ESTMIN":81.0,
         "ESTMAX":116.0,
-        "SALDO":187,
+        "SALDO":164,
         "CUSTO":5.288556,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227376,7 +227376,7 @@
         "GRUPO":"TEMPERO SECO FRASCO PET",
         "ESTMIN":155.0,
         "ESTMAX":222.0,
-        "SALDO":1,
+        "SALDO":0,
         "CUSTO":11.799618,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227420,7 +227420,7 @@
         "GRUPO":"VINAGRE TRADICIONAL 500\/750",
         "ESTMIN":1492.0,
         "ESTMAX":2131.0,
-        "SALDO":130,
+        "SALDO":126,
         "CUSTO":8.160276,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227464,7 +227464,7 @@
         "GRUPO":"MOLHO 750",
         "ESTMIN":473.0,
         "ESTMAX":675.0,
-        "SALDO":185,
+        "SALDO":181,
         "CUSTO":12.338256,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227475,7 +227475,7 @@
         "GRUPO":"CATCHUP\/MOST\/BARB 800-830",
         "ESTMIN":2453.0,
         "ESTMAX":3504.0,
-        "SALDO":69,
+        "SALDO":2,
         "CUSTO":25.006644,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227486,7 +227486,7 @@
         "GRUPO":"CATCHUP\/MOST\/BARB 800-830",
         "ESTMIN":477.0,
         "ESTMAX":681.0,
-        "SALDO":391,
+        "SALDO":368,
         "CUSTO":27.76896,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227497,7 +227497,7 @@
         "GRUPO":"MOLHO DE TOMATE COMBATE",
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
-        "SALDO":14912,
+        "SALDO":14617,
         "CUSTO":11.701848,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227508,7 +227508,7 @@
         "GRUPO":"MOLHO DE TOMATE ESPECIAL",
         "ESTMIN":2085.0,
         "ESTMAX":2979.0,
-        "SALDO":1006,
+        "SALDO":954,
         "CUSTO":12.074592,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227519,7 +227519,7 @@
         "GRUPO":"MOLHO DE TOMATE ESPECIAL",
         "ESTMIN":1793.0,
         "ESTMAX":2562.0,
-        "SALDO":1421,
+        "SALDO":1383,
         "CUSTO":11.684592,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227563,7 +227563,7 @@
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
-        "SALDO":194,
+        "SALDO":192,
         "CUSTO":32.57564,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227574,7 +227574,7 @@
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
-        "SALDO":122,
+        "SALDO":115,
         "CUSTO":33.281752,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227596,7 +227596,7 @@
         "GRUPO":"MOLHO DE TOMATE ESPECIAL",
         "ESTMIN":872.0,
         "ESTMAX":1245.0,
-        "SALDO":738,
+        "SALDO":686,
         "CUSTO":15.228864,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227618,7 +227618,7 @@
         "GRUPO":"AZEITONA",
         "ESTMIN":null,
         "ESTMAX":null,
-        "SALDO":908,
+        "SALDO":906,
         "CUSTO":22.869984,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227629,7 +227629,7 @@
         "GRUPO":"AZEITONA",
         "ESTMIN":null,
         "ESTMAX":null,
-        "SALDO":378,
+        "SALDO":372,
         "CUSTO":44.939856,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227651,7 +227651,7 @@
         "GRUPO":"AZEITONA",
         "ESTMIN":null,
         "ESTMAX":null,
-        "SALDO":196,
+        "SALDO":193,
         "CUSTO":41.349528,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227662,7 +227662,7 @@
         "GRUPO":"AZEITONA",
         "ESTMIN":null,
         "ESTMAX":null,
-        "SALDO":28,
+        "SALDO":26,
         "CUSTO":33.499464,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227871,7 +227871,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":312.0,
         "ESTMAX":446.0,
-        "SALDO":163,
+        "SALDO":153,
         "CUSTO":9.140352,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227959,7 +227959,7 @@
         "GRUPO":"CATCHUP\/MOST\/BARB 800-830",
         "ESTMIN":1493.0,
         "ESTMAX":2133.0,
-        "SALDO":516,
+        "SALDO":436,
         "CUSTO":17.147664,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227970,7 +227970,7 @@
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
-        "SALDO":251,
+        "SALDO":241,
         "CUSTO":21.793284,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227981,7 +227981,7 @@
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
-        "SALDO":115,
+        "SALDO":113,
         "CUSTO":29.523184,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228003,7 +228003,7 @@
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":512.0,
         "ESTMAX":732.0,
-        "SALDO":830,
+        "SALDO":828,
         "CUSTO":46.9413,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228025,7 +228025,7 @@
         "GRUPO":"TEMPERO GOURMET MR MAKER",
         "ESTMIN":776.0,
         "ESTMAX":1108.0,
-        "SALDO":90,
+        "SALDO":82,
         "CUSTO":7.873476,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228036,7 +228036,7 @@
         "GRUPO":"TEMPERO GOURMET MR MAKER",
         "ESTMIN":547.0,
         "ESTMAX":781.0,
-        "SALDO":921,
+        "SALDO":918,
         "CUSTO":7.993716,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228047,7 +228047,7 @@
         "GRUPO":"TEMPERO GOURMET MR MAKER",
         "ESTMIN":559.0,
         "ESTMAX":799.0,
-        "SALDO":907,
+        "SALDO":906,
         "CUSTO":9.54996,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228058,7 +228058,7 @@
         "GRUPO":"TEMPERO GOURMET MR MAKER",
         "ESTMIN":662.0,
         "ESTMAX":945.0,
-        "SALDO":269,
+        "SALDO":268,
         "CUSTO":8.865264,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228069,7 +228069,7 @@
         "GRUPO":"TEMPERO GOURMET MR MAKER",
         "ESTMIN":482.0,
         "ESTMAX":688.0,
-        "SALDO":147,
+        "SALDO":145,
         "CUSTO":10.200288,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228102,7 +228102,7 @@
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":544.0,
         "ESTMAX":777.0,
-        "SALDO":524,
+        "SALDO":514,
         "CUSTO":11.93619,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228113,7 +228113,7 @@
         "GRUPO":"TEMPERO EM PO",
         "ESTMIN":215.0,
         "ESTMAX":307.0,
-        "SALDO":349,
+        "SALDO":348,
         "CUSTO":28.434912,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228124,7 +228124,7 @@
         "GRUPO":"TEMPERO EM PO",
         "ESTMIN":81.0,
         "ESTMAX":115.0,
-        "SALDO":46,
+        "SALDO":45,
         "CUSTO":24.931728,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228135,7 +228135,7 @@
         "GRUPO":"TEMPERO EM PO",
         "ESTMIN":390.0,
         "ESTMAX":557.0,
-        "SALDO":183,
+        "SALDO":182,
         "CUSTO":28.161024,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228146,7 +228146,7 @@
         "GRUPO":"TEMPERO EM PO",
         "ESTMIN":426.0,
         "ESTMAX":608.0,
-        "SALDO":76,
+        "SALDO":74,
         "CUSTO":27.640368,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228157,7 +228157,7 @@
         "GRUPO":"TEMPERO EM PO",
         "ESTMIN":634.0,
         "ESTMAX":905.0,
-        "SALDO":223,
+        "SALDO":219,
         "CUSTO":26.545632,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228168,7 +228168,7 @@
         "GRUPO":"TEMPERO EM PO",
         "ESTMIN":489.0,
         "ESTMAX":698.0,
-        "SALDO":222,
+        "SALDO":221,
         "CUSTO":27.955968,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228190,7 +228190,7 @@
         "GRUPO":"TEMPERO EM PO",
         "ESTMIN":136.0,
         "ESTMAX":194.0,
-        "SALDO":32,
+        "SALDO":31,
         "CUSTO":24.829344,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228212,7 +228212,7 @@
         "GRUPO":"SAL DE PARRILLA MR MAKER",
         "ESTMIN":170.0,
         "ESTMAX":243.0,
-        "SALDO":65,
+        "SALDO":62,
         "CUSTO":19.079874,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228245,7 +228245,7 @@
         "GRUPO":"SAL DE PARRILLA MR MAKER",
         "ESTMIN":290.0,
         "ESTMAX":414.0,
-        "SALDO":48,
+        "SALDO":41,
         "CUSTO":20.098704,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228300,7 +228300,7 @@
         "GRUPO":"TEMPERO POTE MR MAKER",
         "ESTMIN":321.0,
         "ESTMAX":459.0,
-        "SALDO":121,
+        "SALDO":110,
         "CUSTO":18.896754,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228311,7 +228311,7 @@
         "GRUPO":"TEMPERO POTE MR MAKER",
         "ESTMIN":283.0,
         "ESTMAX":404.0,
-        "SALDO":112,
+        "SALDO":102,
         "CUSTO":22.201164,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228322,7 +228322,7 @@
         "GRUPO":"TEMPERO POTE MR MAKER",
         "ESTMIN":54.0,
         "ESTMAX":77.0,
-        "SALDO":458,
+        "SALDO":454,
         "CUSTO":21.762444,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228344,7 +228344,7 @@
         "GRUPO":"TEMPERO POTE MR MAKER",
         "ESTMIN":50.0,
         "ESTMAX":72.0,
-        "SALDO":368,
+        "SALDO":364,
         "CUSTO":23.823654,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228355,7 +228355,7 @@
         "GRUPO":"TEMPERO POTE MR MAKER",
         "ESTMIN":55.0,
         "ESTMAX":79.0,
-        "SALDO":26,
+        "SALDO":24,
         "CUSTO":21.681894,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228377,7 +228377,7 @@
         "GRUPO":"TEMPERO POTE MR MAKER",
         "ESTMIN":300.0,
         "ESTMAX":428.0,
-        "SALDO":107,
+        "SALDO":103,
         "CUSTO":24.635196,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228762,7 +228762,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":588.0,
         "ESTMAX":840.0,
-        "SALDO":468,
+        "SALDO":461,
         "CUSTO":8.514096,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228784,7 +228784,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":378.0,
         "ESTMAX":540.0,
-        "SALDO":146,
+        "SALDO":134,
         "CUSTO":9.216024,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228795,7 +228795,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":526.0,
         "ESTMAX":752.0,
-        "SALDO":399,
+        "SALDO":390,
         "CUSTO":13.94664,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228806,7 +228806,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":218.0,
         "ESTMAX":311.0,
-        "SALDO":338,
+        "SALDO":336,
         "CUSTO":13.028904,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228839,7 +228839,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":351.0,
         "ESTMAX":501.0,
-        "SALDO":147,
+        "SALDO":140,
         "CUSTO":13.909656,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228850,7 +228850,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":371.0,
         "ESTMAX":530.0,
-        "SALDO":505,
+        "SALDO":492,
         "CUSTO":10.241616,
         "DTNEG":"27032026 00:00:00"
     },
@@ -228993,7 +228993,7 @@
         "GRUPO":"MOEDOR ESPECIAL MR MAKER",
         "ESTMIN":41.0,
         "ESTMAX":59.0,
-        "SALDO":13,
+        "SALDO":10,
         "CUSTO":22.891512,
         "DTNEG":"27032026 00:00:00"
     },
