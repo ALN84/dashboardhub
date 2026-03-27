@@ -227387,7 +227387,7 @@
         "GRUPO":"MOEDOR ESPECIAL MR MAKER",
         "ESTMIN":57.0,
         "ESTMAX":81.0,
-        "SALDO":44,
+        "SALDO":66,
         "CUSTO":25.58289,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227398,7 +227398,7 @@
         "GRUPO":"MOEDOR ESPECIAL MR MAKER",
         "ESTMIN":61.0,
         "ESTMAX":87.0,
-        "SALDO":33,
+        "SALDO":53,
         "CUSTO":24.455304,
         "DTNEG":"27032026 00:00:00"
     },
@@ -227981,7 +227981,7 @@
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
-        "SALDO":0,
+        "SALDO":60,
         "CUSTO":28.608344,
         "DTNEG":"27032026 00:00:00"
     },
