@@ -45319,7 +45319,7 @@
         "LINHA":"1 - VINAGRE 500 1",
         "GRUPO":"10100101 - VINAGRE TRADICIONAL 500\/750",
         "QTDPREV":57670,
-        "QTDREAL":95068,
+        "QTDREAL":95083,
         "QTDMETA25":63437,
         "QTDPROD25":45474
     },
@@ -45691,7 +45691,7 @@
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10100202 - TEMPERO COMBATE 500",
         "QTDPREV":1614,
-        "QTDREAL":1244,
+        "QTDREAL":1274,
         "QTDMETA25":1776,
         "QTDPROD25":0
     },
@@ -46711,7 +46711,7 @@
         "LINHA":"8 - MOLHO DE TOMATE 300 1 & 2",
         "GRUPO":"10100701 - MOLHO DE TOMATE COMBATE",
         "QTDPREV":29608,
-        "QTDREAL":39595,
+        "QTDREAL":39598,
         "QTDMETA25":32569,
         "QTDPROD25":34560
     },
