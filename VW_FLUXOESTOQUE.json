@@ -205,7 +205,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":686,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"30122025 00:00:00"
     },
     {
@@ -1448,7 +1448,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":5883,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"30122025 00:00:00"
     },
     {
@@ -1509,7 +1509,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -1520,7 +1520,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -1613,7 +1613,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1267,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"30122025 00:00:00"
     },
     {
@@ -1916,7 +1916,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -1927,7 +1927,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -1938,7 +1938,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -3219,7 +3219,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":618,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"31122025 00:00:00"
     },
     {
@@ -4462,7 +4462,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":3011,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"31122025 00:00:00"
     },
     {
@@ -4523,7 +4523,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -4534,7 +4534,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -4627,7 +4627,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1267,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"31122025 00:00:00"
     },
     {
@@ -4930,7 +4930,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -4941,7 +4941,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -4952,7 +4952,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -6233,7 +6233,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":618,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"01012026 00:00:00"
     },
     {
@@ -7476,7 +7476,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":3011,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"01012026 00:00:00"
     },
     {
@@ -7537,7 +7537,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -7548,7 +7548,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -7641,7 +7641,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1267,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"01012026 00:00:00"
     },
     {
@@ -7944,7 +7944,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -7955,7 +7955,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -7966,7 +7966,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -9247,7 +9247,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":620,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"05012026 00:00:00"
     },
     {
@@ -10490,7 +10490,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":3533,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"05012026 00:00:00"
     },
     {
@@ -10551,7 +10551,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -10562,7 +10562,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -10655,7 +10655,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1267,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"05012026 00:00:00"
     },
     {
@@ -10958,7 +10958,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -10969,7 +10969,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -10980,7 +10980,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -12261,7 +12261,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":616,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"06012026 00:00:00"
     },
     {
@@ -13504,7 +13504,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":5107,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"06012026 00:00:00"
     },
     {
@@ -13565,7 +13565,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -13576,7 +13576,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -13669,7 +13669,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1263,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"06012026 00:00:00"
     },
     {
@@ -13972,7 +13972,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -13983,7 +13983,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -13994,7 +13994,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -15275,7 +15275,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":1256,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"07012026 00:00:00"
     },
     {
@@ -16518,7 +16518,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":5429,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"07012026 00:00:00"
     },
     {
@@ -16579,7 +16579,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -16590,7 +16590,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -16683,7 +16683,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1247,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"07012026 00:00:00"
     },
     {
@@ -16986,7 +16986,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -16997,7 +16997,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -17008,7 +17008,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -18289,7 +18289,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":1237,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"08012026 00:00:00"
     },
     {
@@ -19532,7 +19532,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":6123,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"08012026 00:00:00"
     },
     {
@@ -19593,7 +19593,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -19604,7 +19604,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -19697,7 +19697,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1227,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"08012026 00:00:00"
     },
     {
@@ -20000,7 +20000,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -20011,7 +20011,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -20022,7 +20022,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -21303,7 +21303,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":1131,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"09012026 00:00:00"
     },
     {
@@ -22546,7 +22546,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":5494,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"09012026 00:00:00"
     },
     {
@@ -22607,7 +22607,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -22618,7 +22618,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -22711,7 +22711,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1187,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"09012026 00:00:00"
     },
     {
@@ -23014,7 +23014,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -23025,7 +23025,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -23036,7 +23036,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -24317,7 +24317,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":1131,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"10012026 00:00:00"
     },
     {
@@ -25560,7 +25560,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":5494,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"10012026 00:00:00"
     },
     {
@@ -25621,7 +25621,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -25632,7 +25632,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -25725,7 +25725,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1187,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"10012026 00:00:00"
     },
     {
@@ -26028,7 +26028,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -26039,7 +26039,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -26050,7 +26050,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -27331,7 +27331,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":1131,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"11012026 00:00:00"
     },
     {
@@ -28574,7 +28574,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":5494,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"11012026 00:00:00"
     },
     {
@@ -28635,7 +28635,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -28646,7 +28646,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -28739,7 +28739,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1187,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"11012026 00:00:00"
     },
     {
@@ -29042,7 +29042,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -29053,7 +29053,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -29064,7 +29064,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -30345,7 +30345,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":1101,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"12012026 00:00:00"
     },
     {
@@ -31588,7 +31588,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":5446,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"12012026 00:00:00"
     },
     {
@@ -31649,7 +31649,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -31660,7 +31660,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -31753,7 +31753,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1181,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"12012026 00:00:00"
     },
     {
@@ -32056,7 +32056,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -32067,7 +32067,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -32078,7 +32078,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -33359,7 +33359,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":1100,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"13012026 00:00:00"
     },
     {
@@ -34602,7 +34602,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":4616,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"13012026 00:00:00"
     },
     {
@@ -34663,7 +34663,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -34674,7 +34674,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -34767,7 +34767,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1174,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"13012026 00:00:00"
     },
     {
@@ -35070,7 +35070,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -35081,7 +35081,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -35092,7 +35092,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -36373,7 +36373,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":1064,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"14012026 00:00:00"
     },
     {
@@ -37616,7 +37616,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":4223,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"14012026 00:00:00"
     },
     {
@@ -37677,7 +37677,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -37688,7 +37688,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -37781,7 +37781,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1163,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"14012026 00:00:00"
     },
     {
@@ -38084,7 +38084,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -38095,7 +38095,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -38106,7 +38106,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -39387,7 +39387,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":1062,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"15012026 00:00:00"
     },
     {
@@ -40630,7 +40630,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":4511,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"15012026 00:00:00"
     },
     {
@@ -40691,7 +40691,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -40702,7 +40702,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -40795,7 +40795,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1146,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"15012026 00:00:00"
     },
     {
@@ -41098,7 +41098,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -41109,7 +41109,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -41120,7 +41120,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -42401,7 +42401,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":930,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"16012026 00:00:00"
     },
     {
@@ -43644,7 +43644,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":5263,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"16012026 00:00:00"
     },
     {
@@ -43705,7 +43705,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -43716,7 +43716,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -43809,7 +43809,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1101,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"16012026 00:00:00"
     },
     {
@@ -44112,7 +44112,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -44123,7 +44123,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -44134,7 +44134,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -45415,7 +45415,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":900,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"17012026 00:00:00"
     },
     {
@@ -46658,7 +46658,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":5080,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"17012026 00:00:00"
     },
     {
@@ -46719,7 +46719,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -46730,7 +46730,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -46823,7 +46823,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1073,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"17012026 00:00:00"
     },
     {
@@ -47126,7 +47126,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -47137,7 +47137,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -47148,7 +47148,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -48429,7 +48429,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":875,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"19012026 00:00:00"
     },
     {
@@ -49672,7 +49672,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":5526,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"19012026 00:00:00"
     },
     {
@@ -49733,7 +49733,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -49744,7 +49744,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -49837,7 +49837,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1033,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"19012026 00:00:00"
     },
     {
@@ -50140,7 +50140,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -50151,7 +50151,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -50162,7 +50162,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -51443,7 +51443,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":776,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"20012026 00:00:00"
     },
     {
@@ -52686,7 +52686,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":6736,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"20012026 00:00:00"
     },
     {
@@ -52747,7 +52747,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -52758,7 +52758,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -52851,7 +52851,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":999,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"20012026 00:00:00"
     },
     {
@@ -53154,7 +53154,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -53165,7 +53165,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -53176,7 +53176,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -54457,7 +54457,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":744,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"21012026 00:00:00"
     },
     {
@@ -55700,7 +55700,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":6999,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"21012026 00:00:00"
     },
     {
@@ -55761,7 +55761,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -55772,7 +55772,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -55865,7 +55865,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1298,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"21012026 00:00:00"
     },
     {
@@ -56168,7 +56168,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -56179,7 +56179,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -56190,7 +56190,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -57471,7 +57471,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":736,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"22012026 00:00:00"
     },
     {
@@ -58714,7 +58714,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":6625,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"22012026 00:00:00"
     },
     {
@@ -58775,7 +58775,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -58786,7 +58786,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -58879,7 +58879,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1290,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"22012026 00:00:00"
     },
     {
@@ -59182,7 +59182,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -59193,7 +59193,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -59204,7 +59204,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -60485,7 +60485,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":629,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"23012026 00:00:00"
     },
     {
@@ -61728,7 +61728,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":6260,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"23012026 00:00:00"
     },
     {
@@ -61789,7 +61789,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -61800,7 +61800,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -61893,7 +61893,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1457,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"23012026 00:00:00"
     },
     {
@@ -62196,7 +62196,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -62207,7 +62207,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -62218,7 +62218,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -63499,7 +63499,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":629,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"26012026 00:00:00"
     },
     {
@@ -64742,7 +64742,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":10142,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"26012026 00:00:00"
     },
     {
@@ -64803,7 +64803,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -64814,7 +64814,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -64907,7 +64907,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1472,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"26012026 00:00:00"
     },
     {
@@ -65210,7 +65210,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -65221,7 +65221,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -65232,7 +65232,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -66513,7 +66513,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":628,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"27012026 00:00:00"
     },
     {
@@ -67756,7 +67756,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":11816,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"27012026 00:00:00"
     },
     {
@@ -67817,7 +67817,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -67828,7 +67828,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -67921,7 +67921,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1450,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"27012026 00:00:00"
     },
     {
@@ -68224,7 +68224,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -68235,7 +68235,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -68246,7 +68246,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -69527,7 +69527,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":626,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"28012026 00:00:00"
     },
     {
@@ -70770,7 +70770,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":11309,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"28012026 00:00:00"
     },
     {
@@ -70831,7 +70831,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -70842,7 +70842,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -70935,7 +70935,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1409,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"28012026 00:00:00"
     },
     {
@@ -71238,7 +71238,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -71249,7 +71249,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -71260,7 +71260,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -72541,7 +72541,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":616,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"29012026 00:00:00"
     },
     {
@@ -73784,7 +73784,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":10001,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"29012026 00:00:00"
     },
     {
@@ -73845,7 +73845,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -73856,7 +73856,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -73949,7 +73949,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1403,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"29012026 00:00:00"
     },
     {
@@ -74252,7 +74252,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -74263,7 +74263,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -74274,7 +74274,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -75555,7 +75555,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":560,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"30012026 00:00:00"
     },
     {
@@ -76798,7 +76798,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":7935,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"30012026 00:00:00"
     },
     {
@@ -76859,7 +76859,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -76870,7 +76870,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -76963,7 +76963,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1239,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"30012026 00:00:00"
     },
     {
@@ -77266,7 +77266,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -77277,7 +77277,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -77288,7 +77288,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -78569,7 +78569,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":228,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"31012026 00:00:00"
     },
     {
@@ -79812,7 +79812,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":6743,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"31012026 00:00:00"
     },
     {
@@ -79873,7 +79873,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -79884,7 +79884,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -79977,7 +79977,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1122,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"31012026 00:00:00"
     },
     {
@@ -80280,7 +80280,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -80291,7 +80291,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -80302,7 +80302,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -81583,7 +81583,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":228,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"01022026 00:00:00"
     },
     {
@@ -82826,7 +82826,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":6743,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"01022026 00:00:00"
     },
     {
@@ -82887,7 +82887,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -82898,7 +82898,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -82991,7 +82991,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1122,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"01022026 00:00:00"
     },
     {
@@ -83294,7 +83294,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -83305,7 +83305,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -83316,7 +83316,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -84597,7 +84597,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":226,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"02022026 00:00:00"
     },
     {
@@ -85840,7 +85840,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":9246,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"02022026 00:00:00"
     },
     {
@@ -85901,7 +85901,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -85912,7 +85912,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -86005,7 +86005,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1122,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"02022026 00:00:00"
     },
     {
@@ -86308,7 +86308,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -86319,7 +86319,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -86330,7 +86330,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -87611,7 +87611,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":213,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"03022026 00:00:00"
     },
     {
@@ -88854,7 +88854,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":9241,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"03022026 00:00:00"
     },
     {
@@ -88915,7 +88915,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -88926,7 +88926,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -89019,7 +89019,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1122,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"03022026 00:00:00"
     },
     {
@@ -89322,7 +89322,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -89333,7 +89333,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -89344,7 +89344,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -90625,7 +90625,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":213,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"04022026 00:00:00"
     },
     {
@@ -91868,7 +91868,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":8031,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"04022026 00:00:00"
     },
     {
@@ -91929,7 +91929,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -91940,7 +91940,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -92033,7 +92033,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1066,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"04022026 00:00:00"
     },
     {
@@ -92336,7 +92336,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -92347,7 +92347,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -92358,7 +92358,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -93639,7 +93639,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":212,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"05022026 00:00:00"
     },
     {
@@ -94882,7 +94882,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":7678,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"05022026 00:00:00"
     },
     {
@@ -94943,7 +94943,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -94954,7 +94954,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -95047,7 +95047,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":1066,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"05022026 00:00:00"
     },
     {
@@ -95350,7 +95350,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -95361,7 +95361,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -95372,7 +95372,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -96653,7 +96653,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":129,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"06022026 00:00:00"
     },
     {
@@ -97896,7 +97896,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":8355,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"06022026 00:00:00"
     },
     {
@@ -97957,7 +97957,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -97968,7 +97968,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -98061,7 +98061,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":926,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"06022026 00:00:00"
     },
     {
@@ -98364,7 +98364,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -98375,7 +98375,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -98386,7 +98386,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -99667,7 +99667,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":965,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"07022026 00:00:00"
     },
     {
@@ -100910,7 +100910,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":5745,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"07022026 00:00:00"
     },
     {
@@ -100971,7 +100971,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -100982,7 +100982,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -101075,7 +101075,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":869,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"07022026 00:00:00"
     },
     {
@@ -101378,7 +101378,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -101389,7 +101389,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -101400,7 +101400,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -102681,7 +102681,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":1003,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"09022026 00:00:00"
     },
     {
@@ -103924,7 +103924,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":7380,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"09022026 00:00:00"
     },
     {
@@ -103985,7 +103985,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -103996,7 +103996,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -104089,7 +104089,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":727,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"09022026 00:00:00"
     },
     {
@@ -104392,7 +104392,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -104403,7 +104403,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -104414,7 +104414,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -105695,7 +105695,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":827,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"10022026 00:00:00"
     },
     {
@@ -106938,7 +106938,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":7833,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"10022026 00:00:00"
     },
     {
@@ -106999,7 +106999,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -107010,7 +107010,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -107103,7 +107103,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":539,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"10022026 00:00:00"
     },
     {
@@ -107406,7 +107406,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -107417,7 +107417,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -107428,7 +107428,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -108709,7 +108709,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":790,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"11022026 00:00:00"
     },
     {
@@ -109952,7 +109952,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":8146,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"11022026 00:00:00"
     },
     {
@@ -110013,7 +110013,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -110024,7 +110024,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -110117,7 +110117,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":574,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"11022026 00:00:00"
     },
     {
@@ -110420,7 +110420,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -110431,7 +110431,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -110442,7 +110442,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -111723,7 +111723,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":788,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"12022026 00:00:00"
     },
     {
@@ -112966,7 +112966,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":8192,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"12022026 00:00:00"
     },
     {
@@ -113027,7 +113027,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -113038,7 +113038,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -113131,7 +113131,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":490,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"12022026 00:00:00"
     },
     {
@@ -113434,7 +113434,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -113445,7 +113445,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -113456,7 +113456,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -114737,7 +114737,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":570,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"13022026 00:00:00"
     },
     {
@@ -115980,7 +115980,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":7022,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"13022026 00:00:00"
     },
     {
@@ -116041,7 +116041,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -116052,7 +116052,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -116145,7 +116145,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":520,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"13022026 00:00:00"
     },
     {
@@ -116448,7 +116448,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -116459,7 +116459,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -116470,7 +116470,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -117751,7 +117751,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":570,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"14022026 00:00:00"
     },
     {
@@ -118994,7 +118994,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":7022,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"14022026 00:00:00"
     },
     {
@@ -119055,7 +119055,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -119066,7 +119066,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -119159,7 +119159,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":520,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"14022026 00:00:00"
     },
     {
@@ -119462,7 +119462,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -119473,7 +119473,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -119484,7 +119484,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -120765,7 +120765,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":560,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"17022026 00:00:00"
     },
     {
@@ -122008,7 +122008,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":7025,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"17022026 00:00:00"
     },
     {
@@ -122069,7 +122069,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -122080,7 +122080,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -122173,7 +122173,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":520,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"17022026 00:00:00"
     },
     {
@@ -122476,7 +122476,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -122487,7 +122487,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -122498,7 +122498,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -123779,7 +123779,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":560,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"18022026 00:00:00"
     },
     {
@@ -125022,7 +125022,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":7552,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"18022026 00:00:00"
     },
     {
@@ -125083,7 +125083,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -125094,7 +125094,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -125187,7 +125187,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":520,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"18022026 00:00:00"
     },
     {
@@ -125490,7 +125490,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -125501,7 +125501,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -125512,7 +125512,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -126793,7 +126793,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":548,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"19022026 00:00:00"
     },
     {
@@ -128036,7 +128036,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":7648,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"19022026 00:00:00"
     },
     {
@@ -128097,7 +128097,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -128108,7 +128108,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -128201,7 +128201,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":498,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"19022026 00:00:00"
     },
     {
@@ -128504,7 +128504,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -128515,7 +128515,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -128526,7 +128526,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -129807,7 +129807,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":431,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"20022026 00:00:00"
     },
     {
@@ -131050,7 +131050,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":7047,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"20022026 00:00:00"
     },
     {
@@ -131111,7 +131111,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -131122,7 +131122,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -131215,7 +131215,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":436,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"20022026 00:00:00"
     },
     {
@@ -131518,7 +131518,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -131529,7 +131529,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -131540,7 +131540,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -132821,7 +132821,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":431,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"21022026 00:00:00"
     },
     {
@@ -134064,7 +134064,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":7845,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"21022026 00:00:00"
     },
     {
@@ -134125,7 +134125,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -134136,7 +134136,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -134229,7 +134229,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":416,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"21022026 00:00:00"
     },
     {
@@ -134532,7 +134532,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -134543,7 +134543,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -134554,7 +134554,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -135835,7 +135835,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":430,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"23022026 00:00:00"
     },
     {
@@ -137078,7 +137078,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":6819,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"23022026 00:00:00"
     },
     {
@@ -137139,7 +137139,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -137150,7 +137150,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -137243,7 +137243,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":152,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"23022026 00:00:00"
     },
     {
@@ -137546,7 +137546,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -137557,7 +137557,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -137568,7 +137568,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -138849,7 +138849,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":421,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"24022026 00:00:00"
     },
     {
@@ -140092,7 +140092,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":6629,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"24022026 00:00:00"
     },
     {
@@ -140153,7 +140153,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -140164,7 +140164,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -140257,7 +140257,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":378,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"24022026 00:00:00"
     },
     {
@@ -140560,7 +140560,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -140571,7 +140571,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -140582,7 +140582,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -141863,7 +141863,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":427,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"25022026 00:00:00"
     },
     {
@@ -143106,7 +143106,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":8065,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"25022026 00:00:00"
     },
     {
@@ -143167,7 +143167,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -143178,7 +143178,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -143271,7 +143271,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":394,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"25022026 00:00:00"
     },
     {
@@ -143574,7 +143574,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -143585,7 +143585,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -143596,7 +143596,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -144877,7 +144877,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":425,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"26022026 00:00:00"
     },
     {
@@ -146120,7 +146120,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":9162,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"26022026 00:00:00"
     },
     {
@@ -146181,7 +146181,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -146192,7 +146192,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -146285,7 +146285,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":393,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"26022026 00:00:00"
     },
     {
@@ -146588,7 +146588,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -146599,7 +146599,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -146610,7 +146610,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -147891,7 +147891,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":9,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"27022026 00:00:00"
     },
     {
@@ -149134,7 +149134,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":10508,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"27022026 00:00:00"
     },
     {
@@ -149195,7 +149195,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -149206,7 +149206,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -149299,7 +149299,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":373,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"27022026 00:00:00"
     },
     {
@@ -149602,7 +149602,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -149613,7 +149613,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -149624,7 +149624,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -150905,7 +150905,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":0,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"28022026 00:00:00"
     },
     {
@@ -152148,7 +152148,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":6214,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"28022026 00:00:00"
     },
     {
@@ -152209,7 +152209,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -152220,7 +152220,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -152313,7 +152313,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":305,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"28022026 00:00:00"
     },
     {
@@ -152616,7 +152616,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -152627,7 +152627,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -152638,7 +152638,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -153919,7 +153919,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":0,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"01032026 00:00:00"
     },
     {
@@ -155162,7 +155162,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":6214,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"01032026 00:00:00"
     },
     {
@@ -155223,7 +155223,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -155234,7 +155234,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -155327,7 +155327,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":305,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"01032026 00:00:00"
     },
     {
@@ -155630,7 +155630,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -155641,7 +155641,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -155652,7 +155652,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -156933,7 +156933,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":301,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"02032026 00:00:00"
     },
     {
@@ -158176,7 +158176,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":6965,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"02032026 00:00:00"
     },
     {
@@ -158237,7 +158237,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -158248,7 +158248,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -158341,7 +158341,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":305,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"02032026 00:00:00"
     },
     {
@@ -158644,7 +158644,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -158655,7 +158655,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -158666,7 +158666,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -159947,7 +159947,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":148,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"03032026 00:00:00"
     },
     {
@@ -161190,7 +161190,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":8244,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"03032026 00:00:00"
     },
     {
@@ -161251,7 +161251,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -161262,7 +161262,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -161355,7 +161355,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":304,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"03032026 00:00:00"
     },
     {
@@ -161658,7 +161658,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -161669,7 +161669,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -161680,7 +161680,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -162961,7 +162961,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":142,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"04032026 00:00:00"
     },
     {
@@ -164204,7 +164204,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":9749,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"04032026 00:00:00"
     },
     {
@@ -164265,7 +164265,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -164276,7 +164276,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -164369,7 +164369,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":301,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"04032026 00:00:00"
     },
     {
@@ -164672,7 +164672,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -164683,7 +164683,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -164694,7 +164694,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -165975,7 +165975,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":137,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"05032026 00:00:00"
     },
     {
@@ -167218,7 +167218,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":11515,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"05032026 00:00:00"
     },
     {
@@ -167279,7 +167279,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -167290,7 +167290,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -167383,7 +167383,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":299,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"05032026 00:00:00"
     },
     {
@@ -167686,7 +167686,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -167697,7 +167697,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -167708,7 +167708,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -168989,7 +168989,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":11,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"06032026 00:00:00"
     },
     {
@@ -170232,7 +170232,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":11266,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"06032026 00:00:00"
     },
     {
@@ -170293,7 +170293,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -170304,7 +170304,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -170397,7 +170397,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":282,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"06032026 00:00:00"
     },
     {
@@ -170700,7 +170700,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -170711,7 +170711,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -170722,7 +170722,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -172003,7 +172003,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":1,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"07032026 00:00:00"
     },
     {
@@ -173246,7 +173246,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":12290,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"07032026 00:00:00"
     },
     {
@@ -173307,7 +173307,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -173318,7 +173318,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -173411,7 +173411,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":282,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"07032026 00:00:00"
     },
     {
@@ -173714,7 +173714,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -173725,7 +173725,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -173736,7 +173736,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -175017,7 +175017,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":109,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"09032026 00:00:00"
     },
     {
@@ -176260,7 +176260,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":10015,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"09032026 00:00:00"
     },
     {
@@ -176321,7 +176321,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -176332,7 +176332,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -176425,7 +176425,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":282,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"09032026 00:00:00"
     },
     {
@@ -176728,7 +176728,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -176739,7 +176739,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -176750,7 +176750,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -178031,7 +178031,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":313,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"10032026 00:00:00"
     },
     {
@@ -179274,7 +179274,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":9748,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"10032026 00:00:00"
     },
     {
@@ -179335,7 +179335,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -179346,7 +179346,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -179439,7 +179439,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":280,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"10032026 00:00:00"
     },
     {
@@ -179742,7 +179742,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -179753,7 +179753,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -179764,7 +179764,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -181045,7 +181045,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":309,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"11032026 00:00:00"
     },
     {
@@ -182288,7 +182288,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":9565,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"11032026 00:00:00"
     },
     {
@@ -182349,7 +182349,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -182360,7 +182360,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -182453,7 +182453,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":280,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"11032026 00:00:00"
     },
     {
@@ -182756,7 +182756,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -182767,7 +182767,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -182778,7 +182778,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -184059,7 +184059,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":292,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"12032026 00:00:00"
     },
     {
@@ -185302,7 +185302,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":9046,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"12032026 00:00:00"
     },
     {
@@ -185363,7 +185363,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -185374,7 +185374,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -185467,7 +185467,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":275,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"12032026 00:00:00"
     },
     {
@@ -185770,7 +185770,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -185781,7 +185781,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -185792,7 +185792,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -187073,7 +187073,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":141,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"13032026 00:00:00"
     },
     {
@@ -188316,7 +188316,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":8008,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"13032026 00:00:00"
     },
     {
@@ -188377,7 +188377,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -188388,7 +188388,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -188481,7 +188481,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":234,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"13032026 00:00:00"
     },
     {
@@ -188784,7 +188784,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -188795,7 +188795,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -188806,7 +188806,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -190087,7 +190087,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":141,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"14032026 00:00:00"
     },
     {
@@ -191330,7 +191330,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":8008,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"14032026 00:00:00"
     },
     {
@@ -191391,7 +191391,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -191402,7 +191402,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -191495,7 +191495,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":234,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"14032026 00:00:00"
     },
     {
@@ -191798,7 +191798,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -191809,7 +191809,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -191820,7 +191820,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -193101,7 +193101,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":128,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"16032026 00:00:00"
     },
     {
@@ -194344,7 +194344,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":12247,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"16032026 00:00:00"
     },
     {
@@ -194405,7 +194405,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -194416,7 +194416,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -194509,7 +194509,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":221,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"16032026 00:00:00"
     },
     {
@@ -194812,7 +194812,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -194823,7 +194823,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -194834,7 +194834,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -196115,7 +196115,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":121,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"17032026 00:00:00"
     },
     {
@@ -197358,7 +197358,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":13983,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"17032026 00:00:00"
     },
     {
@@ -197419,7 +197419,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -197430,7 +197430,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -197523,7 +197523,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":212,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"17032026 00:00:00"
     },
     {
@@ -197826,7 +197826,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -197837,7 +197837,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -197848,7 +197848,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -199129,7 +199129,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":426,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"18032026 00:00:00"
     },
     {
@@ -200372,7 +200372,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":16026,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"18032026 00:00:00"
     },
     {
@@ -200433,7 +200433,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -200444,7 +200444,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -200537,7 +200537,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":203,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"18032026 00:00:00"
     },
     {
@@ -200840,7 +200840,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -200851,7 +200851,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -200862,7 +200862,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -202143,7 +202143,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":379,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"19032026 00:00:00"
     },
     {
@@ -203386,7 +203386,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":17772,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"19032026 00:00:00"
     },
     {
@@ -203447,7 +203447,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -203458,7 +203458,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -203551,7 +203551,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":181,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"19032026 00:00:00"
     },
     {
@@ -203854,7 +203854,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -203865,7 +203865,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -203876,7 +203876,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -205157,7 +205157,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":269,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"20032026 00:00:00"
     },
     {
@@ -206400,7 +206400,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":13457,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"20032026 00:00:00"
     },
     {
@@ -206461,7 +206461,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -206472,7 +206472,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -206565,7 +206565,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":130,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"20032026 00:00:00"
     },
     {
@@ -206868,7 +206868,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -206879,7 +206879,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -206890,7 +206890,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -208171,7 +208171,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":269,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"21032026 00:00:00"
     },
     {
@@ -209414,7 +209414,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":13457,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"21032026 00:00:00"
     },
     {
@@ -209475,7 +209475,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -209486,7 +209486,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -209579,7 +209579,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":130,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"21032026 00:00:00"
     },
     {
@@ -209882,7 +209882,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -209893,7 +209893,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -209904,7 +209904,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -211185,7 +211185,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":211,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"23032026 00:00:00"
     },
     {
@@ -212428,7 +212428,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":18042,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"23032026 00:00:00"
     },
     {
@@ -212489,7 +212489,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -212500,7 +212500,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -212593,7 +212593,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":119,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"23032026 00:00:00"
     },
     {
@@ -212896,7 +212896,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -212907,7 +212907,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -212918,7 +212918,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -214199,7 +214199,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":205,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"24032026 00:00:00"
     },
     {
@@ -215442,7 +215442,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":14706,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"24032026 00:00:00"
     },
     {
@@ -215503,7 +215503,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -215514,7 +215514,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -215607,7 +215607,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":116,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"24032026 00:00:00"
     },
     {
@@ -215910,7 +215910,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -215921,7 +215921,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -215932,7 +215932,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -217213,7 +217213,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":202,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"25032026 00:00:00"
     },
     {
@@ -218456,7 +218456,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":13900,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"25032026 00:00:00"
     },
     {
@@ -218517,7 +218517,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -218528,7 +218528,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -218621,7 +218621,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":110,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"25032026 00:00:00"
     },
     {
@@ -218924,7 +218924,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -218935,7 +218935,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -218946,7 +218946,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -220227,7 +220227,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":202,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"26032026 00:00:00"
     },
     {
@@ -221470,7 +221470,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":15683,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"26032026 00:00:00"
     },
     {
@@ -221531,7 +221531,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -221542,7 +221542,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -221635,7 +221635,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":111,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"26032026 00:00:00"
     },
     {
@@ -221938,7 +221938,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -221949,7 +221949,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -221960,7 +221960,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -223241,7 +223241,7 @@
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
         "SALDO":36,
-        "CUSTO":8.217096,
+        "CUSTO":8.22054,
         "DTNEG":"27032026 00:00:00"
     },
     {
@@ -224484,7 +224484,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":11819,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"27032026 00:00:00"
     },
     {
@@ -224545,7 +224545,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -224556,7 +224556,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -224649,7 +224649,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":23,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"27032026 00:00:00"
     },
     {
@@ -224952,7 +224952,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -224963,7 +224963,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -224974,7 +224974,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
@@ -226089,7 +226089,7 @@
         "GRUPO":"VINAGRE TRADICIONAL 500\/750",
         "ESTMIN":31205.0,
         "ESTMAX":44578.0,
-        "SALDO":5499,
+        "SALDO":6027,
         "CUSTO":5.831676,
         "DTNEG":"30032026 00:00:00"
     },
@@ -226254,8 +226254,8 @@
         "GRUPO":"MOLHO 500",
         "ESTMIN":761.0,
         "ESTMAX":1087.0,
-        "SALDO":422,
-        "CUSTO":8.217096,
+        "SALDO":818,
+        "CUSTO":8.22054,
         "DTNEG":"30032026 00:00:00"
     },
     {
@@ -227498,7 +227498,7 @@
         "ESTMIN":13541.0,
         "ESTMAX":19344.0,
         "SALDO":8323,
-        "CUSTO":11.701896,
+        "CUSTO":11.699568,
         "DTNEG":"30032026 00:00:00"
     },
     {
@@ -227559,7 +227559,7 @@
     {
         "CODPROD":8271,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":420.0,
         "ESTMAX":600.0,
@@ -227570,7 +227570,7 @@
     {
         "CODPROD":8272,
         "DESCRPROD":"BARBECUE TRADICIONAL 3,4KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":232.0,
         "ESTMAX":331.0,
@@ -227663,7 +227663,7 @@
         "ESTMIN":null,
         "ESTMAX":null,
         "SALDO":142,
-        "CUSTO":33.499776,
+        "CUSTO":31.865616,
         "DTNEG":"30032026 00:00:00"
     },
     {
@@ -227966,7 +227966,7 @@
     {
         "CODPROD":9073,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG LETO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":608.0,
         "ESTMAX":869.0,
@@ -227977,7 +227977,7 @@
     {
         "CODPROD":9074,
         "DESCRPROD":"MOSTARDA AMARELA 3,3KG SADIO",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":174.0,
         "ESTMAX":248.0,
@@ -227988,7 +227988,7 @@
     {
         "CODPROD":9095,
         "DESCRPROD":"CATCHUP TRADICIONAL 3,2KG FRINEX",
-        "LINHA":"CATCHUP 750-800-830",
+        "LINHA":"CATCHUP SACHE 6G 1",
         "GRUPO":"FOOD SERVICE",
         "ESTMIN":0.0,
         "ESTMAX":0.0,
