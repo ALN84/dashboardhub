@@ -45319,9 +45319,9 @@
         "LINHA":"1 - VINAGRE 500 1",
         "GRUPO":"10100101 - VINAGRE TRADICIONAL 500\/750",
         "QTDPREV":57670,
-        "QTDREAL":95268,
+        "QTDREAL":95273,
         "QTDMETA25":63437,
-        "QTDPROD25":47058
+        "QTDPROD25":47718
     },
     {
         "CODMETA":24,
@@ -45633,7 +45633,7 @@
         "QTDPREV":2702,
         "QTDREAL":1952,
         "QTDMETA25":2973,
-        "QTDPROD25":1799
+        "QTDPROD25":1867
     },
     {
         "CODMETA":24,
@@ -46567,7 +46567,7 @@
         "LINHA":"45 - AZEITONA 80-100-120-1000-1600-1800",
         "GRUPO":"10101200 - AZEITONA",
         "QTDPREV":270,
-        "QTDREAL":93,
+        "QTDREAL":94,
         "QTDMETA25":297,
         "QTDPROD25":0
     },
@@ -46773,7 +46773,7 @@
         "QTDPREV":225,
         "QTDREAL":193,
         "QTDMETA25":248,
-        "QTDPROD25":69
+        "QTDPROD25":111
     },
     {
         "CODMETA":24,
@@ -46929,7 +46929,7 @@
         "QTDPREV":98,
         "QTDREAL":138,
         "QTDMETA25":108,
-        "QTDPROD25":289
+        "QTDPROD25":290
     },
     {
         "CODMETA":24,
@@ -48079,9 +48079,9 @@
         "LINHA":"17 - DETERGENTE 500 1",
         "GRUPO":"10200100 - DETERGENTE",
         "QTDPREV":4299,
-        "QTDREAL":2931,
+        "QTDREAL":3111,
         "QTDMETA25":4728,
-        "QTDPROD25":2459
+        "QTDPROD25":2909
     },
     {
         "CODMETA":24,
@@ -48369,7 +48369,7 @@
         "QTDPREV":6404,
         "QTDREAL":10088,
         "QTDMETA25":7045,
-        "QTDPROD25":8167
+        "QTDPROD25":8423
     },
     {
         "CODMETA":24,
