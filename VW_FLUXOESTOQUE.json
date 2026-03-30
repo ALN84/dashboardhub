@@ -95,7 +95,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":5629,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"30122025 00:00:00"
     },
     {
@@ -1998,7 +1998,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":668,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"30122025 00:00:00"
     },
     {
@@ -2119,7 +2119,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":374,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"30122025 00:00:00"
     },
     {
@@ -3109,7 +3109,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":5608,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"31122025 00:00:00"
     },
     {
@@ -5012,7 +5012,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":534,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"31122025 00:00:00"
     },
     {
@@ -5133,7 +5133,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":352,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"31122025 00:00:00"
     },
     {
@@ -6123,7 +6123,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":5608,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"01012026 00:00:00"
     },
     {
@@ -8026,7 +8026,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":534,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"01012026 00:00:00"
     },
     {
@@ -8147,7 +8147,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":352,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"01012026 00:00:00"
     },
     {
@@ -9137,7 +9137,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":5608,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"05012026 00:00:00"
     },
     {
@@ -11040,7 +11040,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":514,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"05012026 00:00:00"
     },
     {
@@ -11161,7 +11161,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":352,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"05012026 00:00:00"
     },
     {
@@ -11915,7 +11915,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -11926,7 +11926,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -12151,7 +12151,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":5513,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"06012026 00:00:00"
     },
     {
@@ -14054,7 +14054,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":491,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"06012026 00:00:00"
     },
     {
@@ -14175,7 +14175,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":351,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"06012026 00:00:00"
     },
     {
@@ -14929,7 +14929,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -14940,7 +14940,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -15165,7 +15165,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":5503,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"07012026 00:00:00"
     },
     {
@@ -17068,7 +17068,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":485,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"07012026 00:00:00"
     },
     {
@@ -17189,7 +17189,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":346,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"07012026 00:00:00"
     },
     {
@@ -18179,7 +18179,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":5502,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"08012026 00:00:00"
     },
     {
@@ -20082,7 +20082,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":467,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"08012026 00:00:00"
     },
     {
@@ -20203,7 +20203,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":341,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"08012026 00:00:00"
     },
     {
@@ -21193,7 +21193,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":5339,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"09012026 00:00:00"
     },
     {
@@ -23096,7 +23096,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":347,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"09012026 00:00:00"
     },
     {
@@ -23217,7 +23217,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":305,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"09012026 00:00:00"
     },
     {
@@ -23971,7 +23971,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -23982,7 +23982,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -24207,7 +24207,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":5339,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"10012026 00:00:00"
     },
     {
@@ -26110,7 +26110,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":347,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"10012026 00:00:00"
     },
     {
@@ -26231,7 +26231,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":305,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"10012026 00:00:00"
     },
     {
@@ -26985,7 +26985,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -26996,7 +26996,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -27221,7 +27221,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":5339,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"11012026 00:00:00"
     },
     {
@@ -29124,7 +29124,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":347,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"11012026 00:00:00"
     },
     {
@@ -29245,7 +29245,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":305,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"11012026 00:00:00"
     },
     {
@@ -29999,7 +29999,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -30010,7 +30010,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -30235,7 +30235,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":5236,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"12012026 00:00:00"
     },
     {
@@ -32138,7 +32138,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":337,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"12012026 00:00:00"
     },
     {
@@ -32259,7 +32259,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":303,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"12012026 00:00:00"
     },
     {
@@ -33249,7 +33249,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":7328,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"13012026 00:00:00"
     },
     {
@@ -35152,7 +35152,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":332,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"13012026 00:00:00"
     },
     {
@@ -35273,7 +35273,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":301,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"13012026 00:00:00"
     },
     {
@@ -36263,7 +36263,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":7059,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"14012026 00:00:00"
     },
     {
@@ -38166,7 +38166,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":296,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"14012026 00:00:00"
     },
     {
@@ -38287,7 +38287,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":298,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"14012026 00:00:00"
     },
     {
@@ -39041,7 +39041,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -39052,7 +39052,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -39277,7 +39277,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":6782,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"15012026 00:00:00"
     },
     {
@@ -41180,7 +41180,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":289,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"15012026 00:00:00"
     },
     {
@@ -41301,7 +41301,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":276,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"15012026 00:00:00"
     },
     {
@@ -42055,7 +42055,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -42066,7 +42066,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -42291,7 +42291,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":5850,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"16012026 00:00:00"
     },
     {
@@ -44194,7 +44194,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":245,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"16012026 00:00:00"
     },
     {
@@ -44315,7 +44315,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":246,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"16012026 00:00:00"
     },
     {
@@ -45305,7 +45305,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":5617,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"17012026 00:00:00"
     },
     {
@@ -47208,7 +47208,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":228,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"17012026 00:00:00"
     },
     {
@@ -47329,7 +47329,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":237,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"17012026 00:00:00"
     },
     {
@@ -48319,7 +48319,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":5430,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"19012026 00:00:00"
     },
     {
@@ -50222,7 +50222,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":217,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"19012026 00:00:00"
     },
     {
@@ -50343,7 +50343,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":223,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"19012026 00:00:00"
     },
     {
@@ -51333,7 +51333,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":5512,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"20012026 00:00:00"
     },
     {
@@ -53236,7 +53236,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":192,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"20012026 00:00:00"
     },
     {
@@ -53357,7 +53357,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":205,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"20012026 00:00:00"
     },
     {
@@ -54347,7 +54347,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":6283,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"21012026 00:00:00"
     },
     {
@@ -56250,7 +56250,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":169,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"21012026 00:00:00"
     },
     {
@@ -56371,7 +56371,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":193,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"21012026 00:00:00"
     },
     {
@@ -57125,7 +57125,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -57136,7 +57136,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -57361,7 +57361,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":6069,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"22012026 00:00:00"
     },
     {
@@ -59264,7 +59264,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":81,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"22012026 00:00:00"
     },
     {
@@ -59385,7 +59385,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":186,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"22012026 00:00:00"
     },
     {
@@ -60375,7 +60375,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":5367,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"23012026 00:00:00"
     },
     {
@@ -62278,7 +62278,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":722,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"23012026 00:00:00"
     },
     {
@@ -62399,7 +62399,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":166,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"23012026 00:00:00"
     },
     {
@@ -63153,7 +63153,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -63164,7 +63164,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -63389,7 +63389,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":5093,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"26012026 00:00:00"
     },
     {
@@ -65292,7 +65292,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":642,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"26012026 00:00:00"
     },
     {
@@ -65413,7 +65413,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":165,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"26012026 00:00:00"
     },
     {
@@ -66167,7 +66167,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -66178,7 +66178,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -66403,7 +66403,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":5067,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"27012026 00:00:00"
     },
     {
@@ -68306,7 +68306,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":622,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"27012026 00:00:00"
     },
     {
@@ -68427,7 +68427,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":358,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"27012026 00:00:00"
     },
     {
@@ -69417,7 +69417,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":4986,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"28012026 00:00:00"
     },
     {
@@ -71320,7 +71320,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":620,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"28012026 00:00:00"
     },
     {
@@ -71441,7 +71441,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":434,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"28012026 00:00:00"
     },
     {
@@ -72431,7 +72431,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":4561,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"29012026 00:00:00"
     },
     {
@@ -74334,7 +74334,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":583,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"29012026 00:00:00"
     },
     {
@@ -74455,7 +74455,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":346,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"29012026 00:00:00"
     },
     {
@@ -75445,7 +75445,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":3390,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"30012026 00:00:00"
     },
     {
@@ -77348,7 +77348,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":481,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"30012026 00:00:00"
     },
     {
@@ -77469,7 +77469,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":316,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"30012026 00:00:00"
     },
     {
@@ -78459,7 +78459,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":3065,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"31012026 00:00:00"
     },
     {
@@ -80362,7 +80362,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":294,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"31012026 00:00:00"
     },
     {
@@ -80483,7 +80483,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":291,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"31012026 00:00:00"
     },
     {
@@ -81473,7 +81473,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":3065,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"01022026 00:00:00"
     },
     {
@@ -83376,7 +83376,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":294,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"01022026 00:00:00"
     },
     {
@@ -83497,7 +83497,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":291,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"01022026 00:00:00"
     },
     {
@@ -84251,7 +84251,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -84262,7 +84262,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -84487,7 +84487,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":3048,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"02022026 00:00:00"
     },
     {
@@ -86390,7 +86390,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":294,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"02022026 00:00:00"
     },
     {
@@ -86511,7 +86511,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":291,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"02022026 00:00:00"
     },
     {
@@ -87501,7 +87501,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":2926,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"03022026 00:00:00"
     },
     {
@@ -89404,7 +89404,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":291,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"03022026 00:00:00"
     },
     {
@@ -89525,7 +89525,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":288,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"03022026 00:00:00"
     },
     {
@@ -90515,7 +90515,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":3180,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"04022026 00:00:00"
     },
     {
@@ -92418,7 +92418,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":287,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"04022026 00:00:00"
     },
     {
@@ -92539,7 +92539,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":287,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"04022026 00:00:00"
     },
     {
@@ -93293,7 +93293,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -93304,7 +93304,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -93529,7 +93529,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":3242,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"05022026 00:00:00"
     },
     {
@@ -95432,7 +95432,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":262,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"05022026 00:00:00"
     },
     {
@@ -95553,7 +95553,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":288,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"05022026 00:00:00"
     },
     {
@@ -96307,7 +96307,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -96318,7 +96318,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -96543,7 +96543,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":4883,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"06022026 00:00:00"
     },
     {
@@ -98446,7 +98446,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":248,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"06022026 00:00:00"
     },
     {
@@ -98567,7 +98567,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":275,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"06022026 00:00:00"
     },
     {
@@ -99557,7 +99557,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":3270,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"07022026 00:00:00"
     },
     {
@@ -101460,7 +101460,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":203,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"07022026 00:00:00"
     },
     {
@@ -101581,7 +101581,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":244,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"07022026 00:00:00"
     },
     {
@@ -102571,7 +102571,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":2600,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"09022026 00:00:00"
     },
     {
@@ -104474,7 +104474,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":172,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"09022026 00:00:00"
     },
     {
@@ -104595,7 +104595,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":205,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"09022026 00:00:00"
     },
     {
@@ -105585,7 +105585,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":2182,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"10022026 00:00:00"
     },
     {
@@ -107488,7 +107488,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":108,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"10022026 00:00:00"
     },
     {
@@ -107609,7 +107609,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":185,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"10022026 00:00:00"
     },
     {
@@ -108363,7 +108363,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -108374,7 +108374,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -108599,7 +108599,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":3908,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"11022026 00:00:00"
     },
     {
@@ -110502,7 +110502,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":57,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"11022026 00:00:00"
     },
     {
@@ -110623,7 +110623,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":159,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"11022026 00:00:00"
     },
     {
@@ -111377,7 +111377,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -111388,7 +111388,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -111613,7 +111613,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":2979,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"12022026 00:00:00"
     },
     {
@@ -113516,7 +113516,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":514,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"12022026 00:00:00"
     },
     {
@@ -113637,7 +113637,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":156,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"12022026 00:00:00"
     },
     {
@@ -114627,7 +114627,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":3811,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"13022026 00:00:00"
     },
     {
@@ -116530,7 +116530,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":454,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"13022026 00:00:00"
     },
     {
@@ -116651,7 +116651,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":149,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"13022026 00:00:00"
     },
     {
@@ -117405,7 +117405,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -117416,7 +117416,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -117641,7 +117641,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":3811,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"14022026 00:00:00"
     },
     {
@@ -119544,7 +119544,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":454,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"14022026 00:00:00"
     },
     {
@@ -119665,7 +119665,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":149,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"14022026 00:00:00"
     },
     {
@@ -120655,7 +120655,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":3811,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"17022026 00:00:00"
     },
     {
@@ -122558,7 +122558,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":452,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"17022026 00:00:00"
     },
     {
@@ -122679,7 +122679,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":149,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"17022026 00:00:00"
     },
     {
@@ -123669,7 +123669,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":3824,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"18022026 00:00:00"
     },
     {
@@ -125572,7 +125572,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":452,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"18022026 00:00:00"
     },
     {
@@ -125693,7 +125693,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":190,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"18022026 00:00:00"
     },
     {
@@ -126447,7 +126447,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -126458,7 +126458,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -126683,7 +126683,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":3604,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"19022026 00:00:00"
     },
     {
@@ -128586,7 +128586,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":450,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"19022026 00:00:00"
     },
     {
@@ -128707,7 +128707,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":180,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"19022026 00:00:00"
     },
     {
@@ -129697,7 +129697,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":3755,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"20022026 00:00:00"
     },
     {
@@ -131600,7 +131600,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":415,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"20022026 00:00:00"
     },
     {
@@ -131721,7 +131721,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":152,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"20022026 00:00:00"
     },
     {
@@ -132711,7 +132711,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":3841,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"21022026 00:00:00"
     },
     {
@@ -134614,7 +134614,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":413,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"21022026 00:00:00"
     },
     {
@@ -134735,7 +134735,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":146,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"21022026 00:00:00"
     },
     {
@@ -135489,7 +135489,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -135500,7 +135500,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -135725,7 +135725,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":3652,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"23022026 00:00:00"
     },
     {
@@ -137628,7 +137628,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":410,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"23022026 00:00:00"
     },
     {
@@ -137749,7 +137749,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":140,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"23022026 00:00:00"
     },
     {
@@ -138503,7 +138503,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -138514,7 +138514,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -138739,7 +138739,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":3647,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"24022026 00:00:00"
     },
     {
@@ -140642,7 +140642,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":384,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"24022026 00:00:00"
     },
     {
@@ -140763,7 +140763,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":136,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"24022026 00:00:00"
     },
     {
@@ -141517,7 +141517,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -141528,7 +141528,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -141753,7 +141753,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":4449,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"25022026 00:00:00"
     },
     {
@@ -143656,7 +143656,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":379,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"25022026 00:00:00"
     },
     {
@@ -143777,7 +143777,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":134,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"25022026 00:00:00"
     },
     {
@@ -144767,7 +144767,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":3897,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"26022026 00:00:00"
     },
     {
@@ -146670,7 +146670,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":256,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"26022026 00:00:00"
     },
     {
@@ -146791,7 +146791,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":328,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"26022026 00:00:00"
     },
     {
@@ -147781,7 +147781,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":3235,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"27022026 00:00:00"
     },
     {
@@ -149684,7 +149684,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":246,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"27022026 00:00:00"
     },
     {
@@ -149805,7 +149805,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":420,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"27022026 00:00:00"
     },
     {
@@ -150559,7 +150559,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -150570,7 +150570,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -150795,7 +150795,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":2356,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"28022026 00:00:00"
     },
     {
@@ -152698,7 +152698,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":41,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"28022026 00:00:00"
     },
     {
@@ -152819,7 +152819,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":319,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"28022026 00:00:00"
     },
     {
@@ -153573,7 +153573,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO SACHE 1",
+        "LINHA":"TEMPERO SECO MANUAL 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -153584,7 +153584,7 @@
     {
         "CODPROD":10074,
         "DESCRPROD":"BOLDO DO CHILE PC 5G SADIO",
-        "LINHA":"TEMPERO SECO MANUAL 1",
+        "LINHA":"TEMPERO SECO SACHE 1",
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":80.0,
         "ESTMAX":114.0,
@@ -153809,7 +153809,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":2356,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"01032026 00:00:00"
     },
     {
@@ -155712,7 +155712,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":41,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"01032026 00:00:00"
     },
     {
@@ -155833,7 +155833,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":319,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"01032026 00:00:00"
     },
     {
@@ -156823,7 +156823,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":2356,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"02032026 00:00:00"
     },
     {
@@ -158726,7 +158726,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":39,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"02032026 00:00:00"
     },
     {
@@ -158847,7 +158847,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":316,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"02032026 00:00:00"
     },
     {
@@ -159837,7 +159837,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":2345,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"03032026 00:00:00"
     },
     {
@@ -161740,7 +161740,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":38,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"03032026 00:00:00"
     },
     {
@@ -161861,7 +161861,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":311,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"03032026 00:00:00"
     },
     {
@@ -162851,7 +162851,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":2260,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"04032026 00:00:00"
     },
     {
@@ -164754,7 +164754,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":34,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"04032026 00:00:00"
     },
     {
@@ -164875,7 +164875,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":303,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"04032026 00:00:00"
     },
     {
@@ -165865,7 +165865,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":2249,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"05032026 00:00:00"
     },
     {
@@ -167768,7 +167768,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":2,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"05032026 00:00:00"
     },
     {
@@ -167889,7 +167889,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":302,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"05032026 00:00:00"
     },
     {
@@ -168879,7 +168879,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":2082,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"06032026 00:00:00"
     },
     {
@@ -170782,7 +170782,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":0,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"06032026 00:00:00"
     },
     {
@@ -170903,7 +170903,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":288,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"06032026 00:00:00"
     },
     {
@@ -171893,7 +171893,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":2076,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"07032026 00:00:00"
     },
     {
@@ -173796,7 +173796,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":238,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"07032026 00:00:00"
     },
     {
@@ -173917,7 +173917,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":283,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"07032026 00:00:00"
     },
     {
@@ -174907,7 +174907,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":1927,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"09032026 00:00:00"
     },
     {
@@ -176810,7 +176810,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":203,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"09032026 00:00:00"
     },
     {
@@ -176931,7 +176931,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":275,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"09032026 00:00:00"
     },
     {
@@ -177921,7 +177921,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":1319,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"10032026 00:00:00"
     },
     {
@@ -179824,7 +179824,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":117,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"10032026 00:00:00"
     },
     {
@@ -179945,7 +179945,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":271,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"10032026 00:00:00"
     },
     {
@@ -180935,7 +180935,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":980,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"11032026 00:00:00"
     },
     {
@@ -182838,7 +182838,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":70,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"11032026 00:00:00"
     },
     {
@@ -182959,7 +182959,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":268,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"11032026 00:00:00"
     },
     {
@@ -183949,7 +183949,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":121,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"12032026 00:00:00"
     },
     {
@@ -185852,7 +185852,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":32,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"12032026 00:00:00"
     },
     {
@@ -185973,7 +185973,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":224,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"12032026 00:00:00"
     },
     {
@@ -186963,7 +186963,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":2036,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"13032026 00:00:00"
     },
     {
@@ -188866,7 +188866,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":207,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"13032026 00:00:00"
     },
     {
@@ -188987,7 +188987,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":208,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"13032026 00:00:00"
     },
     {
@@ -189977,7 +189977,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":2036,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"14032026 00:00:00"
     },
     {
@@ -191880,7 +191880,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":187,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"14032026 00:00:00"
     },
     {
@@ -192001,7 +192001,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":207,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"14032026 00:00:00"
     },
     {
@@ -192991,7 +192991,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":1923,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"16032026 00:00:00"
     },
     {
@@ -194894,7 +194894,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":173,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"16032026 00:00:00"
     },
     {
@@ -195015,7 +195015,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":200,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"16032026 00:00:00"
     },
     {
@@ -196005,7 +196005,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":2370,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"17032026 00:00:00"
     },
     {
@@ -197908,7 +197908,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":161,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"17032026 00:00:00"
     },
     {
@@ -198029,7 +198029,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":130,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"17032026 00:00:00"
     },
     {
@@ -199019,7 +199019,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":1961,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"18032026 00:00:00"
     },
     {
@@ -200922,7 +200922,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":126,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"18032026 00:00:00"
     },
     {
@@ -201043,7 +201043,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":130,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"18032026 00:00:00"
     },
     {
@@ -202033,7 +202033,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":1199,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"19032026 00:00:00"
     },
     {
@@ -203936,7 +203936,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":82,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"19032026 00:00:00"
     },
     {
@@ -204057,7 +204057,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":125,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"19032026 00:00:00"
     },
     {
@@ -205047,7 +205047,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":1390,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"20032026 00:00:00"
     },
     {
@@ -206950,7 +206950,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":30,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"20032026 00:00:00"
     },
     {
@@ -207071,7 +207071,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":57,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"20032026 00:00:00"
     },
     {
@@ -208061,7 +208061,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":1390,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"21032026 00:00:00"
     },
     {
@@ -209964,7 +209964,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":30,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"21032026 00:00:00"
     },
     {
@@ -210085,7 +210085,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":57,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"21032026 00:00:00"
     },
     {
@@ -211075,7 +211075,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":0,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"23032026 00:00:00"
     },
     {
@@ -212978,7 +212978,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":25,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"23032026 00:00:00"
     },
     {
@@ -213099,7 +213099,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":49,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"23032026 00:00:00"
     },
     {
@@ -214089,7 +214089,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":983,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"24032026 00:00:00"
     },
     {
@@ -215992,7 +215992,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":18,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"24032026 00:00:00"
     },
     {
@@ -216113,7 +216113,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":3,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"24032026 00:00:00"
     },
     {
@@ -217103,7 +217103,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":1858,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"25032026 00:00:00"
     },
     {
@@ -219006,7 +219006,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":0,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"25032026 00:00:00"
     },
     {
@@ -219127,7 +219127,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":0,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"25032026 00:00:00"
     },
     {
@@ -220117,7 +220117,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":1861,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"26032026 00:00:00"
     },
     {
@@ -222020,7 +222020,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":958,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"26032026 00:00:00"
     },
     {
@@ -222141,7 +222141,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":244,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"26032026 00:00:00"
     },
     {
@@ -223131,7 +223131,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":1006,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"27032026 00:00:00"
     },
     {
@@ -225034,7 +225034,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":902,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"27032026 00:00:00"
     },
     {
@@ -225155,7 +225155,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":220,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"27032026 00:00:00"
     },
     {
@@ -226145,7 +226145,7 @@
         "ESTMIN":6117.0,
         "ESTMAX":8738.0,
         "SALDO":868,
-        "CUSTO":5.630772,
+        "CUSTO":5.629632,
         "DTNEG":"30032026 00:00:00"
     },
     {
@@ -228048,7 +228048,7 @@
         "ESTMIN":559.0,
         "ESTMAX":799.0,
         "SALDO":901,
-        "CUSTO":9.550164,
+        "CUSTO":9.539796,
         "DTNEG":"30032026 00:00:00"
     },
     {
@@ -228169,7 +228169,7 @@
         "ESTMIN":489.0,
         "ESTMAX":698.0,
         "SALDO":197,
-        "CUSTO":36.001872,
+        "CUSTO":27.955968,
         "DTNEG":"30032026 00:00:00"
     },
     {
