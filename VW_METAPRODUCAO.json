@@ -48751,7 +48751,7 @@
         "LINHA":"17 - DETERGENTE 500 1",
         "GRUPO":"10200100 - DETERGENTE",
         "QTDPREV":3678,
-        "QTDREAL":17,
+        "QTDREAL":42,
         "QTDMETA25":4046,
         "QTDPROD25":0
     },
@@ -48763,7 +48763,7 @@
         "LINHA":"17 - DETERGENTE 500 1",
         "GRUPO":"10200100 - DETERGENTE",
         "QTDPREV":3908,
-        "QTDREAL":15,
+        "QTDREAL":40,
         "QTDMETA25":4299,
         "QTDPROD25":0
     },
@@ -48775,7 +48775,7 @@
         "LINHA":"17 - DETERGENTE 500 1",
         "GRUPO":"10200100 - DETERGENTE",
         "QTDPREV":5410,
-        "QTDREAL":0,
+        "QTDREAL":50,
         "QTDMETA25":5951,
         "QTDPROD25":0
     },
@@ -48799,7 +48799,7 @@
         "LINHA":"129 - 500 MANUAL LIMPA ALUMÍNIO",
         "GRUPO":"10200200 - LIMPA ALUMINIO",
         "QTDPREV":2536,
-        "QTDREAL":3,
+        "QTDREAL":8,
         "QTDMETA25":2789,
         "QTDPROD25":0
     },
@@ -48895,7 +48895,7 @@
         "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
         "GRUPO":"10200300 - AMACIANTE",
         "QTDPREV":192,
-        "QTDREAL":0,
+        "QTDREAL":5,
         "QTDMETA25":211,
         "QTDPROD25":0
     },
@@ -49053,7 +49053,7 @@
         "QTDPREV":5822,
         "QTDREAL":105,
         "QTDMETA25":6404,
-        "QTDPROD25":320
+        "QTDPROD25":384
     },
     {
         "CODMETA":24,
@@ -49209,7 +49209,7 @@
         "QTDPREV":52427,
         "QTDREAL":1616,
         "QTDMETA25":57670,
-        "QTDPROD25":3961
+        "QTDPROD25":4885
     },
     {
         "CODMETA":24,
@@ -49423,9 +49423,9 @@
         "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
         "GRUPO":"10200300 - AMACIANTE",
         "QTDPREV":375,
-        "QTDREAL":0,
+        "QTDREAL":5,
         "QTDMETA25":413,
-        "QTDPROD25":96
+        "QTDPROD25":144
     },
     {
         "CODMETA":24,
@@ -49521,7 +49521,7 @@
         "QTDPREV":2456,
         "QTDREAL":177,
         "QTDMETA25":2702,
-        "QTDPROD25":1
+        "QTDPROD25":133
     },
     {
         "CODMETA":24,
@@ -50025,7 +50025,7 @@
         "QTDPREV":3516,
         "QTDREAL":3,
         "QTDMETA25":3870,
-        "QTDPROD25":504
+        "QTDPROD25":756
     },
     {
         "CODMETA":24,
@@ -50479,7 +50479,7 @@
         "LINHA":"7 - PURO ALHO 200-440-1000-2000 1",
         "GRUPO":"10100500 - PASTA DE ALHO",
         "QTDPREV":2413,
-        "QTDREAL":153,
+        "QTDREAL":163,
         "QTDMETA25":2417,
         "QTDPROD25":286
     },
@@ -50601,7 +50601,7 @@
         "QTDPREV":4195,
         "QTDREAL":9,
         "QTDMETA25":4614,
-        "QTDPROD25":340
+        "QTDPROD25":510
     },
     {
         "CODMETA":24,
@@ -50637,7 +50637,7 @@
         "QTDPREV":3009,
         "QTDREAL":4,
         "QTDMETA25":3310,
-        "QTDPROD25":234
+        "QTDPROD25":304
     },
     {
         "CODMETA":24,
