@@ -49183,9 +49183,9 @@
         "LINHA":"127 - 60-5000 MANUAL LIQUIDO 1",
         "GRUPO":"10100900 - FOOD SERVICE",
         "QTDPREV":1892,
-        "QTDREAL":0,
+        "QTDREAL":2,
         "QTDMETA25":2082,
-        "QTDPROD25":0
+        "QTDPROD25":117
     },
     {
         "CODMETA":24,
@@ -49207,9 +49207,9 @@
         "LINHA":"1 - VINAGRE 500 1",
         "GRUPO":"10100101 - VINAGRE TRADICIONAL 500\/750",
         "QTDPREV":52427,
-        "QTDREAL":0,
+        "QTDREAL":132,
         "QTDMETA25":57670,
-        "QTDPROD25":0
+        "QTDPROD25":1
     },
     {
         "CODMETA":24,
@@ -49291,7 +49291,7 @@
         "LINHA":"1 - VINAGRE 500 1",
         "GRUPO":"10100102 - VINAGRE SABOR 500",
         "QTDPREV":1489,
-        "QTDREAL":0,
+        "QTDREAL":3,
         "QTDMETA25":1638,
         "QTDPROD25":0
     },
@@ -49315,7 +49315,7 @@
         "LINHA":"1 - VINAGRE 500 1",
         "GRUPO":"10100102 - VINAGRE SABOR 500",
         "QTDPREV":468,
-        "QTDREAL":0,
+        "QTDREAL":3,
         "QTDMETA25":514,
         "QTDPROD25":0
     },
@@ -49521,7 +49521,7 @@
         "QTDPREV":2456,
         "QTDREAL":0,
         "QTDMETA25":2702,
-        "QTDPROD25":0
+        "QTDPROD25":1
     },
     {
         "CODMETA":24,
@@ -49687,7 +49687,7 @@
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10100201 - TEMPERO TRADICIONAL 500\/750",
         "QTDPREV":1485,
-        "QTDREAL":0,
+        "QTDREAL":3,
         "QTDMETA25":1634,
         "QTDPROD25":0
     },
@@ -50419,7 +50419,7 @@
         "LINHA":"6 - ADOÇANTE 100 1",
         "GRUPO":"10100801 - ADOCANTE TRADICIONAL",
         "QTDPREV":3607,
-        "QTDREAL":0,
+        "QTDREAL":6,
         "QTDMETA25":3968,
         "QTDPROD25":0
     },
@@ -50481,7 +50481,7 @@
         "QTDPREV":2413,
         "QTDREAL":0,
         "QTDMETA25":2417,
-        "QTDPROD25":0
+        "QTDPROD25":1
     },
     {
         "CODMETA":24,
@@ -50515,7 +50515,7 @@
         "LINHA":"7 - PURO ALHO 200-440-1000-2000 1",
         "GRUPO":"10100500 - PASTA DE ALHO",
         "QTDPREV":197,
-        "QTDREAL":0,
+        "QTDREAL":3,
         "QTDMETA25":198,
         "QTDPROD25":0
     },
@@ -50697,7 +50697,7 @@
         "QTDPREV":3733,
         "QTDREAL":0,
         "QTDMETA25":4107,
-        "QTDPROD25":0
+        "QTDPROD25":1
     },
     {
         "CODMETA":24,
@@ -50959,9 +50959,9 @@
         "LINHA":"12 - CANELA 35G PÓ",
         "GRUPO":"10101002 - CANELA POTE AMARELO",
         "QTDPREV":2006,
-        "QTDREAL":0,
+        "QTDREAL":3,
         "QTDMETA25":2207,
-        "QTDPROD25":0
+        "QTDPROD25":1
     },
     {
         "CODMETA":24,
@@ -51285,7 +51285,7 @@
         "QTDPREV":17,
         "QTDREAL":0,
         "QTDMETA25":18,
-        "QTDPROD25":0
+        "QTDPROD25":1
     },
     {
         "CODMETA":24,
@@ -51357,7 +51357,7 @@
         "QTDPREV":422,
         "QTDREAL":0,
         "QTDMETA25":463,
-        "QTDPROD25":0
+        "QTDPROD25":14
     },
     {
         "CODMETA":24,
@@ -51693,7 +51693,7 @@
         "QTDPREV":126,
         "QTDREAL":0,
         "QTDMETA25":127,
-        "QTDPROD25":0
+        "QTDPROD25":67
     },
     {
         "CODMETA":24,
