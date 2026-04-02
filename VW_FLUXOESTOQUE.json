@@ -226144,7 +226144,7 @@
         "GRUPO":"TEMPERO COMBATE 500",
         "ESTMIN":5790.0,
         "ESTMAX":8272.0,
-        "SALDO":3675,
+        "SALDO":3670,
         "CUSTO":5.710728,
         "DTNEG":"02042026 00:00:00"
     },
@@ -226749,7 +226749,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":534.0,
         "ESTMAX":763.0,
-        "SALDO":6,
+        "SALDO":4,
         "CUSTO":4.411464,
         "DTNEG":"02042026 00:00:00"
     },
@@ -227464,7 +227464,7 @@
         "GRUPO":"MOLHO 750",
         "ESTMIN":627.0,
         "ESTMAX":895.0,
-        "SALDO":102,
+        "SALDO":200,
         "CUSTO":13.650012,
         "DTNEG":"02042026 00:00:00"
     },
@@ -228839,7 +228839,7 @@
         "GRUPO":"TEMPERO SECO SACHE",
         "ESTMIN":384.0,
         "ESTMAX":548.0,
-        "SALDO":129,
+        "SALDO":128,
         "CUSTO":7.338816,
         "DTNEG":"02042026 00:00:00"
     },
