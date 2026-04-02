@@ -48751,7 +48751,7 @@
         "LINHA":"17 - DETERGENTE 500 1",
         "GRUPO":"10200100 - DETERGENTE",
         "QTDPREV":3678,
-        "QTDREAL":49,
+        "QTDREAL":74,
         "QTDMETA25":4046,
         "QTDPROD25":0
     },
@@ -48763,7 +48763,7 @@
         "LINHA":"17 - DETERGENTE 500 1",
         "GRUPO":"10200100 - DETERGENTE",
         "QTDPREV":3908,
-        "QTDREAL":40,
+        "QTDREAL":55,
         "QTDMETA25":4299,
         "QTDPROD25":0
     },
@@ -48775,7 +48775,7 @@
         "LINHA":"17 - DETERGENTE 500 1",
         "GRUPO":"10200100 - DETERGENTE",
         "QTDPREV":5410,
-        "QTDREAL":50,
+        "QTDREAL":60,
         "QTDMETA25":5951,
         "QTDPROD25":0
     },
@@ -48799,7 +48799,7 @@
         "LINHA":"129 - 500 MANUAL LIMPA ALUMÍNIO",
         "GRUPO":"10200200 - LIMPA ALUMINIO",
         "QTDPREV":2536,
-        "QTDREAL":10,
+        "QTDREAL":22,
         "QTDMETA25":2789,
         "QTDPROD25":0
     },
@@ -48847,7 +48847,7 @@
         "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
         "GRUPO":"10200100 - DETERGENTE",
         "QTDPREV":386,
-        "QTDREAL":2,
+        "QTDREAL":12,
         "QTDMETA25":425,
         "QTDPROD25":0
     },
@@ -48859,7 +48859,7 @@
         "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
         "GRUPO":"10200100 - DETERGENTE",
         "QTDPREV":479,
-        "QTDREAL":9,
+        "QTDREAL":24,
         "QTDMETA25":527,
         "QTDPROD25":162
     },
@@ -48895,7 +48895,7 @@
         "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
         "GRUPO":"10200300 - AMACIANTE",
         "QTDPREV":192,
-        "QTDREAL":5,
+        "QTDREAL":10,
         "QTDMETA25":211,
         "QTDPROD25":0
     },
@@ -48991,7 +48991,7 @@
         "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"10200700 - INSTITUCIONAL",
         "QTDPREV":304,
-        "QTDREAL":20,
+        "QTDREAL":35,
         "QTDMETA25":334,
         "QTDPROD25":0
     },
@@ -49015,7 +49015,7 @@
         "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"10200700 - INSTITUCIONAL",
         "QTDPREV":602,
-        "QTDREAL":0,
+        "QTDREAL":30,
         "QTDMETA25":663,
         "QTDPROD25":0
     },
@@ -49051,7 +49051,7 @@
         "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"10200500 - LAVA ROUPA",
         "QTDPREV":5822,
-        "QTDREAL":175,
+        "QTDREAL":275,
         "QTDMETA25":6404,
         "QTDPROD25":676
     },
@@ -49075,7 +49075,7 @@
         "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"10200800 - CONCENTRADO",
         "QTDPREV":8,
-        "QTDREAL":0,
+        "QTDREAL":1,
         "QTDMETA25":9,
         "QTDPROD25":0
     },
@@ -49209,7 +49209,7 @@
         "QTDPREV":52427,
         "QTDREAL":2107,
         "QTDMETA25":57670,
-        "QTDPROD25":6443
+        "QTDPROD25":6444
     },
     {
         "CODMETA":24,
@@ -49435,7 +49435,7 @@
         "LINHA":"19 - 2000-3000-5000 MANUAL LIMPEZA 1",
         "GRUPO":"10200700 - INSTITUCIONAL",
         "QTDPREV":271,
-        "QTDREAL":0,
+        "QTDREAL":10,
         "QTDMETA25":298,
         "QTDPROD25":0
     },
@@ -49569,7 +49569,7 @@
         "QTDPREV":9151,
         "QTDREAL":43,
         "QTDMETA25":10070,
-        "QTDPROD25":0
+        "QTDPROD25":132
     },
     {
         "CODMETA":24,
@@ -49665,7 +49665,7 @@
         "QTDPREV":534,
         "QTDREAL":13,
         "QTDMETA25":588,
-        "QTDPROD25":262
+        "QTDPROD25":263
     },
     {
         "CODMETA":24,
@@ -50025,7 +50025,7 @@
         "QTDPREV":3516,
         "QTDREAL":45,
         "QTDMETA25":3870,
-        "QTDPROD25":1577
+        "QTDPROD25":1578
     },
     {
         "CODMETA":24,
@@ -50421,7 +50421,7 @@
         "QTDPREV":3607,
         "QTDREAL":175,
         "QTDMETA25":3968,
-        "QTDPROD25":590
+        "QTDPROD25":591
     },
     {
         "CODMETA":24,
@@ -50601,7 +50601,7 @@
         "QTDPREV":4195,
         "QTDREAL":120,
         "QTDMETA25":4614,
-        "QTDPROD25":1133
+        "QTDPROD25":1135
     },
     {
         "CODMETA":24,
@@ -50973,6 +50973,18 @@
         "QTDPREV":643,
         "QTDREAL":0,
         "QTDMETA25":708,
+        "QTDPROD25":0
+    },
+    {
+        "CODMETA":24,
+        "MES":"Abril",
+        "ANO":"2026",
+        "PRODUTO":"8646 - CANELA PO POTE 35G DATERRA",
+        "LINHA":"12 - CANELA 35G PÓ",
+        "GRUPO":"10101002 - CANELA POTE AMARELO",
+        "QTDPREV":0,
+        "QTDREAL":40,
+        "QTDMETA25":0,
         "QTDPROD25":0
     },
     {
