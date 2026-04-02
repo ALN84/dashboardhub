@@ -48979,7 +48979,7 @@
         "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
         "GRUPO":"10200500 - LAVA ROUPA",
         "QTDPREV":434,
-        "QTDREAL":0,
+        "QTDREAL":1,
         "QTDMETA25":477,
         "QTDPROD25":0
     },
@@ -49111,7 +49111,7 @@
         "LINHA":"20 - CATCHUP 180-200-380",
         "GRUPO":"10100601 - CATCHUP\/MOST\/BARB 190-200-380",
         "QTDPREV":2240,
-        "QTDREAL":97,
+        "QTDREAL":100,
         "QTDMETA25":2474,
         "QTDPROD25":849
     },
@@ -49123,7 +49123,7 @@
         "LINHA":"20 - CATCHUP 180-200-380",
         "GRUPO":"10100601 - CATCHUP\/MOST\/BARB 190-200-380",
         "QTDPREV":781,
-        "QTDREAL":37,
+        "QTDREAL":39,
         "QTDMETA25":862,
         "QTDPROD25":0
     },
@@ -49135,7 +49135,7 @@
         "LINHA":"20 - CATCHUP 180-200-380",
         "GRUPO":"10100601 - CATCHUP\/MOST\/BARB 190-200-380",
         "QTDPREV":2885,
-        "QTDREAL":62,
+        "QTDREAL":67,
         "QTDMETA25":3186,
         "QTDPROD25":0
     },
@@ -49171,7 +49171,7 @@
         "LINHA":"20 - CATCHUP 180-200-380",
         "GRUPO":"10100603 - CREME DE ALHO\/PASTA PAO DE ALH",
         "QTDPREV":241,
-        "QTDREAL":54,
+        "QTDREAL":55,
         "QTDMETA25":266,
         "QTDPROD25":0
     },
@@ -49185,7 +49185,7 @@
         "QTDPREV":1892,
         "QTDREAL":9,
         "QTDMETA25":2082,
-        "QTDPROD25":514
+        "QTDPROD25":577
     },
     {
         "CODMETA":24,
@@ -49207,7 +49207,7 @@
         "LINHA":"1 - VINAGRE 500 1",
         "GRUPO":"10100101 - VINAGRE TRADICIONAL 500\/750",
         "QTDPREV":52427,
-        "QTDREAL":2178,
+        "QTDREAL":2182,
         "QTDMETA25":57670,
         "QTDPROD25":6444
     },
@@ -49291,7 +49291,7 @@
         "LINHA":"1 - VINAGRE 500 1",
         "GRUPO":"10100102 - VINAGRE SABOR 500",
         "QTDPREV":1489,
-        "QTDREAL":25,
+        "QTDREAL":26,
         "QTDMETA25":1638,
         "QTDPROD25":0
     },
@@ -49423,7 +49423,7 @@
         "LINHA":"18 - AMACIANTE\/DESINFETANTE\/LAVA-ROUPAS MANUAL 1",
         "GRUPO":"10200300 - AMACIANTE",
         "QTDPREV":375,
-        "QTDREAL":36,
+        "QTDREAL":37,
         "QTDMETA25":413,
         "QTDPROD25":337
     },
@@ -49569,7 +49569,7 @@
         "QTDPREV":9151,
         "QTDREAL":199,
         "QTDMETA25":10070,
-        "QTDPROD25":1056
+        "QTDPROD25":1452
     },
     {
         "CODMETA":24,
@@ -49927,7 +49927,7 @@
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10101101 - TEMPERO GOURMET MR MAKER",
         "QTDPREV":1147,
-        "QTDREAL":20,
+        "QTDREAL":21,
         "QTDMETA25":1263,
         "QTDPROD25":0
     },
@@ -49965,7 +49965,7 @@
         "QTDPREV":989,
         "QTDREAL":28,
         "QTDMETA25":1088,
-        "QTDPROD25":132
+        "QTDPROD25":232
     },
     {
         "CODMETA":24,
@@ -49975,7 +49975,7 @@
         "LINHA":"3 - TEMPERO 500 1 & 2",
         "GRUPO":"10101101 - TEMPERO GOURMET MR MAKER",
         "QTDPREV":703,
-        "QTDREAL":30,
+        "QTDREAL":31,
         "QTDMETA25":774,
         "QTDPROD25":0
     },
@@ -50011,7 +50011,7 @@
         "LINHA":"5 - MOLHINHO 150 1",
         "GRUPO":"10100301 - MOLHO 150",
         "QTDPREV":4111,
-        "QTDREAL":89,
+        "QTDREAL":91,
         "QTDMETA25":4525,
         "QTDPROD25":0
     },
@@ -50035,7 +50035,7 @@
         "LINHA":"5 - MOLHINHO 150 1",
         "GRUPO":"10100301 - MOLHO 150",
         "QTDPREV":4766,
-        "QTDREAL":183,
+        "QTDREAL":185,
         "QTDMETA25":5246,
         "QTDPROD25":0
     },
@@ -50431,7 +50431,7 @@
         "LINHA":"6 - ADOÇANTE 100 1",
         "GRUPO":"10100802 - ADOCANTE SABOR",
         "QTDPREV":1078,
-        "QTDREAL":79,
+        "QTDREAL":80,
         "QTDMETA25":1186,
         "QTDPROD25":0
     },
@@ -50443,7 +50443,7 @@
         "LINHA":"6 - ADOÇANTE 100 1",
         "GRUPO":"10100802 - ADOCANTE SABOR",
         "QTDPREV":3150,
-        "QTDREAL":123,
+        "QTDREAL":125,
         "QTDMETA25":3465,
         "QTDPROD25":0
     },
@@ -50479,7 +50479,7 @@
         "LINHA":"7 - PURO ALHO 200-440-1000-2000 1",
         "GRUPO":"10100500 - PASTA DE ALHO",
         "QTDPREV":2413,
-        "QTDREAL":233,
+        "QTDREAL":234,
         "QTDMETA25":2417,
         "QTDPROD25":286
     },
@@ -50589,7 +50589,7 @@
         "QTDPREV":26917,
         "QTDREAL":480,
         "QTDMETA25":29608,
-        "QTDPROD25":398
+        "QTDPROD25":738
     },
     {
         "CODMETA":24,
@@ -50697,7 +50697,7 @@
         "QTDPREV":3733,
         "QTDREAL":143,
         "QTDMETA25":4107,
-        "QTDPROD25":501
+        "QTDPROD25":705
     },
     {
         "CODMETA":24,
@@ -50779,7 +50779,7 @@
         "LINHA":"9 - CATCHUP 750-800-830",
         "GRUPO":"10100602 - CATCHUP\/MOST\/BARB 800-830",
         "QTDPREV":4670,
-        "QTDREAL":15,
+        "QTDREAL":16,
         "QTDMETA25":5137,
         "QTDPROD25":0
     },
@@ -50959,7 +50959,7 @@
         "LINHA":"12 - CANELA 35G PÓ",
         "GRUPO":"10101002 - CANELA POTE AMARELO",
         "QTDPREV":2006,
-        "QTDREAL":149,
+        "QTDREAL":150,
         "QTDMETA25":2207,
         "QTDPROD25":1
     },
